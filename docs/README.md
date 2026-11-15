@@ -98,7 +98,7 @@ Fateh, A., Rezvani, Y., Moayedi, S. et al. (2026). *BRISC: Annotated Dataset for
 * [Artículo científico (DOI)](https://doi.org/10.1038/s41597-026-06753-y)
 * [Conjunto de datos BRISC2025](https://www.kaggle.com/datasets/briscdataset/brisc2025/)
 
-Los datos reales de BRISC2025 no se redistribuyen en este repositorio. Las instrucciones para obtenerlos, organizarlos y aplicar la depuración se encuentran en [`data/README.md`](data/README.md).
+Los datos reales de BRISC2025 no se redistribuyen en este repositorio. Las instrucciones para obtenerlos, organizarlos y aplicar la depuración se encuentran en [`data/README.md`](../data/README.md).
 
 Después del procedimiento de depuración, el diseño experimental contempla 3.792 pares de entrenamiento, 420 de validación y 420 de prueba final. 
 
