@@ -1,0 +1,8 @@
+{
+  "analysis": "hist_no_tumoral",
+  "statistic": 0.009188841778318978,
+  "p_value": 0.0005,
+  "n_permutations": 1999,
+  "status": "evaluable",
+  "target": "distribuciones de descriptores en casos evaluables"
+}

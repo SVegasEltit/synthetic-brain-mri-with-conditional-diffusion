@@ -1,0 +1,27 @@
+{
+  "version": "OE4_1260_v2",
+  "fingerprint_schema": "sha256_contenido_v1",
+  "datos": {
+    "train": "9e3b9d8c050448ba0f0fc6a9ad262a16bacb0e9cd431053f6bd08f67062f48e8",
+    "test_final": "659e99229313897940471594adae7f40709452a8da71c815f714ca74eb76bdfc",
+    "conjunto_1260": "6c2993b6c7587685b08dc29f515e13d4246c34f9c2e1af12bd749cdb5b9d63cf"
+  },
+  "extractor": {
+    "version": "OE4_1260_v2",
+    "extractor": "DINOv2_S",
+    "image_size": 256,
+    "preprocess": "AutoImageProcessor CLS token",
+    "revision": "main",
+    "packages": {
+      "torch": "2.11.0+cu128",
+      "torchvision": "0.26.0+cu128",
+      "transformers": "5.9.0",
+      "pytorch-fid": "0.3.0",
+      "Pillow": "12.2.0"
+    }
+  },
+  "n_repeticiones": 1000,
+  "seed": 20261110,
+  "covariance": "n-1",
+  "submuestreo": "sin reemplazo, composición de test_final"
+}

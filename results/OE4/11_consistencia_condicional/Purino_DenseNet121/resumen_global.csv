@@ -1,0 +1,3 @@
+﻿model,dataset,accuracy_evaluable,accuracy_contando_fallos,macro_9_accuracy,macro_f1_3_tumores,n_total,n_evaluable,n_errores_tecnicos,n_pred_no_tumor
+Purino_DenseNet121,conjunto_1260,0.9619047619047619,0.9619047619047619,0.9619047619047618,0.9621338909378626,1260,1260,0,0
+Purino_DenseNet121,test_final,0.9904761904761905,0.9904761904761905,0.9903329006854888,0.9905299868223468,420,420,0,0

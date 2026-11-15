@@ -1,0 +1,30 @@
+{
+  "fuentes": "653676f4766937a69460c20aa61c48bf96f9c697aa179af7d959671193174f21",
+  "seed": 20261110,
+  "conjuntos": 1,
+  "pares_finales": 1260,
+  "existentes": 900,
+  "nuevos_por_condicion": 40,
+  "ddim": [
+    200,
+    0.2
+  ],
+  "n_frechet": 1000,
+  "n_permutaciones": 1999,
+  "secciones": {
+    "generar_mascaras": false,
+    "generar_imagenes": false,
+    "calidad": true,
+    "fid": true,
+    "fd_dinov2": true,
+    "dice": true,
+    "hd95": true,
+    "intensidades": true,
+    "densidad_cobertura": true,
+    "clasificacion": true,
+    "galeria_sinteticos": true,
+    "ejemplos_segformer": true,
+    "actualizar_figuras": true
+  },
+  "nota": "Parámetros definidos antes de evaluar test_final"
+}

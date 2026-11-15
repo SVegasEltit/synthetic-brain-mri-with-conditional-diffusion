@@ -1,0 +1,4 @@
+﻿region,p_value,familia,p_holm_familia_3
+completa,0.0005,tres_regiones_de_intensidad,0.0015
+tumor,0.0005,tres_regiones_de_intensidad,0.0015
+no_tumoral,0.0005,tres_regiones_de_intensidad,0.0015

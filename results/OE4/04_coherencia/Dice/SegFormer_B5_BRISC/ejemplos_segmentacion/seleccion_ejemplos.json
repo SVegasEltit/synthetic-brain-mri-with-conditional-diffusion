@@ -1,0 +1,26 @@
+{
+  "criterio": "aleatorio uniforme entre casos con Dice >= mínimo; si no hay ninguno, máximo Dice disponible, sin repetir casos",
+  "semilla_base": 20261110,
+  "seleccionados": [
+    {
+      "ejemplo": "bueno",
+      "case_key": "oe3_existente__me_ax__oe2_attempt_000408_me_ax",
+      "display_id": "0738",
+      "condition": "me_ax",
+      "dice_minimo_solicitado": 0.97,
+      "dice_observado": 0.968765828127638,
+      "umbral_cumplido": false,
+      "archivo_pdf": "ejemplo_segmentacion_SegFormer_B5_BRISC_bueno.pdf"
+    },
+    {
+      "ejemplo": "mediano",
+      "case_key": "oe3_existente__pi_co__oe2_attempt_000839_pi_co",
+      "display_id": "1129",
+      "condition": "pi_co",
+      "dice_minimo_solicitado": 0.67,
+      "dice_observado": 0.7162162162162162,
+      "umbral_cumplido": true,
+      "archivo_pdf": "ejemplo_segmentacion_SegFormer_B5_BRISC_mediano.pdf"
+    }
+  ]
+}

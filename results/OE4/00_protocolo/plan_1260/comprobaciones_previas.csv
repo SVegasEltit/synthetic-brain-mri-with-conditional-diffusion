@@ -1,0 +1,10 @@
+﻿item,value,ok
+BRISC train,K:\Tesis\Github\data\BRISC2025\segmentation_task\train,True
+BRISC test,K:\Tesis\Github\data\BRISC2025\segmentation_task\test,True
+Partición,K:\Tesis\Github\results\OE2\particiones\brisc_test_validation_test_50_50.csv,True
+torch,PyTorch,True
+torchvision,torchvision,True
+safetensors,safetensors,True
+huggingface_hub,huggingface-hub,True
+transformers,transformers,True
+pytorch_fid,pytorch-fid,True

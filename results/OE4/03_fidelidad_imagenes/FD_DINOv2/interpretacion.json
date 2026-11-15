@@ -1,0 +1,15 @@
+{
+  "interpretacion": "No es prueba de igualdad ni equivalencia. Test permanece fijo. Las repeticiones reutilizan datos y no corrigen sesgo FID. Tres lotes no son tres entrenamientos.",
+  "n_por_grupo": 420,
+  "composicion": {
+    "me_ax": 62,
+    "pi_ax": 62,
+    "pi_co": 45,
+    "gl_sa": 44,
+    "pi_sa": 43,
+    "gl_ax": 42,
+    "me_co": 41,
+    "me_sa": 41,
+    "gl_co": 40
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "generar_mascaras": {
+    "estado": "desactivado"
+  },
+  "generar_imagenes": {
+    "estado": "desactivado"
+  },
+  "calidad": {
+    "estado": "completado",
+    "segundos": 91.73523330688477
+  },
+  "fid": {
+    "estado": "completado",
+    "segundos": 890.7992238998413
+  },
+  "fd_dinov2": {
+    "estado": "completado",
+    "segundos": 225.63040351867676
+  },
+  "dice_y_hd95": {
+    "estado": "completado",
+    "segundos": 142.64703464508057
+  },
+  "ejemplos_segformer": {
+    "estado": "completado",
+    "segundos": 4.9497973918914795
+  },
+  "intensidades": {
+    "estado": "completado",
+    "segundos": 16.605027437210083
+  },
+  "densidad_cobertura": {
+    "estado": "completado",
+    "segundos": 26.946956157684326
+  },
+  "clasificacion": {
+    "estado": "completado",
+    "segundos": 13.594727754592896
+  },
+  "actualizar_figuras": {
+    "estado": "completado",
+    "segundos": 1.9924497604370117
+  },
+  "galeria_sinteticos": {
+    "estado": "completado",
+    "segundos": 5.9093358516693115
+  }
+}

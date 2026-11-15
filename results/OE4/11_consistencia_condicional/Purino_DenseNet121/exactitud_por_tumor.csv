@@ -1,0 +1,7 @@
+﻿model,dataset,tumor_code,accuracy,n_total
+Purino_DenseNet121,conjunto_1260,gl,0.9547619047619048,420
+Purino_DenseNet121,conjunto_1260,me,0.9785714285714285,420
+Purino_DenseNet121,conjunto_1260,pi,0.9523809523809523,420
+Purino_DenseNet121,test_final,gl,0.9841269841269841,126
+Purino_DenseNet121,test_final,me,1.0,144
+Purino_DenseNet121,test_final,pi,0.9866666666666667,150

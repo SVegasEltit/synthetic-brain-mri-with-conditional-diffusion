@@ -1,0 +1,12 @@
+{
+  "significado": "Concordancia entre clase solicitada y predicha por un clasificador auxiliar.",
+  "limitaciones": [
+    "No valida diagnóstico clínico ni plano anatómico.",
+    "La independencia respecto de BRISC no ha sido demostrada.",
+    "La coincidencia no garantiza coherencia espacial imagen–máscara."
+  ],
+  "referencias": {
+    "arquitectura": "https://doi.org/10.1109/CVPR.2017.243",
+    "checkpoint": "https://huggingface.co/Purino/densenet121-brain-mri-tumor"
+  }
+}

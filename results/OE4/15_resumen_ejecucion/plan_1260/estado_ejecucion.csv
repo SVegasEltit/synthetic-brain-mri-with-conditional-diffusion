@@ -1,0 +1,13 @@
+﻿analysis,estado,segundos
+generar_mascaras,desactivado,
+generar_imagenes,desactivado,
+calidad,completado,91.73523330688477
+fid,completado,890.7992238998413
+fd_dinov2,completado,225.63040351867676
+dice_y_hd95,completado,142.64703464508057
+ejemplos_segformer,completado,4.9497973918914795
+intensidades,completado,16.605027437210083
+densidad_cobertura,completado,26.946956157684326
+clasificacion,completado,13.594727754592896
+actualizar_figuras,completado,1.9924497604370117
+galeria_sinteticos,completado,5.9093358516693115

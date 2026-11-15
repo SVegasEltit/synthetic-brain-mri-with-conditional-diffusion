@@ -1,0 +1,19 @@
+{
+  "python": "3.11.15 | packaged by Anaconda, Inc. | (main, Mar 11 2026, 17:12:15) [MSC v.1942 64 bit (AMD64)]",
+  "sistema": "Windows-10-10.0.19045-SP0",
+  "paquetes": {
+    "numpy": "2.4.4",
+    "pandas": "3.0.3",
+    "scipy": "1.17.1",
+    "matplotlib": "3.10.9",
+    "scikit-image": "0.26.0",
+    "Pillow": "12.2.0",
+    "torch": "2.11.0+cu128",
+    "torchvision": "0.26.0+cu128",
+    "transformers": "5.9.0",
+    "pytorch-fid": "0.3.0",
+    "tensorflow": "2.21.0",
+    "tf-keras": "2.21.0",
+    "huggingface-hub": "1.17.0"
+  }
+}

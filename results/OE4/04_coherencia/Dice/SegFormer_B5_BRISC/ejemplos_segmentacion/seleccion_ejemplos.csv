@@ -1,0 +1,3 @@
+﻿ejemplo,case_key,display_id,condition,dice_minimo_solicitado,dice_observado,umbral_cumplido,archivo_pdf
+bueno,oe3_existente__me_ax__oe2_attempt_000408_me_ax,0738,me_ax,0.97,0.968765828127638,False,ejemplo_segmentacion_SegFormer_B5_BRISC_bueno.pdf
+mediano,oe3_existente__pi_co__oe2_attempt_000839_pi_co,1129,pi_co,0.67,0.7162162162162162,True,ejemplo_segmentacion_SegFormer_B5_BRISC_mediano.pdf

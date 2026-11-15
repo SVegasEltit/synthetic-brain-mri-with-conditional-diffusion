@@ -1,0 +1,10 @@
+{
+  "version": "OE4_1260_v2",
+  "fingerprint_schema": "sha256_contenido_v1",
+  "datos": "653676f4766937a69460c20aa61c48bf96f9c697aa179af7d959671193174f21",
+  "sinteticas": "6c2993b6c7587685b08dc29f515e13d4246c34f9c2e1af12bd749cdb5b9d63cf",
+  "label": "hist_no_tumoral",
+  "perm": 1999,
+  "references": 200,
+  "seed": 20261110
+}

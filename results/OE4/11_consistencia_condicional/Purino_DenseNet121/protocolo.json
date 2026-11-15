@@ -1,0 +1,64 @@
+{
+  "version": "OE4_1260_v2",
+  "fingerprint_schema": "sha256_contenido_v1",
+  "dataset_signature": "a02e982ef7b7f0f08df26368dc10eb6cb83835dc59047a06d14c23d7dcfa8880",
+  "model": {
+    "model": "Purino_DenseNet121",
+    "repository": "Purino/densenet121-brain-mri-tumor",
+    "revision_requested": "main",
+    "snapshot": "426ac19bcd9dddb6f3d9ccf649b40454894014d4",
+    "checkpoint_sha256": "4688f383ed8917f0b66399c5f8b3ba80a4725d625f08b9269ea06ec9b52db54e",
+    "class_order": [
+      "gl",
+      "me",
+      "no_tumor",
+      "pi"
+    ],
+    "input_size": [
+      256,
+      256
+    ],
+    "preprocess": "RGB letterbox 256x256; padding negro; normalización ImageNet",
+    "classifier": "DenseNet-121 (torchvision)",
+    "checkpoint_config": {
+      "architecture": "densenet121",
+      "classes": [
+        "glioma",
+        "meningioma",
+        "no_tumor",
+        "pituitary"
+      ],
+      "id2label": {
+        "0": "glioma",
+        "1": "meningioma",
+        "2": "no_tumor",
+        "3": "pituitary"
+      },
+      "label2id": {
+        "glioma": 0,
+        "meningioma": 1,
+        "no_tumor": 2,
+        "pituitary": 3
+      },
+      "image_size": 256,
+      "resize_mode": "letterbox",
+      "mean": [
+        0.485,
+        0.456,
+        0.406
+      ],
+      "std": [
+        0.229,
+        0.224,
+        0.225
+      ],
+      "drop_rate": 0.1,
+      "output": "logits"
+    },
+    "source": "https://huggingface.co/Purino/densenet121-brain-mri-tumor",
+    "reference_architecture": "Huang et al. (2017), Densely Connected Convolutional Networks",
+    "interpretation": "Evaluador auxiliar; independencia de BRISC no demostrada."
+  },
+  "classifier_pipeline": "purino_integral_v2",
+  "decision": "argmax de cuatro clases; no_tumor se considera error para clases tumorales"
+}

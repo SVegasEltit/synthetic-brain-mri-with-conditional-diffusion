@@ -1,0 +1,8 @@
+{
+  "analysis": "hist_completa",
+  "statistic": 0.008941991528188427,
+  "p_value": 0.0005,
+  "n_permutations": 1999,
+  "status": "evaluable",
+  "target": "distribuciones de descriptores en casos evaluables"
+}
