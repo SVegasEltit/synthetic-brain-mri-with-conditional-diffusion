@@ -1,0 +1,22 @@
+# Python 3.11 | Dependencies for notebooks OE0-OE4
+# PyTorch 2.11.0 with CUDA 12.8 (Windows 10 Pro).
+
+
+
+torch==2.11.0+cu128
+torchvision==0.26.0
+numpy
+pandas
+scipy
+matplotlib
+Pillow
+scikit-image
+scikit-learn
+statsmodels
+ipython
+ipykernel
+tqdm
+pytorch-fid
+transformers
+huggingface-hub
+safetensors
