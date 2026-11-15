@@ -1,0 +1,126 @@
+{
+  "description": "evaluacion_pesos_ROI: tres pesos, máscaras finales aceptadas sigma=2",
+  "model_colors": {
+    "BRISC real": "#4D4D4D",
+    "w=0.1": "#6BAED6",
+    "w=0.5": "#F4A261",
+    "w=1.0": "#7BC96F"
+  },
+  "histograms": {
+    "style": "stepfilled con alpha",
+    "real_alpha": 0.38,
+    "model_alpha": 0.45,
+    "bins_continuous": 35,
+    "discrete_components": "barras de frecuencia relativa",
+    "weighting": "mezcla equilibrada por las nueve condiciones",
+    "files": "dos figuras 3x3 y tres figuras 2x3 por modelo"
+  },
+  "gallery": {
+    "images_per_condition": 3,
+    "n_conditions": 9,
+    "per_model": 27,
+    "total": 81,
+    "random_seed": 42,
+    "source": "manifest accepted de suavizado200"
+  },
+  "training": {
+    "source": "tablas/history.csv para cada modelo",
+    "selection": "minima val_ema_total_loss en cada modelo",
+    "caution": "las pérdidas absolutas de diferentes pesos no son comparables como calidad generativa"
+  },
+  "configuration": {
+    "BRISC_TRAIN_MASK_DIR": "data/BRISC2025/segmentation_task/train/masks",
+    "EXCLUSION_CSV": "data/BRISC2025/segmentation_task/train/exclusiones_oe2.csv",
+    "BERNOULLI_ROOT": "results/OE2/difusion_bernoulli",
+    "OUTPUT_SUBDIR": "results/OE2/evaluacion_pesos_ROI",
+    "PROFILE": "final",
+    "POSTPROCESS_FOLDER": "suavizado200",
+    "MASK_THRESHOLD_REAL": 127,
+    "MASK_THRESHOLD_SYNTH": 0,
+    "MASK_CONNECTIVITY": 2,
+    "EXPECTED_PER_CONDITION": 100,
+    "REQUIRE_EQUAL_COUNTS": true,
+    "VERIFY_SAVED_FEATURES": true,
+    "NUMERIC_TOLERANCE": 1e-05,
+    "ENERGY_CHUNK": 384,
+    "PLOT_DPI": 300,
+    "RANDOM_SEED": 42,
+    "KS_N_PERMUTATIONS": 999,
+    "KS_ALPHA": 0.05,
+    "CVM_N_PERMUTATIONS": 999,
+    "CVM_ALPHA": 0.05
+  },
+  "model_roots": {
+    "w=0.1": "K:\\Tesis\\Github\\results\\OE2\\difusion_bernoulli\\final\\roiOE1_peso01",
+    "w=0.5": "K:\\Tesis\\Github\\results\\OE2\\difusion_bernoulli\\final\\roiOE1_peso05",
+    "w=1.0": "K:\\Tesis\\Github\\results\\OE2\\difusion_bernoulli\\final\\roiOE1_peso10"
+  },
+  "real_source": "K:\\Tesis\\Github\\data\\BRISC2025\\segmentation_task\\train\\masks",
+  "conditions": [
+    "gl_ax",
+    "gl_co",
+    "gl_sa",
+    "me_ax",
+    "me_co",
+    "me_sa",
+    "pi_ax",
+    "pi_co",
+    "pi_sa"
+  ],
+  "features": [
+    "area_fraction",
+    "centroid_x",
+    "centroid_y",
+    "bbox_w",
+    "bbox_h",
+    "n_components"
+  ],
+  "real_reference": "BRISC segmentation_task/train, excluyendo vacias y exclusiones_oe2.csv",
+  "feature_extraction": "misma funcion geometrica OE2, en resolucion nativa de PNG reales y sinteticos",
+  "global_mixture": "9 condiciones equiprobables: cada mascara tiene peso 1/(9*n_condition)",
+  "standardization": "media y desviacion poblacional ponderadas sobre BRISC train equilibrado",
+  "global_wasserstein": "media de 6 Wasserstein-1 univariadas con pesos de mezcla y z-score comun",
+  "energy_distance": "2Exy-Exx-Eyy de las 6 variables z; estimador empirico V ponderado, distancia Euclidiana",
+  "ks_equality_test": {
+    "test": "KS global ponderado; Monte Carlo permutando etiquetas dentro de cada una de 9 condiciones",
+    "null_hypothesis": "igualdad real/sintetico de distribuciones condicionales de la variable en todas las condiciones",
+    "null_scope_note": "el estadistico es marginal equilibrado; permutacion asume intercambiabilidad dentro de cada condicion",
+    "tested_features": [
+      "area_fraction",
+      "centroid_x",
+      "centroid_y",
+      "bbox_w",
+      "bbox_h"
+    ],
+    "n_permutations": 999,
+    "p_value": "(1 + permutaciones_con_D>=D_observado)/(B+1)",
+    "multiple_testing": "Holm para 15 tests, BH adicional; alfa 0.05",
+    "interpretation": "no rechazo no significa igualdad; p no es medida de semejanza",
+    "exclusion": "n_components es discreta y no se incluye",
+    "postselection_warning": "mascaras sinteticas aceptadas por QC construido con BRISC train; p-valores exploratorios postseleccion, NO validacion inferencial independiente del generador",
+    "ks_affine_invariance": "D_KS no cambia al aplicar el mismo z-score positivo a real y sintetico"
+  },
+  "cvm_equality_test": {
+    "test": "CvM ponderado de las mezclas globales por condicion, via permutacion estratificada",
+    "statistic": "integral de (F_real-F_sint)^2 respecto H=(F_real+F_sint)/2; exacta sobre los saltos empiricos, empates agrupados",
+    "null_hypothesis": "intercambiabilidad real/sintetico dentro de cada una de las nueve condiciones",
+    "n_permutations": 999,
+    "p_value": "(1 + permutaciones_con_CvM>=CvM_observado)/(B+1)",
+    "multiple_testing": "Holm/BH por familia de 15; Holm conjunto de 30 pruebas KS+CvM para interpretacion global",
+    "continuous_features": [
+      "area_fraction",
+      "centroid_x",
+      "centroid_y",
+      "bbox_w",
+      "bbox_h"
+    ],
+    "ties": "agrupados al calcular las ECDF e integral respecto a H",
+    "postselection_warning": "exploratorio: QC sintetico basado en BRISC train; no es validacion inferencial independiente",
+    "scope": "estadistico marginal balanceado, nulidad intercambiable por condicion",
+    "non_rejection": "no demuestra equivalencia ni igualdad de distribuciones"
+  },
+  "conditional_wasserstein": "media de seis W1 por condicion, z-score global BRISC train",
+  "qc_rate": "sum(aceptadas)/sum(intentos); motivos de rechazo pueden solaparse",
+  "selection_rule": "Wasserstein global es principal, Energy, comprobacion por condicion y QC complementarios. Sin score combinado.",
+  "note": "QC ya aplicado con limites reales de train: la comparacion es postseleccion, no calidad sin filtro."
+}

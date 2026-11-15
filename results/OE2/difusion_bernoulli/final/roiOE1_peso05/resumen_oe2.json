@@ -1,0 +1,69 @@
+{
+  "method": "bernoulli",
+  "profile": "final",
+  "roi_definition": "R_i = Omega_i \\ B_i,15; B_i,15 = componentes de I<=15 conectadas al borde",
+  "roi_threshold": 15,
+  "roi_connectivity": 2,
+  "roi_outside_weight": 0.5,
+  "mask_threshold": 127,
+  "mask_connectivity": 2,
+  "weight_folder": "roiOE1_peso05",
+  "roi_cache_root": "K:\\Tesis\\Github estructura\\results\\objetivo_especifico_2\\preprocesamiento\\roiOE1_umbral15",
+  "shared_test_split_csv": "K:\\Tesis\\Github estructura\\results\\particiones\\brisc_test_validation_test_50_50.csv",
+  "n_train": 3792,
+  "n_validation": 420,
+  "n_test_final_reserved": 420,
+  "conditions": [
+    "gl_ax",
+    "gl_co",
+    "gl_sa",
+    "me_ax",
+    "me_co",
+    "me_sa",
+    "pi_ax",
+    "pi_co",
+    "pi_sa"
+  ],
+  "device": "cuda",
+  "torch_version": "2.11.0+cu128",
+  "best_checkpoint": "K:\\Tesis\\Github estructura\\results\\objetivo_especifico_2\\bernoulli\\final\\roiOE1_peso05\\checkpoints\\best.pt",
+  "lr": 0.0001,
+  "timesteps": 1000,
+  "sampling_steps": 100,
+  "lambda_bce": 1.0,
+  "qc": {
+    "continuous_features": [
+      "area_fraction",
+      "centroid_x",
+      "centroid_y",
+      "bbox_w",
+      "bbox_h"
+    ],
+    "q_low": 0.005,
+    "q_high": 0.995,
+    "components_rule": "max_train_por_condicion",
+    "min_component_pixels_before_smoothing": 8,
+    "postprocess_sigma": 2.0,
+    "postprocess_threshold": 0.5
+  },
+  "validation_metrics": [
+    "total_loss",
+    "vb_loss",
+    "bce_loss",
+    "dice",
+    "iou",
+    "fg_real",
+    "fg_pred",
+    "empty_pred",
+    "fg_mse",
+    "bg_mse",
+    "flip_real",
+    "flip_pred"
+  ],
+  "diagnostic_files": {
+    "history": "K:\\Tesis\\Github estructura\\results\\objetivo_especifico_2\\bernoulli\\final\\roiOE1_peso05\\tablas\\history.csv",
+    "timestep_history": "K:\\Tesis\\Github estructura\\results\\objetivo_especifico_2\\bernoulli\\final\\roiOE1_peso05\\tablas\\val_timestep_history.csv",
+    "qc_ranges": "K:\\Tesis\\Github estructura\\results\\objetivo_especifico_2\\bernoulli\\final\\roiOE1_peso05\\tablas\\qc_ranges_train.csv",
+    "qc_validation": "K:\\Tesis\\Github estructura\\results\\objetivo_especifico_2\\bernoulli\\final\\roiOE1_peso05\\tablas\\qc_validacion_real.csv"
+  }
+}

@@ -1,0 +1,4 @@
+model,weight,n_epochs_logged,first_epoch,last_epoch,best_epoch_ema,best_val_ema_total_loss,best_val_ema_dice,best_val_ema_iou,last_val_ema_total_loss,last_val_ema_dice,last_val_ema_iou,history_path
+w=0.1,0.1,150,1,150,149,0.0515729138805043,0.5650970118386405,0.5171446019694919,0.0515754385008698,0.5652325598966508,0.5173541159856887,K:\Tesis\Github\results\OE2\difusion_bernoulli\final\roiOE1_peso01\tablas\history.csv
+w=0.5,0.5,150,1,150,100,0.0393100183013649,0.5637570341428121,0.5166838637420109,0.0393686767756229,0.564265870764142,0.51737897112256,K:\Tesis\Github\results\OE2\difusion_bernoulli\final\roiOE1_peso05\tablas\history.csv
+w=1.0,1.0,150,1,150,141,0.0310307974527989,0.5641916533311208,0.5166335154147376,0.0310633157956458,0.5646463079111916,0.5170237467402503,K:\Tesis\Github\results\OE2\difusion_bernoulli\final\roiOE1_peso10\tablas\history.csv

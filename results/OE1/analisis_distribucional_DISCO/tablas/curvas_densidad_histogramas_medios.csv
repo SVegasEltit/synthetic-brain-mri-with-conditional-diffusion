@@ -1,0 +1,2689 @@
+grouping,group,region,region_label,intensity,density,n_images
+global,Todos,complete,Imagen completa,1.0,0.0004243427281321122,3792
+global,Todos,complete,Imagen completa,3.0,0.0009000702209310084,3792
+global,Todos,complete,Imagen completa,5.0,0.00180109975333454,3792
+global,Todos,complete,Imagen completa,7.0,0.002355667096538866,3792
+global,Todos,complete,Imagen completa,9.0,0.0025395609887853207,3792
+global,Todos,complete,Imagen completa,11.0,0.0025419491104184677,3792
+global,Todos,complete,Imagen completa,13.0,0.002521384259031843,3792
+global,Todos,complete,Imagen completa,15.0,0.0026034652742310104,3792
+global,Todos,complete,Imagen completa,17.0,0.0047689322542913085,3792
+global,Todos,complete,Imagen completa,19.0,0.0045528749020402465,3792
+global,Todos,complete,Imagen completa,21.0,0.004518229923938437,3792
+global,Todos,complete,Imagen completa,23.0,0.004597270150217226,3792
+global,Todos,complete,Imagen completa,25.0,0.004725753223065915,3792
+global,Todos,complete,Imagen completa,27.0,0.004902643481561655,3792
+global,Todos,complete,Imagen completa,29.0,0.005127045250631861,3792
+global,Todos,complete,Imagen completa,31.0,0.005384028657219619,3792
+global,Todos,complete,Imagen completa,33.0,0.005684820154543285,3792
+global,Todos,complete,Imagen completa,35.0,0.006004884508791233,3792
+global,Todos,complete,Imagen completa,37.0,0.006381280094048249,3792
+global,Todos,complete,Imagen completa,39.0,0.0068225097266928665,3792
+global,Todos,complete,Imagen completa,41.0,0.007339545539782822,3792
+global,Todos,complete,Imagen completa,43.0,0.0079128682189551,3792
+global,Todos,complete,Imagen completa,45.0,0.008567035516997605,3792
+global,Todos,complete,Imagen completa,47.0,0.009310675312406803,3792
+global,Todos,complete,Imagen completa,49.0,0.010117567418711261,3792
+global,Todos,complete,Imagen completa,51.0,0.010951501291560906,3792
+global,Todos,complete,Imagen completa,53.0,0.011798403945928095,3792
+global,Todos,complete,Imagen completa,55.0,0.01258038542807954,3792
+global,Todos,complete,Imagen completa,57.0,0.013310605915886118,3792
+global,Todos,complete,Imagen completa,59.0,0.013953416814019367,3792
+global,Todos,complete,Imagen completa,61.0,0.014524739966364884,3792
+global,Todos,complete,Imagen completa,63.0,0.015002892323386823,3792
+global,Todos,complete,Imagen completa,65.0,0.015348301864465888,3792
+global,Todos,complete,Imagen completa,67.0,0.015530899039969692,3792
+global,Todos,complete,Imagen completa,69.0,0.015551069943758891,3792
+global,Todos,complete,Imagen completa,71.0,0.015389876735410406,3792
+global,Todos,complete,Imagen completa,73.0,0.01505463262151048,3792
+global,Todos,complete,Imagen completa,75.0,0.014574939931152683,3792
+global,Todos,complete,Imagen completa,77.0,0.01395646438672771,3792
+global,Todos,complete,Imagen completa,79.0,0.013186526035359993,3792
+global,Todos,complete,Imagen completa,81.0,0.012308485956181581,3792
+global,Todos,complete,Imagen completa,83.0,0.011337896830540702,3792
+global,Todos,complete,Imagen completa,85.0,0.010331593438009996,3792
+global,Todos,complete,Imagen completa,87.0,0.009318609951036118,3792
+global,Todos,complete,Imagen completa,89.0,0.008337809893390485,3792
+global,Todos,complete,Imagen completa,91.0,0.007415238715358894,3792
+global,Todos,complete,Imagen completa,93.0,0.006621171199725461,3792
+global,Todos,complete,Imagen completa,95.0,0.005929627176857313,3792
+global,Todos,complete,Imagen completa,97.0,0.00534246197519427,3792
+global,Todos,complete,Imagen completa,99.0,0.004848839109957016,3792
+global,Todos,complete,Imagen completa,101.0,0.004432095920885692,3792
+global,Todos,complete,Imagen completa,103.0,0.004066493895700484,3792
+global,Todos,complete,Imagen completa,105.0,0.003779431691468183,3792
+global,Todos,complete,Imagen completa,107.0,0.0035373736303190685,3792
+global,Todos,complete,Imagen completa,109.0,0.003339790591671221,3792
+global,Todos,complete,Imagen completa,111.0,0.0031801439822313517,3792
+global,Todos,complete,Imagen completa,113.0,0.003039672138907238,3792
+global,Todos,complete,Imagen completa,115.0,0.002910219525165658,3792
+global,Todos,complete,Imagen completa,117.0,0.00279252765531353,3792
+global,Todos,complete,Imagen completa,119.0,0.002673749257610156,3792
+global,Todos,complete,Imagen completa,121.0,0.002564807662413849,3792
+global,Todos,complete,Imagen completa,123.0,0.0024590531171653214,3792
+global,Todos,complete,Imagen completa,125.0,0.002359324313920649,3792
+global,Todos,complete,Imagen completa,127.0,0.002267876989890511,3792
+global,Todos,complete,Imagen completa,129.0,0.0021736632272777116,3792
+global,Todos,complete,Imagen completa,131.0,0.002084629944070735,3792
+global,Todos,complete,Imagen completa,133.0,0.00199423513689445,3792
+global,Todos,complete,Imagen completa,135.0,0.0019117159402458116,3792
+global,Todos,complete,Imagen completa,137.0,0.0018330422749828982,3792
+global,Todos,complete,Imagen completa,139.0,0.0017578751569090223,3792
+global,Todos,complete,Imagen completa,141.0,0.0016810331126121654,3792
+global,Todos,complete,Imagen completa,143.0,0.0016043577058451515,3792
+global,Todos,complete,Imagen completa,145.0,0.0015312329570429794,3792
+global,Todos,complete,Imagen completa,147.0,0.0014560801214124333,3792
+global,Todos,complete,Imagen completa,149.0,0.0013868361686301277,3792
+global,Todos,complete,Imagen completa,151.0,0.00131755883711335,3792
+global,Todos,complete,Imagen completa,153.0,0.0012551757881089048,3792
+global,Todos,complete,Imagen completa,155.0,0.001195091756092448,3792
+global,Todos,complete,Imagen completa,157.0,0.001136243581190232,3792
+global,Todos,complete,Imagen completa,159.0,0.001079297083308736,3792
+global,Todos,complete,Imagen completa,161.0,0.001025529382920856,3792
+global,Todos,complete,Imagen completa,163.0,0.0009789404494081999,3792
+global,Todos,complete,Imagen completa,165.0,0.0009305032879281278,3792
+global,Todos,complete,Imagen completa,167.0,0.0008852471944447589,3792
+global,Todos,complete,Imagen completa,169.0,0.0008418524934900301,3792
+global,Todos,complete,Imagen completa,171.0,0.0007979912553430841,3792
+global,Todos,complete,Imagen completa,173.0,0.0007576846756417708,3792
+global,Todos,complete,Imagen completa,175.0,0.0007187967351555895,3792
+global,Todos,complete,Imagen completa,177.0,0.0006809396956247687,3792
+global,Todos,complete,Imagen completa,179.0,0.0006453806488595953,3792
+global,Todos,complete,Imagen completa,181.0,0.0006100503993528026,3792
+global,Todos,complete,Imagen completa,183.0,0.0005760490061704475,3792
+global,Todos,complete,Imagen completa,185.0,0.0005431691241453067,3792
+global,Todos,complete,Imagen completa,187.0,0.0005119057773455584,3792
+global,Todos,complete,Imagen completa,189.0,0.00048157887717846835,3792
+global,Todos,complete,Imagen completa,191.0,0.0004513705501837489,3792
+global,Todos,complete,Imagen completa,193.0,0.0004241698324233062,3792
+global,Todos,complete,Imagen completa,195.0,0.00039614974515866924,3792
+global,Todos,complete,Imagen completa,197.0,0.0003693730289557625,3792
+global,Todos,complete,Imagen completa,199.0,0.00034499162991426545,3792
+global,Todos,complete,Imagen completa,201.0,0.0003193944100333293,3792
+global,Todos,complete,Imagen completa,203.0,0.00029748635548609853,3792
+global,Todos,complete,Imagen completa,205.0,0.00027415245285076974,3792
+global,Todos,complete,Imagen completa,207.0,0.0002530886878978429,3792
+global,Todos,complete,Imagen completa,209.0,0.00023262263255484448,3792
+global,Todos,complete,Imagen completa,211.0,0.0002141175751548695,3792
+global,Todos,complete,Imagen completa,213.0,0.0001966602354521854,3792
+global,Todos,complete,Imagen completa,215.0,0.00017897346338009137,3792
+global,Todos,complete,Imagen completa,217.0,0.00016214154379396093,3792
+global,Todos,complete,Imagen completa,219.0,0.0001459892697909223,3792
+global,Todos,complete,Imagen completa,221.0,0.000131755670001391,3792
+global,Todos,complete,Imagen completa,223.0,0.00011714656757894641,3792
+global,Todos,complete,Imagen completa,225.0,0.00010379197996161554,3792
+global,Todos,complete,Imagen completa,227.0,9.278597217036248e-05,3792
+global,Todos,complete,Imagen completa,229.0,8.116774880289557e-05,3792
+global,Todos,complete,Imagen completa,231.0,7.083628454453775e-05,3792
+global,Todos,complete,Imagen completa,233.0,6.177817165599534e-05,3792
+global,Todos,complete,Imagen completa,235.0,5.391970571918531e-05,3792
+global,Todos,complete,Imagen completa,237.0,4.592544948871342e-05,3792
+global,Todos,complete,Imagen completa,239.0,3.95723832601127e-05,3792
+global,Todos,complete,Imagen completa,241.0,3.343131511242433e-05,3792
+global,Todos,complete,Imagen completa,243.0,2.8549022630644517e-05,3792
+global,Todos,complete,Imagen completa,245.0,2.428740305976201e-05,3792
+global,Todos,complete,Imagen completa,247.0,2.2260723053796897e-05,3792
+global,Todos,complete,Imagen completa,249.0,2.154051688479654e-05,3792
+global,Todos,complete,Imagen completa,251.0,2.2418212265540524e-05,3792
+global,Todos,complete,Imagen completa,253.0,2.4810750563021153e-05,3792
+global,Todos,complete,Imagen completa,255.0,6.519828767416447e-05,3792
+tumor_type,Glioma,complete,Imagen completa,1.0,0.0006418518414083287,1147
+tumor_type,Glioma,complete,Imagen completa,3.0,0.001669781518957708,1147
+tumor_type,Glioma,complete,Imagen completa,5.0,0.0024999990763535985,1147
+tumor_type,Glioma,complete,Imagen completa,7.0,0.002467647029717251,1147
+tumor_type,Glioma,complete,Imagen completa,9.0,0.002316187864788324,1147
+tumor_type,Glioma,complete,Imagen completa,11.0,0.002262460757139076,1147
+tumor_type,Glioma,complete,Imagen completa,13.0,0.00228244233560148,1147
+tumor_type,Glioma,complete,Imagen completa,15.0,0.0024069820065068474,1147
+tumor_type,Glioma,complete,Imagen completa,17.0,0.004518610965944639,1147
+tumor_type,Glioma,complete,Imagen completa,19.0,0.004458734239321727,1147
+tumor_type,Glioma,complete,Imagen completa,21.0,0.004515413903812283,1147
+tumor_type,Glioma,complete,Imagen completa,23.0,0.004659203617486641,1147
+tumor_type,Glioma,complete,Imagen completa,25.0,0.00485955182233337,1147
+tumor_type,Glioma,complete,Imagen completa,27.0,0.005129020246140058,1147
+tumor_type,Glioma,complete,Imagen completa,29.0,0.005456986772377226,1147
+tumor_type,Glioma,complete,Imagen completa,31.0,0.005861520796433649,1147
+tumor_type,Glioma,complete,Imagen completa,33.0,0.006339693060392961,1147
+tumor_type,Glioma,complete,Imagen completa,35.0,0.006864688555958307,1147
+tumor_type,Glioma,complete,Imagen completa,37.0,0.0075236378747046105,1147
+tumor_type,Glioma,complete,Imagen completa,39.0,0.008357521020068488,1147
+tumor_type,Glioma,complete,Imagen completa,41.0,0.009343345339241855,1147
+tumor_type,Glioma,complete,Imagen completa,43.0,0.010383835315559026,1147
+tumor_type,Glioma,complete,Imagen completa,45.0,0.011574882705433113,1147
+tumor_type,Glioma,complete,Imagen completa,47.0,0.012936436585994643,1147
+tumor_type,Glioma,complete,Imagen completa,49.0,0.014329507113033714,1147
+tumor_type,Glioma,complete,Imagen completa,51.0,0.015673439851936238,1147
+tumor_type,Glioma,complete,Imagen completa,53.0,0.016867270430817982,1147
+tumor_type,Glioma,complete,Imagen completa,55.0,0.0177099801566566,1147
+tumor_type,Glioma,complete,Imagen completa,57.0,0.018145181654429854,1147
+tumor_type,Glioma,complete,Imagen completa,59.0,0.018280963504739796,1147
+tumor_type,Glioma,complete,Imagen completa,61.0,0.01812452744045095,1147
+tumor_type,Glioma,complete,Imagen completa,63.0,0.017664825473923725,1147
+tumor_type,Glioma,complete,Imagen completa,65.0,0.016903439012588575,1147
+tumor_type,Glioma,complete,Imagen completa,67.0,0.01592375140561923,1147
+tumor_type,Glioma,complete,Imagen completa,69.0,0.0148626679098561,1147
+tumor_type,Glioma,complete,Imagen completa,71.0,0.013762984185192083,1147
+tumor_type,Glioma,complete,Imagen completa,73.0,0.012666181602372662,1147
+tumor_type,Glioma,complete,Imagen completa,75.0,0.011603975186253217,1147
+tumor_type,Glioma,complete,Imagen completa,77.0,0.010571751542857251,1147
+tumor_type,Glioma,complete,Imagen completa,79.0,0.009565502161145288,1147
+tumor_type,Glioma,complete,Imagen completa,81.0,0.008633468946071922,1147
+tumor_type,Glioma,complete,Imagen completa,83.0,0.00783150910125211,1147
+tumor_type,Glioma,complete,Imagen completa,85.0,0.0071545753762039845,1147
+tumor_type,Glioma,complete,Imagen completa,87.0,0.006529152300339008,1147
+tumor_type,Glioma,complete,Imagen completa,89.0,0.005941247617523196,1147
+tumor_type,Glioma,complete,Imagen completa,91.0,0.005402486826636267,1147
+tumor_type,Glioma,complete,Imagen completa,93.0,0.004937492418214693,1147
+tumor_type,Glioma,complete,Imagen completa,95.0,0.004533413686938824,1147
+tumor_type,Glioma,complete,Imagen completa,97.0,0.004197238053410655,1147
+tumor_type,Glioma,complete,Imagen completa,99.0,0.0039082116251605075,1147
+tumor_type,Glioma,complete,Imagen completa,101.0,0.00365495662513877,1147
+tumor_type,Glioma,complete,Imagen completa,103.0,0.0034192163055445494,1147
+tumor_type,Glioma,complete,Imagen completa,105.0,0.0032211807449113684,1147
+tumor_type,Glioma,complete,Imagen completa,107.0,0.0030440892086250086,1147
+tumor_type,Glioma,complete,Imagen completa,109.0,0.002883116482603742,1147
+tumor_type,Glioma,complete,Imagen completa,111.0,0.0027447869927870595,1147
+tumor_type,Glioma,complete,Imagen completa,113.0,0.0026148125794966037,1147
+tumor_type,Glioma,complete,Imagen completa,115.0,0.0024880817158470154,1147
+tumor_type,Glioma,complete,Imagen completa,117.0,0.0023788707182125913,1147
+tumor_type,Glioma,complete,Imagen completa,119.0,0.0022629039154245913,1147
+tumor_type,Glioma,complete,Imagen completa,121.0,0.0021625792316963023,1147
+tumor_type,Glioma,complete,Imagen completa,123.0,0.002070901669438894,1147
+tumor_type,Glioma,complete,Imagen completa,125.0,0.0019825173310619253,1147
+tumor_type,Glioma,complete,Imagen completa,127.0,0.001894394746480441,1147
+tumor_type,Glioma,complete,Imagen completa,129.0,0.001807580056620009,1147
+tumor_type,Glioma,complete,Imagen completa,131.0,0.0017351017047433344,1147
+tumor_type,Glioma,complete,Imagen completa,133.0,0.0016507958356001208,1147
+tumor_type,Glioma,complete,Imagen completa,135.0,0.0015853391738406626,1147
+tumor_type,Glioma,complete,Imagen completa,137.0,0.0015134559944165202,1147
+tumor_type,Glioma,complete,Imagen completa,139.0,0.0014443338407330777,1147
+tumor_type,Glioma,complete,Imagen completa,141.0,0.0013831672972930507,1147
+tumor_type,Glioma,complete,Imagen completa,143.0,0.0013190834766005145,1147
+tumor_type,Glioma,complete,Imagen completa,145.0,0.0012545136671934277,1147
+tumor_type,Glioma,complete,Imagen completa,147.0,0.0012014569101466697,1147
+tumor_type,Glioma,complete,Imagen completa,149.0,0.0011376543002706752,1147
+tumor_type,Glioma,complete,Imagen completa,151.0,0.0010807481824237964,1147
+tumor_type,Glioma,complete,Imagen completa,153.0,0.0010331512538749126,1147
+tumor_type,Glioma,complete,Imagen completa,155.0,0.000979490494796223,1147
+tumor_type,Glioma,complete,Imagen completa,157.0,0.0009249465300569579,1147
+tumor_type,Glioma,complete,Imagen completa,159.0,0.0008770904932702588,1147
+tumor_type,Glioma,complete,Imagen completa,161.0,0.0008256136257491704,1147
+tumor_type,Glioma,complete,Imagen completa,163.0,0.0007799072461495871,1147
+tumor_type,Glioma,complete,Imagen completa,165.0,0.0007351667022575431,1147
+tumor_type,Glioma,complete,Imagen completa,167.0,0.0006914079586296007,1147
+tumor_type,Glioma,complete,Imagen completa,169.0,0.0006475526970877898,1147
+tumor_type,Glioma,complete,Imagen completa,171.0,0.0006038397671681604,1147
+tumor_type,Glioma,complete,Imagen completa,173.0,0.000562469330887062,1147
+tumor_type,Glioma,complete,Imagen completa,175.0,0.0005293366267664397,1147
+tumor_type,Glioma,complete,Imagen completa,177.0,0.0004957399547066456,1147
+tumor_type,Glioma,complete,Imagen completa,179.0,0.00046302013737523166,1147
+tumor_type,Glioma,complete,Imagen completa,181.0,0.00043077080511486564,1147
+tumor_type,Glioma,complete,Imagen completa,183.0,0.0003983813276108604,1147
+tumor_type,Glioma,complete,Imagen completa,185.0,0.0003717609839561102,1147
+tumor_type,Glioma,complete,Imagen completa,187.0,0.000346047786321763,1147
+tumor_type,Glioma,complete,Imagen completa,189.0,0.00031850753967718265,1147
+tumor_type,Glioma,complete,Imagen completa,191.0,0.00029510570918621386,1147
+tumor_type,Glioma,complete,Imagen completa,193.0,0.00027244621986143117,1147
+tumor_type,Glioma,complete,Imagen completa,195.0,0.00025133781317075477,1147
+tumor_type,Glioma,complete,Imagen completa,197.0,0.00023034846131528072,1147
+tumor_type,Glioma,complete,Imagen completa,199.0,0.00021038637463660122,1147
+tumor_type,Glioma,complete,Imagen completa,201.0,0.0001928274681529356,1147
+tumor_type,Glioma,complete,Imagen completa,203.0,0.00017668882054221565,1147
+tumor_type,Glioma,complete,Imagen completa,205.0,0.00016018767152749992,1147
+tumor_type,Glioma,complete,Imagen completa,207.0,0.0001453294059025451,1147
+tumor_type,Glioma,complete,Imagen completa,209.0,0.00013109790373545965,1147
+tumor_type,Glioma,complete,Imagen completa,211.0,0.0001177500110899813,1147
+tumor_type,Glioma,complete,Imagen completa,213.0,0.00010722437117042206,1147
+tumor_type,Glioma,complete,Imagen completa,215.0,9.634493983847022e-05,1147
+tumor_type,Glioma,complete,Imagen completa,217.0,8.605718066525438e-05,1147
+tumor_type,Glioma,complete,Imagen completa,219.0,7.631962843504754e-05,1147
+tumor_type,Glioma,complete,Imagen completa,221.0,6.753994490989349e-05,1147
+tumor_type,Glioma,complete,Imagen completa,223.0,5.8897177265113635e-05,1147
+tumor_type,Glioma,complete,Imagen completa,225.0,5.072501752615003e-05,1147
+tumor_type,Glioma,complete,Imagen completa,227.0,4.475148343915349e-05,1147
+tumor_type,Glioma,complete,Imagen completa,229.0,3.8668139646335555e-05,1147
+tumor_type,Glioma,complete,Imagen completa,231.0,3.347200449308945e-05,1147
+tumor_type,Glioma,complete,Imagen completa,233.0,2.856934813807675e-05,1147
+tumor_type,Glioma,complete,Imagen completa,235.0,2.3922058882778982e-05,1147
+tumor_type,Glioma,complete,Imagen completa,237.0,2.0169298051299495e-05,1147
+tumor_type,Glioma,complete,Imagen completa,239.0,1.671697885367155e-05,1147
+tumor_type,Glioma,complete,Imagen completa,241.0,1.3788881380974666e-05,1147
+tumor_type,Glioma,complete,Imagen completa,243.0,1.1375175835167954e-05,1147
+tumor_type,Glioma,complete,Imagen completa,245.0,9.289417782150035e-06,1147
+tumor_type,Glioma,complete,Imagen completa,247.0,7.458778576305387e-06,1147
+tumor_type,Glioma,complete,Imagen completa,249.0,6.038404702499167e-06,1147
+tumor_type,Glioma,complete,Imagen completa,251.0,4.7309841854401164e-06,1147
+tumor_type,Glioma,complete,Imagen completa,253.0,3.513114770394593e-06,1147
+tumor_type,Glioma,complete,Imagen completa,255.0,5.902008424759836e-06,1147
+plane,Axial,complete,Imagen completa,1.0,0.0006853404857820775,1166
+plane,Axial,complete,Imagen completa,3.0,0.0010581744276284284,1166
+plane,Axial,complete,Imagen completa,5.0,0.0019273327556686803,1166
+plane,Axial,complete,Imagen completa,7.0,0.0025796987918335953,1166
+plane,Axial,complete,Imagen completa,9.0,0.0028596346389900347,1166
+plane,Axial,complete,Imagen completa,11.0,0.0029113440978669573,1166
+plane,Axial,complete,Imagen completa,13.0,0.002858098608511527,1166
+plane,Axial,complete,Imagen completa,15.0,0.0028130963001189815,1166
+plane,Axial,complete,Imagen completa,17.0,0.0039329203283463,1166
+plane,Axial,complete,Imagen completa,19.0,0.0038147377004714884,1166
+plane,Axial,complete,Imagen completa,21.0,0.0038277873859530877,1166
+plane,Axial,complete,Imagen completa,23.0,0.003915193811997607,1166
+plane,Axial,complete,Imagen completa,25.0,0.004012254907331102,1166
+plane,Axial,complete,Imagen completa,27.0,0.004121706154650251,1166
+plane,Axial,complete,Imagen completa,29.0,0.004232370805896067,1166
+plane,Axial,complete,Imagen completa,31.0,0.00437533952507299,1166
+plane,Axial,complete,Imagen completa,33.0,0.004567722616793186,1166
+plane,Axial,complete,Imagen completa,35.0,0.004797089377131655,1166
+plane,Axial,complete,Imagen completa,37.0,0.005173640477461401,1166
+plane,Axial,complete,Imagen completa,39.0,0.005755862185386454,1166
+plane,Axial,complete,Imagen completa,41.0,0.006561197380464869,1166
+plane,Axial,complete,Imagen completa,43.0,0.007474004320733823,1166
+plane,Axial,complete,Imagen completa,45.0,0.008553021113621965,1166
+plane,Axial,complete,Imagen completa,47.0,0.00985033264572057,1166
+plane,Axial,complete,Imagen completa,49.0,0.011263924697940682,1166
+plane,Axial,complete,Imagen completa,51.0,0.012700006989312443,1166
+plane,Axial,complete,Imagen completa,53.0,0.014055752243916933,1166
+plane,Axial,complete,Imagen completa,55.0,0.015114270991406465,1166
+plane,Axial,complete,Imagen completa,57.0,0.015882513040430514,1166
+plane,Axial,complete,Imagen completa,59.0,0.016348178004599895,1166
+plane,Axial,complete,Imagen completa,61.0,0.016678430001004413,1166
+plane,Axial,complete,Imagen completa,63.0,0.016823677043170657,1166
+plane,Axial,complete,Imagen completa,65.0,0.016766526587434702,1166
+plane,Axial,complete,Imagen completa,67.0,0.016460847716595825,1166
+plane,Axial,complete,Imagen completa,69.0,0.01599359456147328,1166
+plane,Axial,complete,Imagen completa,71.0,0.015413700479602156,1166
+plane,Axial,complete,Imagen completa,73.0,0.01474561755097243,1166
+plane,Axial,complete,Imagen completa,75.0,0.013974167265343744,1166
+plane,Axial,complete,Imagen completa,77.0,0.013077641483670153,1166
+plane,Axial,complete,Imagen completa,79.0,0.01206231667644814,1166
+plane,Axial,complete,Imagen completa,81.0,0.011000267367805842,1166
+plane,Axial,complete,Imagen completa,83.0,0.009880987341633753,1166
+plane,Axial,complete,Imagen completa,85.0,0.00881693122650231,1166
+plane,Axial,complete,Imagen completa,87.0,0.00782674230017763,1166
+plane,Axial,complete,Imagen completa,89.0,0.006941395172617319,1166
+plane,Axial,complete,Imagen completa,91.0,0.006177085454955897,1166
+plane,Axial,complete,Imagen completa,93.0,0.005587202358381481,1166
+plane,Axial,complete,Imagen completa,95.0,0.005099514586383085,1166
+plane,Axial,complete,Imagen completa,97.0,0.004706707840172285,1166
+plane,Axial,complete,Imagen completa,99.0,0.004388470718390056,1166
+plane,Axial,complete,Imagen completa,101.0,0.004106034525233324,1166
+plane,Axial,complete,Imagen completa,103.0,0.0038325611394651998,1166
+plane,Axial,complete,Imagen completa,105.0,0.003624287425389188,1166
+plane,Axial,complete,Imagen completa,107.0,0.003438991808832818,1166
+plane,Axial,complete,Imagen completa,109.0,0.0032908810364690273,1166
+plane,Axial,complete,Imagen completa,111.0,0.0031699560798429836,1166
+plane,Axial,complete,Imagen completa,113.0,0.0030511616702864476,1166
+plane,Axial,complete,Imagen completa,115.0,0.0029503901610099872,1166
+plane,Axial,complete,Imagen completa,117.0,0.002851901959229309,1166
+plane,Axial,complete,Imagen completa,119.0,0.0027495580859814264,1166
+plane,Axial,complete,Imagen completa,121.0,0.0026520071725652057,1166
+plane,Axial,complete,Imagen completa,123.0,0.002561599702318806,1166
+plane,Axial,complete,Imagen completa,125.0,0.0024753890850347012,1166
+plane,Axial,complete,Imagen completa,127.0,0.002400386969115812,1166
+plane,Axial,complete,Imagen completa,129.0,0.002314468798021267,1166
+plane,Axial,complete,Imagen completa,131.0,0.0022373638696001354,1166
+plane,Axial,complete,Imagen completa,133.0,0.002149390061244284,1166
+plane,Axial,complete,Imagen completa,135.0,0.0020822127528397436,1166
+plane,Axial,complete,Imagen completa,137.0,0.002013290941065643,1166
+plane,Axial,complete,Imagen completa,139.0,0.001950798523591345,1166
+plane,Axial,complete,Imagen completa,141.0,0.0018801623056754768,1166
+plane,Axial,complete,Imagen completa,143.0,0.0018018045900799879,1166
+plane,Axial,complete,Imagen completa,145.0,0.0017294233349695394,1166
+plane,Axial,complete,Imagen completa,147.0,0.0016527984521052014,1166
+plane,Axial,complete,Imagen completa,149.0,0.0015866770391731316,1166
+plane,Axial,complete,Imagen completa,151.0,0.0015165432164764266,1166
+plane,Axial,complete,Imagen completa,153.0,0.0014486378301387971,1166
+plane,Axial,complete,Imagen completa,155.0,0.0013896209038921628,1166
+plane,Axial,complete,Imagen completa,157.0,0.0013208860128397068,1166
+plane,Axial,complete,Imagen completa,159.0,0.0012568375732552603,1166
+plane,Axial,complete,Imagen completa,161.0,0.001192863462442077,1166
+plane,Axial,complete,Imagen completa,163.0,0.0011429185789331399,1166
+plane,Axial,complete,Imagen completa,165.0,0.0010860871339967951,1166
+plane,Axial,complete,Imagen completa,167.0,0.001034992007316059,1166
+plane,Axial,complete,Imagen completa,169.0,0.0009842845347550597,1166
+plane,Axial,complete,Imagen completa,171.0,0.0009307150143758621,1166
+plane,Axial,complete,Imagen completa,173.0,0.0008822080721593348,1166
+plane,Axial,complete,Imagen completa,175.0,0.0008314606987729004,1166
+plane,Axial,complete,Imagen completa,177.0,0.0007866207220121963,1166
+plane,Axial,complete,Imagen completa,179.0,0.0007397396309109947,1166
+plane,Axial,complete,Imagen completa,181.0,0.0006965316915973841,1166
+plane,Axial,complete,Imagen completa,183.0,0.0006518164387579187,1166
+plane,Axial,complete,Imagen completa,185.0,0.0006079462255392335,1166
+plane,Axial,complete,Imagen completa,187.0,0.000566313942969802,1166
+plane,Axial,complete,Imagen completa,189.0,0.0005274234761274404,1166
+plane,Axial,complete,Imagen completa,191.0,0.0004900575152513387,1166
+plane,Axial,complete,Imagen completa,193.0,0.000455682837213458,1166
+plane,Axial,complete,Imagen completa,195.0,0.00042028901222935345,1166
+plane,Axial,complete,Imagen completa,197.0,0.0003855303442274363,1166
+plane,Axial,complete,Imagen completa,199.0,0.0003556822129376765,1166
+plane,Axial,complete,Imagen completa,201.0,0.00032330795765645636,1166
+plane,Axial,complete,Imagen completa,203.0,0.0002968450235887835,1166
+plane,Axial,complete,Imagen completa,205.0,0.00027045364545595836,1166
+plane,Axial,complete,Imagen completa,207.0,0.0002470648020877813,1166
+plane,Axial,complete,Imagen completa,209.0,0.00022212403151856267,1166
+plane,Axial,complete,Imagen completa,211.0,0.00020168364528902455,1166
+plane,Axial,complete,Imagen completa,213.0,0.00018260576519847367,1166
+plane,Axial,complete,Imagen completa,215.0,0.0001630319824591938,1166
+plane,Axial,complete,Imagen completa,217.0,0.0001460255302059275,1166
+plane,Axial,complete,Imagen completa,219.0,0.00012953499415363902,1166
+plane,Axial,complete,Imagen completa,221.0,0.00011574207940393134,1166
+plane,Axial,complete,Imagen completa,223.0,0.00010001852412013636,1166
+plane,Axial,complete,Imagen completa,225.0,8.739338543559395e-05,1166
+plane,Axial,complete,Imagen completa,227.0,7.873772969573725e-05,1166
+plane,Axial,complete,Imagen completa,229.0,6.850383463172726e-05,1166
+plane,Axial,complete,Imagen completa,231.0,5.933695733549064e-05,1166
+plane,Axial,complete,Imagen completa,233.0,5.0332929808418484e-05,1166
+plane,Axial,complete,Imagen completa,235.0,4.504189282123575e-05,1166
+plane,Axial,complete,Imagen completa,237.0,3.9753439766509826e-05,1166
+plane,Axial,complete,Imagen completa,239.0,3.5991659061639195e-05,1166
+plane,Axial,complete,Imagen completa,241.0,3.268983470152932e-05,1166
+plane,Axial,complete,Imagen completa,243.0,2.98504058128026e-05,1166
+plane,Axial,complete,Imagen completa,245.0,2.856759270549512e-05,1166
+plane,Axial,complete,Imagen completa,247.0,3.118435999853502e-05,1166
+plane,Axial,complete,Imagen completa,249.0,3.659407657272758e-05,1166
+plane,Axial,complete,Imagen completa,251.0,4.454397579794602e-05,1166
+plane,Axial,complete,Imagen completa,253.0,5.619169122042541e-05,1166
+plane,Axial,complete,Imagen completa,255.0,0.00017729113145333148,1166
+global,Todos,tumor,Región tumoral,1.0,1.475640525330879e-05,3792
+global,Todos,tumor,Región tumoral,3.0,4.84935452272584e-05,3792
+global,Todos,tumor,Región tumoral,5.0,0.00011020462146431369,3792
+global,Todos,tumor,Región tumoral,7.0,0.00014867403039958493,3792
+global,Todos,tumor,Región tumoral,9.0,0.00018299898810802487,3792
+global,Todos,tumor,Región tumoral,11.0,0.00021110300632395902,3792
+global,Todos,tumor,Región tumoral,13.0,0.00025332688764916224,3792
+global,Todos,tumor,Región tumoral,15.0,0.0003066611590587288,3792
+global,Todos,tumor,Región tumoral,17.0,0.0003803743998651219,3792
+global,Todos,tumor,Región tumoral,19.0,0.00048133005875246234,3792
+global,Todos,tumor,Región tumoral,21.0,0.0006069405316179913,3792
+global,Todos,tumor,Región tumoral,23.0,0.0007937071551747323,3792
+global,Todos,tumor,Región tumoral,25.0,0.0010156594918588903,3792
+global,Todos,tumor,Región tumoral,27.0,0.0013122464788479199,3792
+global,Todos,tumor,Región tumoral,29.0,0.0016598540697050493,3792
+global,Todos,tumor,Región tumoral,31.0,0.0020805050849760343,3792
+global,Todos,tumor,Región tumoral,33.0,0.0025309136409648165,3792
+global,Todos,tumor,Región tumoral,35.0,0.0029553321488137627,3792
+global,Todos,tumor,Región tumoral,37.0,0.0034040315198033523,3792
+global,Todos,tumor,Región tumoral,39.0,0.0038358765616322453,3792
+global,Todos,tumor,Región tumoral,41.0,0.004168919049026842,3792
+global,Todos,tumor,Región tumoral,43.0,0.004515815790101539,3792
+global,Todos,tumor,Región tumoral,45.0,0.004748998097446432,3792
+global,Todos,tumor,Región tumoral,47.0,0.005047648979580928,3792
+global,Todos,tumor,Región tumoral,49.0,0.005405659220556442,3792
+global,Todos,tumor,Región tumoral,51.0,0.005683906850729398,3792
+global,Todos,tumor,Región tumoral,53.0,0.0059623522980883125,3792
+global,Todos,tumor,Región tumoral,55.0,0.006235118473508381,3792
+global,Todos,tumor,Región tumoral,57.0,0.00647668166600887,3792
+global,Todos,tumor,Región tumoral,59.0,0.006645122971244584,3792
+global,Todos,tumor,Región tumoral,61.0,0.006884240581906702,3792
+global,Todos,tumor,Región tumoral,63.0,0.0071896833800348045,3792
+global,Todos,tumor,Región tumoral,65.0,0.007412520152462236,3792
+global,Todos,tumor,Región tumoral,67.0,0.007565512732516722,3792
+global,Todos,tumor,Región tumoral,69.0,0.007707537314319354,3792
+global,Todos,tumor,Región tumoral,71.0,0.007840218825952875,3792
+global,Todos,tumor,Región tumoral,73.0,0.00810729478789034,3792
+global,Todos,tumor,Región tumoral,75.0,0.008270315688017865,3792
+global,Todos,tumor,Región tumoral,77.0,0.008629345225474483,3792
+global,Todos,tumor,Región tumoral,79.0,0.008937137059501566,3792
+global,Todos,tumor,Región tumoral,81.0,0.00925768812049748,3792
+global,Todos,tumor,Región tumoral,83.0,0.009482131334879304,3792
+global,Todos,tumor,Región tumoral,85.0,0.009723673902652899,3792
+global,Todos,tumor,Región tumoral,87.0,0.009960968103409407,3792
+global,Todos,tumor,Región tumoral,89.0,0.010132851950369209,3792
+global,Todos,tumor,Región tumoral,91.0,0.010313680722165208,3792
+global,Todos,tumor,Región tumoral,93.0,0.010600360035295785,3792
+global,Todos,tumor,Región tumoral,95.0,0.010680700167885191,3792
+global,Todos,tumor,Región tumoral,97.0,0.010840955614231838,3792
+global,Todos,tumor,Región tumoral,99.0,0.010973631012199262,3792
+global,Todos,tumor,Región tumoral,101.0,0.011062391763815573,3792
+global,Todos,tumor,Región tumoral,103.0,0.011142070037264305,3792
+global,Todos,tumor,Región tumoral,105.0,0.011165891884903698,3792
+global,Todos,tumor,Región tumoral,107.0,0.011052869506661763,3792
+global,Todos,tumor,Región tumoral,109.0,0.010977778150647516,3792
+global,Todos,tumor,Región tumoral,111.0,0.010794132293852586,3792
+global,Todos,tumor,Región tumoral,113.0,0.010709419212875205,3792
+global,Todos,tumor,Región tumoral,115.0,0.01043948467833244,3792
+global,Todos,tumor,Región tumoral,117.0,0.010195457283371684,3792
+global,Todos,tumor,Región tumoral,119.0,0.009847959480909302,3792
+global,Todos,tumor,Región tumoral,121.0,0.00937384548761032,3792
+global,Todos,tumor,Región tumoral,123.0,0.008971278418146133,3792
+global,Todos,tumor,Región tumoral,125.0,0.008518261401106864,3792
+global,Todos,tumor,Región tumoral,127.0,0.008145946471450538,3792
+global,Todos,tumor,Región tumoral,129.0,0.00776332889549193,3792
+global,Todos,tumor,Región tumoral,131.0,0.007395470438720723,3792
+global,Todos,tumor,Región tumoral,133.0,0.006955189339503127,3792
+global,Todos,tumor,Región tumoral,135.0,0.0066086094354358,3792
+global,Todos,tumor,Región tumoral,137.0,0.006280813917233187,3792
+global,Todos,tumor,Región tumoral,139.0,0.00594500628301863,3792
+global,Todos,tumor,Región tumoral,141.0,0.005605672505766218,3792
+global,Todos,tumor,Región tumoral,143.0,0.005168675682032803,3792
+global,Todos,tumor,Región tumoral,145.0,0.004777874545211494,3792
+global,Todos,tumor,Región tumoral,147.0,0.004352209037457639,3792
+global,Todos,tumor,Región tumoral,149.0,0.003951774276862982,3792
+global,Todos,tumor,Región tumoral,151.0,0.0035529834523202585,3792
+global,Todos,tumor,Región tumoral,153.0,0.0032402559563346218,3792
+global,Todos,tumor,Región tumoral,155.0,0.0029089040019508947,3792
+global,Todos,tumor,Región tumoral,157.0,0.0026104718216263282,3792
+global,Todos,tumor,Región tumoral,159.0,0.0023617690041899454,3792
+global,Todos,tumor,Región tumoral,161.0,0.0021474419218969806,3792
+global,Todos,tumor,Región tumoral,163.0,0.001945235047049578,3792
+global,Todos,tumor,Región tumoral,165.0,0.0017303857191896233,3792
+global,Todos,tumor,Región tumoral,167.0,0.0015637905655059123,3792
+global,Todos,tumor,Región tumoral,169.0,0.001389993877264058,3792
+global,Todos,tumor,Región tumoral,171.0,0.001216951729744306,3792
+global,Todos,tumor,Región tumoral,173.0,0.0010686012588215933,3792
+global,Todos,tumor,Región tumoral,175.0,0.0009437192636760747,3792
+global,Todos,tumor,Región tumoral,177.0,0.0008185843554041301,3792
+global,Todos,tumor,Región tumoral,179.0,0.0007363442568189823,3792
+global,Todos,tumor,Región tumoral,181.0,0.0006546934698728818,3792
+global,Todos,tumor,Región tumoral,183.0,0.0005740219390944922,3792
+global,Todos,tumor,Región tumoral,185.0,0.0005177535108225026,3792
+global,Todos,tumor,Región tumoral,187.0,0.0004615945112051373,3792
+global,Todos,tumor,Región tumoral,189.0,0.00041011767059326667,3792
+global,Todos,tumor,Región tumoral,191.0,0.0003706873061239506,3792
+global,Todos,tumor,Región tumoral,193.0,0.00032603105241752416,3792
+global,Todos,tumor,Región tumoral,195.0,0.0002855274644223305,3792
+global,Todos,tumor,Región tumoral,197.0,0.00026273317756891977,3792
+global,Todos,tumor,Región tumoral,199.0,0.00024631223783707306,3792
+global,Todos,tumor,Región tumoral,201.0,0.00021329191956836625,3792
+global,Todos,tumor,Región tumoral,203.0,0.00018225871576013774,3792
+global,Todos,tumor,Región tumoral,205.0,0.00016623277835541733,3792
+global,Todos,tumor,Región tumoral,207.0,0.00015230286520421824,3792
+global,Todos,tumor,Región tumoral,209.0,0.00014004596803667536,3792
+global,Todos,tumor,Región tumoral,211.0,0.00013106893971967555,3792
+global,Todos,tumor,Región tumoral,213.0,0.00012366584227311206,3792
+global,Todos,tumor,Región tumoral,215.0,0.00011140548545303845,3792
+global,Todos,tumor,Región tumoral,217.0,0.00010837366535892119,3792
+global,Todos,tumor,Región tumoral,219.0,0.00010403338899714629,3792
+global,Todos,tumor,Región tumoral,221.0,9.747925694711225e-05,3792
+global,Todos,tumor,Región tumoral,223.0,8.69413834937845e-05,3792
+global,Todos,tumor,Región tumoral,225.0,8.343438836321161e-05,3792
+global,Todos,tumor,Región tumoral,227.0,7.84979796641862e-05,3792
+global,Todos,tumor,Región tumoral,229.0,6.505913546146177e-05,3792
+global,Todos,tumor,Región tumoral,231.0,6.0597874848954784e-05,3792
+global,Todos,tumor,Región tumoral,233.0,5.706110380023708e-05,3792
+global,Todos,tumor,Región tumoral,235.0,5.230603941482121e-05,3792
+global,Todos,tumor,Región tumoral,237.0,5.15111626844145e-05,3792
+global,Todos,tumor,Región tumoral,239.0,4.9444174950253635e-05,3792
+global,Todos,tumor,Región tumoral,241.0,4.69459607632315e-05,3792
+global,Todos,tumor,Región tumoral,243.0,4.170530648164306e-05,3792
+global,Todos,tumor,Región tumoral,245.0,4.610227103905405e-05,3792
+global,Todos,tumor,Región tumoral,247.0,5.103078915660884e-05,3792
+global,Todos,tumor,Región tumoral,249.0,5.842550346013207e-05,3792
+global,Todos,tumor,Región tumoral,251.0,6.348282999442487e-05,3792
+global,Todos,tumor,Región tumoral,253.0,6.550629334051035e-05,3792
+global,Todos,tumor,Región tumoral,255.0,0.00023181408452459552,3792
+tumor_type,Glioma,tumor,Región tumoral,1.0,4.0376779513275456e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,3.0,0.00014217327586437303,1147
+tumor_type,Glioma,tumor,Región tumoral,5.0,0.0003204471520321069,1147
+tumor_type,Glioma,tumor,Región tumoral,7.0,0.00039427341578331413,1147
+tumor_type,Glioma,tumor,Región tumoral,9.0,0.00046096964105747185,1147
+tumor_type,Glioma,tumor,Región tumoral,11.0,0.0005109380921019966,1147
+tumor_type,Glioma,tumor,Región tumoral,13.0,0.0006172256942291611,1147
+tumor_type,Glioma,tumor,Región tumoral,15.0,0.000777575719165231,1147
+tumor_type,Glioma,tumor,Región tumoral,17.0,0.0009900199434058666,1147
+tumor_type,Glioma,tumor,Región tumoral,19.0,0.0012800553294338667,1147
+tumor_type,Glioma,tumor,Región tumoral,21.0,0.0016439378447206388,1147
+tumor_type,Glioma,tumor,Región tumoral,23.0,0.002178741398154037,1147
+tumor_type,Glioma,tumor,Región tumoral,25.0,0.002789531265746847,1147
+tumor_type,Glioma,tumor,Región tumoral,27.0,0.0035827552669798366,1147
+tumor_type,Glioma,tumor,Región tumoral,29.0,0.004571533854202835,1147
+tumor_type,Glioma,tumor,Región tumoral,31.0,0.0057323033395517255,1147
+tumor_type,Glioma,tumor,Región tumoral,33.0,0.007014859245353599,1147
+tumor_type,Glioma,tumor,Región tumoral,35.0,0.0082008626234512,1147
+tumor_type,Glioma,tumor,Región tumoral,37.0,0.009438431778311487,1147
+tumor_type,Glioma,tumor,Región tumoral,39.0,0.010560625841357807,1147
+tumor_type,Glioma,tumor,Región tumoral,41.0,0.011322828824912538,1147
+tumor_type,Glioma,tumor,Región tumoral,43.0,0.012006224631325384,1147
+tumor_type,Glioma,tumor,Región tumoral,45.0,0.012320618947086335,1147
+tumor_type,Glioma,tumor,Región tumoral,47.0,0.012977471787965019,1147
+tumor_type,Glioma,tumor,Región tumoral,49.0,0.013627929272292144,1147
+tumor_type,Glioma,tumor,Región tumoral,51.0,0.01402184179139957,1147
+tumor_type,Glioma,tumor,Región tumoral,53.0,0.014353438182529514,1147
+tumor_type,Glioma,tumor,Región tumoral,55.0,0.014671588099140698,1147
+tumor_type,Glioma,tumor,Región tumoral,57.0,0.014835087312019407,1147
+tumor_type,Glioma,tumor,Región tumoral,59.0,0.014710142815872046,1147
+tumor_type,Glioma,tumor,Región tumoral,61.0,0.014682295491317424,1147
+tumor_type,Glioma,tumor,Región tumoral,63.0,0.014872327560960349,1147
+tumor_type,Glioma,tumor,Región tumoral,65.0,0.014692160101148674,1147
+tumor_type,Glioma,tumor,Región tumoral,67.0,0.014299769687556061,1147
+tumor_type,Glioma,tumor,Región tumoral,69.0,0.013601355928894193,1147
+tumor_type,Glioma,tumor,Región tumoral,71.0,0.012999174756196278,1147
+tumor_type,Glioma,tumor,Región tumoral,73.0,0.012449809430545557,1147
+tumor_type,Glioma,tumor,Región tumoral,75.0,0.011716091619689213,1147
+tumor_type,Glioma,tumor,Región tumoral,77.0,0.011175724872474495,1147
+tumor_type,Glioma,tumor,Región tumoral,79.0,0.010542378102681747,1147
+tumor_type,Glioma,tumor,Región tumoral,81.0,0.009987734192164819,1147
+tumor_type,Glioma,tumor,Región tumoral,83.0,0.009508875886732202,1147
+tumor_type,Glioma,tumor,Región tumoral,85.0,0.00905386475946514,1147
+tumor_type,Glioma,tumor,Región tumoral,87.0,0.00857997228540781,1147
+tumor_type,Glioma,tumor,Región tumoral,89.0,0.008124565515984105,1147
+tumor_type,Glioma,tumor,Región tumoral,91.0,0.007775415472531786,1147
+tumor_type,Glioma,tumor,Región tumoral,93.0,0.007510283356008128,1147
+tumor_type,Glioma,tumor,Región tumoral,95.0,0.007027637644517766,1147
+tumor_type,Glioma,tumor,Región tumoral,97.0,0.006673443428869936,1147
+tumor_type,Glioma,tumor,Región tumoral,99.0,0.006271445593208513,1147
+tumor_type,Glioma,tumor,Región tumoral,101.0,0.006004225429794446,1147
+tumor_type,Glioma,tumor,Región tumoral,103.0,0.005608136417044763,1147
+tumor_type,Glioma,tumor,Región tumoral,105.0,0.005237014490277407,1147
+tumor_type,Glioma,tumor,Región tumoral,107.0,0.0050359208018654275,1147
+tumor_type,Glioma,tumor,Región tumoral,109.0,0.004687997046782555,1147
+tumor_type,Glioma,tumor,Región tumoral,111.0,0.0044939918372755485,1147
+tumor_type,Glioma,tumor,Región tumoral,113.0,0.0042188570418459715,1147
+tumor_type,Glioma,tumor,Región tumoral,115.0,0.004014593477555257,1147
+tumor_type,Glioma,tumor,Región tumoral,117.0,0.003849726235508577,1147
+tumor_type,Glioma,tumor,Región tumoral,119.0,0.0036346400444997166,1147
+tumor_type,Glioma,tumor,Región tumoral,121.0,0.0034059659198601377,1147
+tumor_type,Glioma,tumor,Región tumoral,123.0,0.00324137919968046,1147
+tumor_type,Glioma,tumor,Región tumoral,125.0,0.0030178566175275896,1147
+tumor_type,Glioma,tumor,Región tumoral,127.0,0.0028318252964142595,1147
+tumor_type,Glioma,tumor,Región tumoral,129.0,0.00263175584304277,1147
+tumor_type,Glioma,tumor,Región tumoral,131.0,0.0023960961987620493,1147
+tumor_type,Glioma,tumor,Región tumoral,133.0,0.0021974618176303544,1147
+tumor_type,Glioma,tumor,Región tumoral,135.0,0.002109098795510799,1147
+tumor_type,Glioma,tumor,Región tumoral,137.0,0.0019349021453412222,1147
+tumor_type,Glioma,tumor,Región tumoral,139.0,0.0018264675792204956,1147
+tumor_type,Glioma,tumor,Región tumoral,141.0,0.0016919267617427256,1147
+tumor_type,Glioma,tumor,Región tumoral,143.0,0.0015479210131239356,1147
+tumor_type,Glioma,tumor,Región tumoral,145.0,0.0014312371733766816,1147
+tumor_type,Glioma,tumor,Región tumoral,147.0,0.0013485482283264942,1147
+tumor_type,Glioma,tumor,Región tumoral,149.0,0.001243879901394361,1147
+tumor_type,Glioma,tumor,Región tumoral,151.0,0.0011211520071102913,1147
+tumor_type,Glioma,tumor,Región tumoral,153.0,0.0010756579714726584,1147
+tumor_type,Glioma,tumor,Región tumoral,155.0,0.000964653614515064,1147
+tumor_type,Glioma,tumor,Región tumoral,157.0,0.0008549607489979178,1147
+tumor_type,Glioma,tumor,Región tumoral,159.0,0.0008281842920585175,1147
+tumor_type,Glioma,tumor,Región tumoral,161.0,0.0007614434048147029,1147
+tumor_type,Glioma,tumor,Región tumoral,163.0,0.0006783122174071079,1147
+tumor_type,Glioma,tumor,Región tumoral,165.0,0.0006024532556367446,1147
+tumor_type,Glioma,tumor,Región tumoral,167.0,0.0005538286686630138,1147
+tumor_type,Glioma,tumor,Región tumoral,169.0,0.0005130912368385819,1147
+tumor_type,Glioma,tumor,Región tumoral,171.0,0.0004736823694068755,1147
+tumor_type,Glioma,tumor,Región tumoral,173.0,0.000407932866564313,1147
+tumor_type,Glioma,tumor,Región tumoral,175.0,0.0004020990644393602,1147
+tumor_type,Glioma,tumor,Región tumoral,177.0,0.00035060733339184426,1147
+tumor_type,Glioma,tumor,Región tumoral,179.0,0.0003313605985434928,1147
+tumor_type,Glioma,tumor,Región tumoral,181.0,0.00028809080170516917,1147
+tumor_type,Glioma,tumor,Región tumoral,183.0,0.0002461222368048338,1147
+tumor_type,Glioma,tumor,Región tumoral,185.0,0.00023614962025523536,1147
+tumor_type,Glioma,tumor,Región tumoral,187.0,0.0002189824589031954,1147
+tumor_type,Glioma,tumor,Región tumoral,189.0,0.0001984578635445274,1147
+tumor_type,Glioma,tumor,Región tumoral,191.0,0.00018031173967256335,1147
+tumor_type,Glioma,tumor,Región tumoral,193.0,0.0001774327722501134,1147
+tumor_type,Glioma,tumor,Región tumoral,195.0,0.00015302071675737364,1147
+tumor_type,Glioma,tumor,Región tumoral,197.0,0.00012740225453020484,1147
+tumor_type,Glioma,tumor,Región tumoral,199.0,0.0001415923666386395,1147
+tumor_type,Glioma,tumor,Región tumoral,201.0,0.00012208905020225775,1147
+tumor_type,Glioma,tumor,Región tumoral,203.0,0.0001092457805182499,1147
+tumor_type,Glioma,tumor,Región tumoral,205.0,8.224835845516104e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,207.0,7.487519752668529e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,209.0,6.264857980808079e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,211.0,5.6063164408177944e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,213.0,5.4516467760071593e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,215.0,4.5592114217623146e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,217.0,3.399920873531016e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,219.0,3.014084725231295e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,221.0,2.6880762563411884e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,223.0,2.4622470977334558e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,225.0,2.1658939541670658e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,227.0,2.119867651385982e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,229.0,1.7510159117870586e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,231.0,1.0154347638406405e-05,1147
+tumor_type,Glioma,tumor,Región tumoral,233.0,7.699668189727417e-06,1147
+tumor_type,Glioma,tumor,Región tumoral,235.0,6.539838752205217e-06,1147
+tumor_type,Glioma,tumor,Región tumoral,237.0,3.4889830945354043e-06,1147
+tumor_type,Glioma,tumor,Región tumoral,239.0,3.2281945172502874e-06,1147
+tumor_type,Glioma,tumor,Región tumoral,241.0,3.666275522945925e-06,1147
+tumor_type,Glioma,tumor,Región tumoral,243.0,3.213655065583824e-06,1147
+tumor_type,Glioma,tumor,Región tumoral,245.0,2.2219933393972955e-06,1147
+tumor_type,Glioma,tumor,Región tumoral,247.0,2.7264612408044883e-06,1147
+tumor_type,Glioma,tumor,Región tumoral,249.0,1.0681752584798872e-06,1147
+tumor_type,Glioma,tumor,Región tumoral,251.0,1.879808583388189e-06,1147
+tumor_type,Glioma,tumor,Región tumoral,253.0,2.1405188438006307e-06,1147
+tumor_type,Glioma,tumor,Región tumoral,255.0,1.1396567155470601e-06,1147
+plane,Axial,tumor,Región tumoral,1.0,2.38691387796947e-05,1166
+plane,Axial,tumor,Región tumoral,3.0,5.074189080264814e-05,1166
+plane,Axial,tumor,Región tumoral,5.0,8.292896149704758e-05,1166
+plane,Axial,tumor,Región tumoral,7.0,0.00012924878599228202,1166
+plane,Axial,tumor,Región tumoral,9.0,0.0001717445798611004,1166
+plane,Axial,tumor,Región tumoral,11.0,0.00019895205194987327,1166
+plane,Axial,tumor,Región tumoral,13.0,0.00022586433811785418,1166
+plane,Axial,tumor,Región tumoral,15.0,0.00028475623670739955,1166
+plane,Axial,tumor,Región tumoral,17.0,0.00038060369841593834,1166
+plane,Axial,tumor,Región tumoral,19.0,0.0005123091118075425,1166
+plane,Axial,tumor,Región tumoral,21.0,0.0006228276711940847,1166
+plane,Axial,tumor,Región tumoral,23.0,0.000819170218155624,1166
+plane,Axial,tumor,Región tumoral,25.0,0.0010819930595640957,1166
+plane,Axial,tumor,Región tumoral,27.0,0.0013807060089302333,1166
+plane,Axial,tumor,Región tumoral,29.0,0.0017233042773452303,1166
+plane,Axial,tumor,Región tumoral,31.0,0.002241404725017049,1166
+plane,Axial,tumor,Región tumoral,33.0,0.0026774918100506548,1166
+plane,Axial,tumor,Región tumoral,35.0,0.0032412953780382174,1166
+plane,Axial,tumor,Región tumoral,37.0,0.003875116734269098,1166
+plane,Axial,tumor,Región tumoral,39.0,0.00470993236411137,1166
+plane,Axial,tumor,Región tumoral,41.0,0.005231896496570196,1166
+plane,Axial,tumor,Región tumoral,43.0,0.005800581938165436,1166
+plane,Axial,tumor,Región tumoral,45.0,0.006143081133364353,1166
+plane,Axial,tumor,Región tumoral,47.0,0.006499935668733371,1166
+plane,Axial,tumor,Región tumoral,49.0,0.006992874259000763,1166
+plane,Axial,tumor,Región tumoral,51.0,0.007419474720510494,1166
+plane,Axial,tumor,Región tumoral,53.0,0.007768894209509563,1166
+plane,Axial,tumor,Región tumoral,55.0,0.008030320835563076,1166
+plane,Axial,tumor,Región tumoral,57.0,0.00818369053234154,1166
+plane,Axial,tumor,Región tumoral,59.0,0.008155152060158617,1166
+plane,Axial,tumor,Región tumoral,61.0,0.008272790317337407,1166
+plane,Axial,tumor,Región tumoral,63.0,0.008560027734274056,1166
+plane,Axial,tumor,Región tumoral,65.0,0.008526907141241881,1166
+plane,Axial,tumor,Región tumoral,67.0,0.008471449835813761,1166
+plane,Axial,tumor,Región tumoral,69.0,0.008437562659576521,1166
+plane,Axial,tumor,Región tumoral,71.0,0.008475030492778172,1166
+plane,Axial,tumor,Región tumoral,73.0,0.008653295708006974,1166
+plane,Axial,tumor,Región tumoral,75.0,0.008725782837490221,1166
+plane,Axial,tumor,Región tumoral,77.0,0.009121734525873407,1166
+plane,Axial,tumor,Región tumoral,79.0,0.009326019261464345,1166
+plane,Axial,tumor,Región tumoral,81.0,0.009615784783274081,1166
+plane,Axial,tumor,Región tumoral,83.0,0.00969955608740924,1166
+plane,Axial,tumor,Región tumoral,85.0,0.009860353556142126,1166
+plane,Axial,tumor,Región tumoral,87.0,0.009887065381330886,1166
+plane,Axial,tumor,Región tumoral,89.0,0.0100581772530847,1166
+plane,Axial,tumor,Región tumoral,91.0,0.010214237509058217,1166
+plane,Axial,tumor,Región tumoral,93.0,0.010319926201349002,1166
+plane,Axial,tumor,Región tumoral,95.0,0.01031215033080983,1166
+plane,Axial,tumor,Región tumoral,97.0,0.010255597132755258,1166
+plane,Axial,tumor,Región tumoral,99.0,0.010339575471482527,1166
+plane,Axial,tumor,Región tumoral,101.0,0.01023920617470325,1166
+plane,Axial,tumor,Región tumoral,103.0,0.010199278121515398,1166
+plane,Axial,tumor,Región tumoral,105.0,0.01014610063873129,1166
+plane,Axial,tumor,Región tumoral,107.0,0.009836641213012825,1166
+plane,Axial,tumor,Región tumoral,109.0,0.009746821364300154,1166
+plane,Axial,tumor,Región tumoral,111.0,0.009497429597359577,1166
+plane,Axial,tumor,Región tumoral,113.0,0.00944708924487996,1166
+plane,Axial,tumor,Región tumoral,115.0,0.009278812642396835,1166
+plane,Axial,tumor,Región tumoral,117.0,0.009024064589412392,1166
+plane,Axial,tumor,Región tumoral,119.0,0.008630849596095346,1166
+plane,Axial,tumor,Región tumoral,121.0,0.008080020228785048,1166
+plane,Axial,tumor,Región tumoral,123.0,0.0076523017423969246,1166
+plane,Axial,tumor,Región tumoral,125.0,0.007162656396402016,1166
+plane,Axial,tumor,Región tumoral,127.0,0.006796858705274748,1166
+plane,Axial,tumor,Región tumoral,129.0,0.006438229320967753,1166
+plane,Axial,tumor,Región tumoral,131.0,0.006158254831593416,1166
+plane,Axial,tumor,Región tumoral,133.0,0.0057761813939458066,1166
+plane,Axial,tumor,Región tumoral,135.0,0.005583193119860115,1166
+plane,Axial,tumor,Región tumoral,137.0,0.005348327754304229,1166
+plane,Axial,tumor,Región tumoral,139.0,0.005063888437217921,1166
+plane,Axial,tumor,Región tumoral,141.0,0.004736952726789071,1166
+plane,Axial,tumor,Región tumoral,143.0,0.0044015479977755805,1166
+plane,Axial,tumor,Región tumoral,145.0,0.004119318675249765,1166
+plane,Axial,tumor,Región tumoral,147.0,0.0038243924411967183,1166
+plane,Axial,tumor,Región tumoral,149.0,0.0035609139457418596,1166
+plane,Axial,tumor,Región tumoral,151.0,0.003279037930248026,1166
+plane,Axial,tumor,Región tumoral,153.0,0.003033705497771713,1166
+plane,Axial,tumor,Región tumoral,155.0,0.0028558013241954026,1166
+plane,Axial,tumor,Región tumoral,157.0,0.002623670157075932,1166
+plane,Axial,tumor,Región tumoral,159.0,0.002404510162889538,1166
+plane,Axial,tumor,Región tumoral,161.0,0.0022659250006193017,1166
+plane,Axial,tumor,Región tumoral,163.0,0.002059941897740939,1166
+plane,Axial,tumor,Región tumoral,165.0,0.0018585448872555088,1166
+plane,Axial,tumor,Región tumoral,167.0,0.0017069547919667106,1166
+plane,Axial,tumor,Región tumoral,169.0,0.0015707414671707089,1166
+plane,Axial,tumor,Región tumoral,171.0,0.0013076276740370141,1166
+plane,Axial,tumor,Región tumoral,173.0,0.0011485241625900156,1166
+plane,Axial,tumor,Región tumoral,175.0,0.0009667128351956943,1166
+plane,Axial,tumor,Región tumoral,177.0,0.0008493298547545452,1166
+plane,Axial,tumor,Región tumoral,179.0,0.0007520350859468335,1166
+plane,Axial,tumor,Región tumoral,181.0,0.0006608426993307188,1166
+plane,Axial,tumor,Región tumoral,183.0,0.0005763016353080313,1166
+plane,Axial,tumor,Región tumoral,185.0,0.0004847218343117891,1166
+plane,Axial,tumor,Región tumoral,187.0,0.00042412657487327126,1166
+plane,Axial,tumor,Región tumoral,189.0,0.00039584301025264704,1166
+plane,Axial,tumor,Región tumoral,191.0,0.00034963826045939563,1166
+plane,Axial,tumor,Región tumoral,193.0,0.0003159538506964712,1166
+plane,Axial,tumor,Región tumoral,195.0,0.0003017158135660228,1166
+plane,Axial,tumor,Región tumoral,197.0,0.00028357161112836177,1166
+plane,Axial,tumor,Región tumoral,199.0,0.0002704327722424009,1166
+plane,Axial,tumor,Región tumoral,201.0,0.00024783569468179035,1166
+plane,Axial,tumor,Región tumoral,203.0,0.00022481341023925433,1166
+plane,Axial,tumor,Región tumoral,205.0,0.00021311365132753964,1166
+plane,Axial,tumor,Región tumoral,207.0,0.00020695421177875387,1166
+plane,Axial,tumor,Región tumoral,209.0,0.00020208188104854692,1166
+plane,Axial,tumor,Región tumoral,211.0,0.0001825346866345416,1166
+plane,Axial,tumor,Región tumoral,213.0,0.00018042541883926013,1166
+plane,Axial,tumor,Región tumoral,215.0,0.0001650465416712547,1166
+plane,Axial,tumor,Región tumoral,217.0,0.00016628458409861986,1166
+plane,Axial,tumor,Región tumoral,219.0,0.00016452083988226812,1166
+plane,Axial,tumor,Región tumoral,221.0,0.0001542033887963047,1166
+plane,Axial,tumor,Región tumoral,223.0,0.0001347582882103351,1166
+plane,Axial,tumor,Región tumoral,225.0,0.00013018369128119643,1166
+plane,Axial,tumor,Región tumoral,227.0,0.00012236750048777272,1166
+plane,Axial,tumor,Región tumoral,229.0,0.0001103762886729024,1166
+plane,Axial,tumor,Región tumoral,231.0,0.00011287247717201064,1166
+plane,Axial,tumor,Región tumoral,233.0,0.00010444271024871833,1166
+plane,Axial,tumor,Región tumoral,235.0,9.36615498114148e-05,1166
+plane,Axial,tumor,Región tumoral,237.0,0.00010081516505160982,1166
+plane,Axial,tumor,Región tumoral,239.0,9.927445926591157e-05,1166
+plane,Axial,tumor,Región tumoral,241.0,9.70846365220454e-05,1166
+plane,Axial,tumor,Región tumoral,243.0,9.325907352738142e-05,1166
+plane,Axial,tumor,Región tumoral,245.0,0.00010168472841681173,1166
+plane,Axial,tumor,Región tumoral,247.0,0.00012327955835408393,1166
+plane,Axial,tumor,Región tumoral,249.0,0.00014582532295239977,1166
+plane,Axial,tumor,Región tumoral,251.0,0.00016444821701675204,1166
+plane,Axial,tumor,Región tumoral,253.0,0.00016574675392925744,1166
+plane,Axial,tumor,Región tumoral,255.0,0.0007033764634692137,1166
+global,Todos,non_tumor,Región no tumoral,1.0,0.00044044801346297474,3792
+global,Todos,non_tumor,Región no tumoral,3.0,0.0009293185701958194,3792
+global,Todos,non_tumor,Región no tumoral,5.0,0.001851380461586912,3792
+global,Todos,non_tumor,Región no tumoral,7.0,0.0024162785683268977,3792
+global,Todos,non_tumor,Región no tumoral,9.0,0.0026019029048448615,3792
+global,Todos,non_tumor,Región no tumoral,11.0,0.0026043971036147076,3792
+global,Todos,non_tumor,Región no tumoral,13.0,0.0025833751308109963,3792
+global,Todos,non_tumor,Región no tumoral,15.0,0.002666106248736228,3792
+global,Todos,non_tumor,Región no tumoral,17.0,0.004891586829900618,3792
+global,Todos,non_tumor,Región no tumoral,19.0,0.0046658403239298474,3792
+global,Todos,non_tumor,Región no tumoral,21.0,0.004624653880137292,3792
+global,Todos,non_tumor,Región no tumoral,23.0,0.004698284957727807,3792
+global,Todos,non_tumor,Región no tumoral,25.0,0.004821125844585103,3792
+global,Todos,non_tumor,Región no tumoral,27.0,0.004991456072279616,3792
+global,Todos,non_tumor,Región no tumoral,29.0,0.005207524709164609,3792
+global,Todos,non_tumor,Región no tumoral,31.0,0.005453658535901334,3792
+global,Todos,non_tumor,Región no tumoral,33.0,0.00574256961010559,3792
+global,Todos,non_tumor,Región no tumoral,35.0,0.0060539641196743505,3792
+global,Todos,non_tumor,Región no tumoral,37.0,0.0064237856430184636,3792
+global,Todos,non_tumor,Región no tumoral,39.0,0.006863338162421508,3792
+global,Todos,non_tumor,Región no tumoral,41.0,0.007385301169852744,3792
+global,Todos,non_tumor,Región no tumoral,43.0,0.007967938407610838,3792
+global,Todos,non_tumor,Región no tumoral,45.0,0.00863729982341081,3792
+global,Todos,non_tumor,Región no tumoral,47.0,0.009395182901029454,3792
+global,Todos,non_tumor,Región no tumoral,49.0,0.010215026064992852,3792
+global,Todos,non_tumor,Región no tumoral,51.0,0.01106515225303871,3792
+global,Todos,non_tumor,Región no tumoral,53.0,0.011931331399236337,3792
+global,Todos,non_tumor,Región no tumoral,55.0,0.012731634810798687,3792
+global,Todos,non_tumor,Región no tumoral,57.0,0.01347768302349637,3792
+global,Todos,non_tumor,Región no tumoral,59.0,0.014135685675953568,3792
+global,Todos,non_tumor,Región no tumoral,61.0,0.014717783470738861,3792
+global,Todos,non_tumor,Región no tumoral,63.0,0.015205856983005282,3792
+global,Todos,non_tumor,Región no tumoral,65.0,0.015556680109404695,3792
+global,Todos,non_tumor,Región no tumoral,67.0,0.015743312472019683,3792
+global,Todos,non_tumor,Región no tumoral,69.0,0.01576939458061526,3792
+global,Todos,non_tumor,Región no tumoral,71.0,0.015608060734452337,3792
+global,Todos,non_tumor,Región no tumoral,73.0,0.015265759562715744,3792
+global,Todos,non_tumor,Región no tumoral,75.0,0.01477645169112991,3792
+global,Todos,non_tumor,Región no tumoral,77.0,0.014139040444417857,3792
+global,Todos,non_tumor,Región no tumoral,79.0,0.013343766606065182,3792
+global,Todos,non_tumor,Región no tumoral,81.0,0.01243288902578314,3792
+global,Todos,non_tumor,Región no tumoral,83.0,0.011426729610619017,3792
+global,Todos,non_tumor,Región no tumoral,85.0,0.010380896551442883,3792
+global,Todos,non_tumor,Región no tumoral,87.0,0.0093279239821806,3792
+global,Todos,non_tumor,Región no tumoral,89.0,0.008308236116220457,3792
+global,Todos,non_tumor,Región no tumoral,91.0,0.007347490574847724,3792
+global,Todos,non_tumor,Región no tumoral,93.0,0.006517635211090599,3792
+global,Todos,non_tumor,Región no tumoral,95.0,0.0057974852841634434,3792
+global,Todos,non_tumor,Región no tumoral,97.0,0.005185385515964506,3792
+global,Todos,non_tumor,Región no tumoral,99.0,0.004673639922626826,3792
+global,Todos,non_tumor,Región no tumoral,101.0,0.0042408508091272435,3792
+global,Todos,non_tumor,Región no tumoral,103.0,0.0038631738143841752,3792
+global,Todos,non_tumor,Región no tumoral,105.0,0.0035683933114041846,3792
+global,Todos,non_tumor,Región no tumoral,107.0,0.003321834191547196,3792
+global,Todos,non_tumor,Región no tumoral,109.0,0.0031211640723999147,3792
+global,Todos,non_tumor,Región no tumoral,111.0,0.0029643179565093116,3792
+global,Todos,non_tumor,Región no tumoral,113.0,0.002824591128295517,3792
+global,Todos,non_tumor,Región no tumoral,115.0,0.002699422259507947,3792
+global,Todos,non_tumor,Región no tumoral,117.0,0.002587494326968638,3792
+global,Todos,non_tumor,Región no tumoral,119.0,0.0024778570102983277,3792
+global,Todos,non_tumor,Región no tumoral,121.0,0.0023816351387554086,3792
+global,Todos,non_tumor,Región no tumoral,123.0,0.0022868118565423277,3792
+global,Todos,non_tumor,Región no tumoral,125.0,0.002196293252394222,3792
+global,Todos,non_tumor,Región no tumoral,127.0,0.002113002735349597,3792
+global,Todos,non_tumor,Región no tumoral,129.0,0.0020281413048826307,3792
+global,Todos,non_tumor,Región no tumoral,131.0,0.0019472224848386434,3792
+global,Todos,non_tumor,Región no tumoral,133.0,0.0018668436368788636,3792
+global,Todos,non_tumor,Región no tumoral,135.0,0.0017938975696120427,3792
+global,Todos,non_tumor,Región no tumoral,137.0,0.0017221966585517629,3792
+global,Todos,non_tumor,Región no tumoral,139.0,0.0016533249053578445,3792
+global,Todos,non_tumor,Región no tumoral,141.0,0.00158598189620339,3792
+global,Todos,non_tumor,Región no tumoral,143.0,0.0015188811025996327,3792
+global,Todos,non_tumor,Región no tumoral,145.0,0.0014547390637590638,3792
+global,Todos,non_tumor,Región no tumoral,147.0,0.0013896962302362985,3792
+global,Todos,non_tumor,Región no tumoral,149.0,0.0013298011235802292,3792
+global,Todos,non_tumor,Región no tumoral,151.0,0.0012690030761161744,3792
+global,Todos,non_tumor,Región no tumoral,153.0,0.0012142256044146546,3792
+global,Todos,non_tumor,Región no tumoral,155.0,0.0011601080824283371,3792
+global,Todos,non_tumor,Región no tumoral,157.0,0.0011075796058414207,3792
+global,Todos,non_tumor,Región no tumoral,159.0,0.0010551099112189866,3792
+global,Todos,non_tumor,Región no tumoral,161.0,0.0010061829103176034,3792
+global,Todos,non_tumor,Región no tumoral,163.0,0.0009630878627403227,3792
+global,Todos,non_tumor,Región no tumoral,165.0,0.0009182715595462997,3792
+global,Todos,non_tumor,Región no tumoral,167.0,0.0008760669987340886,3792
+global,Todos,non_tumor,Región no tumoral,169.0,0.0008356264472245235,3792
+global,Todos,non_tumor,Región no tumoral,171.0,0.0007948839316233712,3792
+global,Todos,non_tumor,Región no tumoral,173.0,0.0007568443234695653,3792
+global,Todos,non_tumor,Región no tumoral,175.0,0.0007194664289899313,3792
+global,Todos,non_tumor,Región no tumoral,177.0,0.0006831764267966935,3792
+global,Todos,non_tumor,Región no tumoral,179.0,0.0006487669552907277,3792
+global,Todos,non_tumor,Región no tumoral,181.0,0.0006140761296551673,3792
+global,Todos,non_tumor,Región no tumoral,183.0,0.0005809308886017084,3792
+global,Todos,non_tumor,Región no tumoral,185.0,0.0005484115253084425,3792
+global,Todos,non_tumor,Región no tumoral,187.0,0.0005173262546485734,3792
+global,Todos,non_tumor,Región no tumoral,189.0,0.0004869798144355475,3792
+global,Todos,non_tumor,Región no tumoral,191.0,0.0004567435084465651,3792
+global,Todos,non_tumor,Región no tumoral,193.0,0.0004294140316580528,3792
+global,Todos,non_tumor,Región no tumoral,195.0,0.0004011737490482375,3792
+global,Todos,non_tumor,Región no tumoral,197.0,0.0003739011367102842,3792
+global,Todos,non_tumor,Región no tumoral,199.0,0.0003489944009317612,3792
+global,Todos,non_tumor,Región no tumoral,201.0,0.0003231535472102369,3792
+global,Todos,non_tumor,Región no tumoral,203.0,0.0003012748488298018,3792
+global,Todos,non_tumor,Región no tumoral,205.0,0.00027737973255924375,3792
+global,Todos,non_tumor,Región no tumoral,207.0,0.00025584105939137336,3792
+global,Todos,non_tumor,Región no tumoral,209.0,0.000234861335864071,3792
+global,Todos,non_tumor,Región no tumoral,211.0,0.0002158010083813612,3792
+global,Todos,non_tumor,Región no tumoral,213.0,0.00019778914005073967,3792
+global,Todos,non_tumor,Región no tumoral,215.0,0.00017970614514122008,3792
+global,Todos,non_tumor,Región no tumoral,217.0,0.00016227271903781823,3792
+global,Todos,non_tumor,Región no tumoral,219.0,0.00014566841966158597,3792
+global,Todos,non_tumor,Región no tumoral,221.0,0.0001312101382631913,3792
+global,Todos,non_tumor,Región no tumoral,223.0,0.0001167682583543264,3792
+global,Todos,non_tumor,Región no tumoral,225.0,0.00010292483609908181,3792
+global,Todos,non_tumor,Región no tumoral,227.0,9.186689878764012e-05,3792
+global,Todos,non_tumor,Región no tumoral,229.0,8.044658984898496e-05,3792
+global,Todos,non_tumor,Región no tumoral,231.0,6.983631178451172e-05,3792
+global,Todos,non_tumor,Región no tumoral,233.0,6.071215779373518e-05,3792
+global,Todos,non_tumor,Región no tumoral,235.0,5.28378326596496e-05,3792
+global,Todos,non_tumor,Región no tumoral,237.0,4.459288466007548e-05,3792
+global,Todos,non_tumor,Región no tumoral,239.0,3.8078288748335494e-05,3792
+global,Todos,non_tumor,Región no tumoral,241.0,3.1881101547280427e-05,3792
+global,Todos,non_tumor,Región no tumoral,243.0,2.7050168831861255e-05,3792
+global,Todos,non_tumor,Región no tumoral,245.0,2.2551379658265344e-05,3792
+global,Todos,non_tumor,Región no tumoral,247.0,2.0064605047060257e-05,3792
+global,Todos,non_tumor,Región no tumoral,249.0,1.887711015881553e-05,3792
+global,Todos,non_tumor,Región no tumoral,251.0,1.9522513620764237e-05,3792
+global,Todos,non_tumor,Región no tumoral,253.0,2.2047677465600566e-05,3792
+global,Todos,non_tumor,Región no tumoral,255.0,5.341421701188188e-05,3792
+tumor_type,Glioma,non_tumor,Región no tumoral,1.0,0.0006664165793142965,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,3.0,0.0017330141968141517,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,5.0,0.0025820768555550894,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,7.0,0.00254567487747953,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,9.0,0.002386398658966122,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,11.0,0.0023305774261110765,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,13.0,0.002348029591483588,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,15.0,0.002468865826564771,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,17.0,0.004649043854700955,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,19.0,0.00457214290740919,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,21.0,0.0046148054341919416,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,23.0,0.004741385140652353,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,25.0,0.004920874302488152,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,27.0,0.005164092611674321,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,29.0,0.005457131586734342,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,31.0,0.005819786183335654,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,33.0,0.006249658288862904,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,35.0,0.006735174135591818,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,37.0,0.007360585047535546,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,39.0,0.008177471553984808,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,41.0,0.00916577688531891,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,43.0,0.010222317145845006,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,45.0,0.011448157997189953,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,47.0,0.012836335271831497,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,49.0,0.014249465686031566,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,51.0,0.015621503332112088,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,53.0,0.01685080089377274,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,55.0,0.017724209707088982,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,57.0,0.01817487948500033,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,59.0,0.018325677599766384,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,61.0,0.01817272562701918,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,63.0,0.01770757641184263,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,65.0,0.016933309330472077,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,67.0,0.015943392095425047,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,69.0,0.014889421658689884,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,71.0,0.01378895184256419,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,73.0,0.012689370198994342,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,75.0,0.0116285907599432,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,77.0,0.010591876767160958,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,79.0,0.009580894071564093,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,81.0,0.00863741251925898,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,83.0,0.007827794331382597,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,85.0,0.00714278994330654,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,87.0,0.006510258842118361,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,89.0,0.005915526709560571,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,91.0,0.005369508443719059,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,93.0,0.004899032084974989,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,95.0,0.004494521799844348,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,97.0,0.0041572868813823435,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,99.0,0.0038711863167496755,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,101.0,0.0036171196018881216,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,103.0,0.0033870217010667078,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,105.0,0.0031920807650032044,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,107.0,0.003015278227535605,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,109.0,0.002858378885619331,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,111.0,0.002721370068979768,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,113.0,0.0025941260364253306,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,115.0,0.002469336465393939,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,117.0,0.002362135791386946,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,119.0,0.0022478626201578446,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,121.0,0.0021525262868076845,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,123.0,0.0020620796005357965,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,125.0,0.0019767974958400623,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,127.0,0.0018907887303535847,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,129.0,0.001806801426361096,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,131.0,0.0017368702629473795,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,133.0,0.0016545631128466395,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,135.0,0.0015907184718685682,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,137.0,0.0015203193376135697,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,139.0,0.0014521189598977991,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,141.0,0.0013926685701074527,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,143.0,0.0013302569719029073,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,145.0,0.0012670102807263097,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,147.0,0.0012142402809286487,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,149.0,0.0011508489781400255,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,151.0,0.0010951343408619003,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,153.0,0.0010476686585390472,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,155.0,0.0009943763640515879,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,157.0,0.0009405471190380997,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,159.0,0.00089200675518032,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,161.0,0.0008404741313125538,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,163.0,0.0007951941555532987,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,165.0,0.0007501031760968933,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,167.0,0.0007056598954156967,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,169.0,0.0006614525426415169,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,171.0,0.0006171268249974665,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,173.0,0.0005753345175364785,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,175.0,0.0005416090361416058,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,177.0,0.0005078297033670513,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,179.0,0.0004744509478363104,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,181.0,0.00044190641188152026,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,183.0,0.00040912032339392526,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,185.0,0.00038174901595080526,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,187.0,0.0003554536690531976,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,189.0,0.00032729417925592857,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,191.0,0.0003033936388576476,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,193.0,0.0002798429236387609,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,195.0,0.0002583947360689618,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,197.0,0.0002371226056229762,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,199.0,0.00021628925803525616,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,201.0,0.0001983304953845123,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,203.0,0.00018197705946657223,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,205.0,0.0001652446273375488,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,207.0,0.00014997639846903968,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,209.0,0.00013538663517187734,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,211.0,0.00012168396359733804,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,213.0,0.00011075300529864446,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,215.0,9.96652847726882e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,217.0,8.910566346083959e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,219.0,7.906386833878979e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,221.0,6.994982650774163e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,223.0,6.107033016339227e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,225.0,5.255451226941246e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,227.0,4.6348730778482524e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,229.0,4.0050506421906855e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,231.0,3.474130085167135e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,233.0,2.9681567050368455e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,235.0,2.487820578186199e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,237.0,2.1014258996925146e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,239.0,1.7394392376617413e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,241.0,1.4354669486516286e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,243.0,1.1822920567198753e-05,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,245.0,9.659730743516885e-06,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,247.0,7.734446558290111e-06,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,249.0,6.283191328269106e-06,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,251.0,4.891798402844666e-06,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,253.0,3.636165941602158e-06,1147
+tumor_type,Glioma,non_tumor,Región no tumoral,255.0,6.136884431214863e-06,1147
+plane,Axial,non_tumor,Región no tumoral,1.0,0.0007125836586238493,1166
+plane,Axial,non_tumor,Región no tumoral,3.0,0.0010919503439270162,1166
+plane,Axial,non_tumor,Región no tumoral,5.0,0.001982970152256106,1166
+plane,Axial,non_tumor,Región no tumoral,7.0,0.0026475797120423233,1166
+plane,Axial,non_tumor,Región no tumoral,9.0,0.0029339104729520157,1166
+plane,Axial,non_tumor,Región no tumoral,11.0,0.0029898533549015233,1166
+plane,Axial,non_tumor,Región no tumoral,13.0,0.0029365739670589616,1166
+plane,Axial,non_tumor,Región no tumoral,15.0,0.0028878939303514247,1166
+plane,Axial,non_tumor,Región no tumoral,17.0,0.004048604892083822,1166
+plane,Axial,non_tumor,Región no tumoral,19.0,0.003916802640611946,1166
+plane,Axial,non_tumor,Región no tumoral,21.0,0.003922362013863764,1166
+plane,Axial,non_tumor,Región no tumoral,23.0,0.00400261553335083,1166
+plane,Axial,non_tumor,Región no tumoral,25.0,0.00408926152765303,1166
+plane,Axial,non_tumor,Región no tumoral,27.0,0.0041878736947112034,1166
+plane,Axial,non_tumor,Región no tumoral,29.0,0.004284951306484957,1166
+plane,Axial,non_tumor,Región no tumoral,31.0,0.0044099011982752885,1166
+plane,Axial,non_tumor,Región no tumoral,33.0,0.004586745406832497,1166
+plane,Axial,non_tumor,Región no tumoral,35.0,0.0047963069007634675,1166
+plane,Axial,non_tumor,Región no tumoral,37.0,0.005156029499550456,1166
+plane,Axial,non_tumor,Región no tumoral,39.0,0.00572547539270516,1166
+plane,Axial,non_tumor,Región no tumoral,41.0,0.006541427628117146,1166
+plane,Axial,non_tumor,Región no tumoral,43.0,0.0074772169486648984,1166
+plane,Axial,non_tumor,Región no tumoral,45.0,0.008593020733362836,1166
+plane,Axial,non_tumor,Región no tumoral,47.0,0.009926030825586574,1166
+plane,Axial,non_tumor,Región no tumoral,49.0,0.011366476058353763,1166
+plane,Axial,non_tumor,Región no tumoral,51.0,0.012831852255474447,1166
+plane,Axial,non_tumor,Región no tumoral,53.0,0.014220985102153895,1166
+plane,Axial,non_tumor,Región no tumoral,55.0,0.015310861580220549,1166
+plane,Axial,non_tumor,Región no tumoral,57.0,0.01610183728800876,1166
+plane,Axial,non_tumor,Región no tumoral,59.0,0.016586681238331742,1166
+plane,Axial,non_tumor,Región no tumoral,61.0,0.01692954791565245,1166
+plane,Axial,non_tumor,Región no tumoral,63.0,0.017087235180794903,1166
+plane,Axial,non_tumor,Región no tumoral,65.0,0.017037130474915604,1166
+plane,Axial,non_tumor,Región no tumoral,67.0,0.016734851646587945,1166
+plane,Axial,non_tumor,Región no tumoral,69.0,0.01626980625473448,1166
+plane,Axial,non_tumor,Región no tumoral,71.0,0.015689985394773,1166
+plane,Axial,non_tumor,Región no tumoral,73.0,0.01501686102963031,1166
+plane,Axial,non_tumor,Región no tumoral,75.0,0.014236904356971971,1166
+plane,Axial,non_tumor,Región no tumoral,77.0,0.013318373213958122,1166
+plane,Axial,non_tumor,Región no tumoral,79.0,0.012272270565752728,1166
+plane,Axial,non_tumor,Región no tumoral,81.0,0.011166924255491834,1166
+plane,Axial,non_tumor,Región no tumoral,83.0,0.010001851652782631,1166
+plane,Axial,non_tumor,Región no tumoral,85.0,0.008890355464184218,1166
+plane,Axial,non_tumor,Región no tumoral,87.0,0.007853576041478976,1166
+plane,Axial,non_tumor,Región no tumoral,89.0,0.0069185288957398635,1166
+plane,Axial,non_tumor,Región no tumoral,91.0,0.006105215954023368,1166
+plane,Axial,non_tumor,Región no tumoral,93.0,0.0054740023349041525,1166
+plane,Axial,non_tumor,Región no tumoral,95.0,0.0049547656330431854,1166
+plane,Axial,non_tumor,Región no tumoral,97.0,0.004537426939334904,1166
+plane,Axial,non_tumor,Región no tumoral,99.0,0.004198152353150239,1166
+plane,Axial,non_tumor,Región no tumoral,101.0,0.0038967723872323735,1166
+plane,Axial,non_tumor,Región no tumoral,103.0,0.0036091482037233914,1166
+plane,Axial,non_tumor,Región no tumoral,105.0,0.003389939087022905,1166
+plane,Axial,non_tumor,Región no tumoral,107.0,0.0032034689237307613,1166
+plane,Axial,non_tumor,Región no tumoral,109.0,0.003054732127901907,1166
+plane,Axial,non_tumor,Región no tumoral,111.0,0.0029383970737635492,1166
+plane,Axial,non_tumor,Región no tumoral,113.0,0.0028191571793172213,1166
+plane,Axial,non_tumor,Región no tumoral,115.0,0.002720048328685951,1166
+plane,Axial,non_tumor,Región no tumoral,117.0,0.002628027861105862,1166
+plane,Axial,non_tumor,Región no tumoral,119.0,0.0025391216071536287,1166
+plane,Axial,non_tumor,Región no tumoral,121.0,0.002458275539478469,1166
+plane,Axial,non_tumor,Región no tumoral,123.0,0.002382543563669581,1166
+plane,Axial,non_tumor,Región no tumoral,125.0,0.0023097535367859585,1166
+plane,Axial,non_tumor,Región no tumoral,127.0,0.0022459685698915247,1166
+plane,Axial,non_tumor,Región no tumoral,129.0,0.0021735509958413085,1166
+plane,Axial,non_tumor,Región no tumoral,131.0,0.0021044299849457397,1166
+plane,Axial,non_tumor,Región no tumoral,133.0,0.00202776293731193,1166
+plane,Axial,non_tumor,Región no tumoral,135.0,0.0019699205372236753,1166
+plane,Axial,non_tumor,Región no tumoral,137.0,0.0019065838281702235,1166
+plane,Axial,non_tumor,Región no tumoral,139.0,0.0018487351685873956,1166
+plane,Axial,non_tumor,Región no tumoral,141.0,0.0017886218821932388,1166
+plane,Axial,non_tumor,Región no tumoral,143.0,0.001717573301343171,1166
+plane,Axial,non_tumor,Región no tumoral,145.0,0.00165258047269438,1166
+plane,Axial,non_tumor,Región no tumoral,147.0,0.001583887574925272,1166
+plane,Axial,non_tumor,Región no tumoral,149.0,0.0015248388707857182,1166
+plane,Axial,non_tumor,Región no tumoral,151.0,0.001461851038783984,1166
+plane,Axial,non_tumor,Región no tumoral,153.0,0.001400492544600872,1166
+plane,Axial,non_tumor,Región no tumoral,155.0,0.0013451629887277577,1166
+plane,Axial,non_tumor,Región no tumoral,157.0,0.0012824205486206275,1166
+plane,Axial,non_tumor,Región no tumoral,159.0,0.0012227229657960554,1166
+plane,Axial,non_tumor,Región no tumoral,161.0,0.0011630779221264164,1166
+plane,Axial,non_tumor,Región no tumoral,163.0,0.0011168446144952924,1166
+plane,Axial,non_tumor,Región no tumoral,165.0,0.0010640061660061424,1166
+plane,Axial,non_tumor,Región no tumoral,167.0,0.001017143832990978,1166
+plane,Axial,non_tumor,Región no tumoral,169.0,0.0009700107082599663,1166
+plane,Axial,non_tumor,Región no tumoral,171.0,0.0009225831044241145,1166
+plane,Axial,non_tumor,Región no tumoral,173.0,0.0008773153670207874,1166
+plane,Axial,non_tumor,Región no tumoral,175.0,0.0008297306582288741,1166
+plane,Axial,non_tumor,Región no tumoral,177.0,0.0007875462905141943,1166
+plane,Axial,non_tumor,Región no tumoral,179.0,0.0007426765086716767,1166
+plane,Axial,non_tumor,Región no tumoral,181.0,0.0007005578942178243,1166
+plane,Axial,non_tumor,Región no tumoral,183.0,0.0006569594086108878,1166
+plane,Axial,non_tumor,Región no tumoral,185.0,0.0006145450615450656,1166
+plane,Axial,non_tumor,Región no tumoral,187.0,0.0005727700696156537,1166
+plane,Axial,non_tumor,Región no tumoral,189.0,0.000533494550100464,1166
+plane,Axial,non_tumor,Región no tumoral,191.0,0.0004955577376386892,1166
+plane,Axial,non_tumor,Región no tumoral,193.0,0.0004609324829065541,1166
+plane,Axial,non_tumor,Región no tumoral,195.0,0.0004240885715310875,1166
+plane,Axial,non_tumor,Región no tumoral,197.0,0.0003880990772397894,1166
+plane,Axial,non_tumor,Región no tumoral,199.0,0.0003570487737893254,1166
+plane,Axial,non_tumor,Región no tumoral,201.0,0.0003240433782381545,1166
+plane,Axial,non_tumor,Región no tumoral,203.0,0.00029747322810303443,1166
+plane,Axial,non_tumor,Región no tumoral,205.0,0.00026996468716647995,1166
+plane,Axial,non_tumor,Región no tumoral,207.0,0.00024555911677519624,1166
+plane,Axial,non_tumor,Región no tumoral,209.0,0.00021968007138166827,1166
+plane,Axial,non_tumor,Región no tumoral,211.0,0.0001989807652631729,1166
+plane,Axial,non_tumor,Región no tumoral,213.0,0.00017846128611983058,1166
+plane,Axial,non_tumor,Región no tumoral,215.0,0.00015848084502351618,1166
+plane,Axial,non_tumor,Región no tumoral,217.0,0.00014033004321434303,1166
+plane,Axial,non_tumor,Región no tumoral,219.0,0.00012328520799708388,1166
+plane,Axial,non_tumor,Región no tumoral,221.0,0.00010970592551947796,1166
+plane,Axial,non_tumor,Región no tumoral,223.0,9.496813464587708e-05,1166
+plane,Axial,non_tumor,Región no tumoral,225.0,8.164177467413032e-05,1166
+plane,Axial,non_tumor,Región no tumoral,227.0,7.362080472128543e-05,1166
+plane,Axial,non_tumor,Región no tumoral,229.0,6.379624018546408e-05,1166
+plane,Axial,non_tumor,Región no tumoral,231.0,5.413589294800165e-05,1166
+plane,Axial,non_tumor,Región no tumoral,233.0,4.510079863856254e-05,1166
+plane,Axial,non_tumor,Región no tumoral,235.0,4.0218489879143896e-05,1166
+plane,Axial,non_tumor,Región no tumoral,237.0,3.4389631875530285e-05,1166
+plane,Axial,non_tumor,Región no tumoral,239.0,3.0323262704777326e-05,1166
+plane,Axial,non_tumor,Región no tumoral,241.0,2.7313787585135158e-05,1166
+plane,Axial,non_tumor,Región no tumoral,243.0,2.4611244274511394e-05,1166
+plane,Axial,non_tumor,Región no tumoral,245.0,2.3165531744806057e-05,1166
+plane,Axial,non_tumor,Región no tumoral,247.0,2.4596765179011847e-05,1166
+plane,Axial,non_tumor,Región no tumoral,249.0,2.8878805524228843e-05,1166
+plane,Axial,non_tumor,Región no tumoral,251.0,3.635906384377112e-05,1166
+plane,Axial,non_tumor,Región no tumoral,253.0,4.87796683689841e-05,1166
+plane,Axial,non_tumor,Región no tumoral,255.0,0.00014025630327745977,1166
+plane,Coronal,complete,Imagen completa,1.0,0.000382524854319367,1332
+plane,Coronal,complete,Imagen completa,3.0,0.0008940986005929288,1332
+plane,Coronal,complete,Imagen completa,5.0,0.0016041627930516895,1332
+plane,Coronal,complete,Imagen completa,7.0,0.002105549691451268,1332
+plane,Coronal,complete,Imagen completa,9.0,0.0023726852839994826,1332
+plane,Coronal,complete,Imagen completa,11.0,0.0024369767834616558,1332
+plane,Coronal,complete,Imagen completa,13.0,0.0024104451198106607,1332
+plane,Coronal,complete,Imagen completa,15.0,0.002496811751681592,1332
+plane,Coronal,complete,Imagen completa,17.0,0.004966519526668574,1332
+plane,Coronal,complete,Imagen completa,19.0,0.004605707067056481,1332
+plane,Coronal,complete,Imagen completa,21.0,0.004537020937889894,1332
+plane,Coronal,complete,Imagen completa,23.0,0.004612037919913524,1332
+plane,Coronal,complete,Imagen completa,25.0,0.004779046026310625,1332
+plane,Coronal,complete,Imagen completa,27.0,0.005027153159653037,1332
+plane,Coronal,complete,Imagen completa,29.0,0.0053563347470596025,1332
+plane,Coronal,complete,Imagen completa,31.0,0.005729339663774542,1332
+plane,Coronal,complete,Imagen completa,33.0,0.006146745659524114,1332
+plane,Coronal,complete,Imagen completa,35.0,0.006574889076182393,1332
+plane,Coronal,complete,Imagen completa,37.0,0.00699637315495238,1332
+plane,Coronal,complete,Imagen completa,39.0,0.007413892208669255,1332
+plane,Coronal,complete,Imagen completa,41.0,0.00783382602520593,1332
+plane,Coronal,complete,Imagen completa,43.0,0.00827831917938334,1332
+plane,Coronal,complete,Imagen completa,45.0,0.008783644761552346,1332
+plane,Coronal,complete,Imagen completa,47.0,0.009294252605293695,1332
+plane,Coronal,complete,Imagen completa,49.0,0.009846489947215395,1332
+plane,Coronal,complete,Imagen completa,51.0,0.01041454127002506,1332
+plane,Coronal,complete,Imagen completa,53.0,0.011015380950588249,1332
+plane,Coronal,complete,Imagen completa,55.0,0.011665424856960363,1332
+plane,Coronal,complete,Imagen completa,57.0,0.012355087406334859,1332
+plane,Coronal,complete,Imagen completa,59.0,0.013048985049493391,1332
+plane,Coronal,complete,Imagen completa,61.0,0.013668328541382259,1332
+plane,Coronal,complete,Imagen completa,63.0,0.014211229455569695,1332
+plane,Coronal,complete,Imagen completa,65.0,0.014629361970991517,1332
+plane,Coronal,complete,Imagen completa,67.0,0.01492628195057173,1332
+plane,Coronal,complete,Imagen completa,69.0,0.015094871312910672,1332
+plane,Coronal,complete,Imagen completa,71.0,0.01512563277790624,1332
+plane,Coronal,complete,Imagen completa,73.0,0.01499074792487361,1332
+plane,Coronal,complete,Imagen completa,75.0,0.01479784864062225,1332
+plane,Coronal,complete,Imagen completa,77.0,0.014460414134932105,1332
+plane,Coronal,complete,Imagen completa,79.0,0.01391703324393605,1332
+plane,Coronal,complete,Imagen completa,81.0,0.013157804022139794,1332
+plane,Coronal,complete,Imagen completa,83.0,0.01222584306685583,1332
+plane,Coronal,complete,Imagen completa,85.0,0.011175522935405531,1332
+plane,Coronal,complete,Imagen completa,87.0,0.010086760392943598,1332
+plane,Coronal,complete,Imagen completa,89.0,0.009018323658504435,1332
+plane,Coronal,complete,Imagen completa,91.0,0.007970035219538787,1332
+plane,Coronal,complete,Imagen completa,93.0,0.00704049738592738,1332
+plane,Coronal,complete,Imagen completa,95.0,0.0062092702941421996,1332
+plane,Coronal,complete,Imagen completa,97.0,0.005496294908206278,1332
+plane,Coronal,complete,Imagen completa,99.0,0.004927575582198696,1332
+plane,Coronal,complete,Imagen completa,101.0,0.004486332371047063,1332
+plane,Coronal,complete,Imagen completa,103.0,0.004115507664539611,1332
+plane,Coronal,complete,Imagen completa,105.0,0.0038204480005099104,1332
+plane,Coronal,complete,Imagen completa,107.0,0.0035804667778469826,1332
+plane,Coronal,complete,Imagen completa,109.0,0.003386470984810031,1332
+plane,Coronal,complete,Imagen completa,111.0,0.0032270219700419396,1332
+plane,Coronal,complete,Imagen completa,113.0,0.0030936429673344298,1332
+plane,Coronal,complete,Imagen completa,115.0,0.0029549040200649358,1332
+plane,Coronal,complete,Imagen completa,117.0,0.002834605012770756,1332
+plane,Coronal,complete,Imagen completa,119.0,0.002715253088694414,1332
+plane,Coronal,complete,Imagen completa,121.0,0.002603575903890935,1332
+plane,Coronal,complete,Imagen completa,123.0,0.002497455647484022,1332
+plane,Coronal,complete,Imagen completa,125.0,0.0023931284473399116,1332
+plane,Coronal,complete,Imagen completa,127.0,0.0022900238211076606,1332
+plane,Coronal,complete,Imagen completa,129.0,0.0021928239183017263,1332
+plane,Coronal,complete,Imagen completa,131.0,0.002096596435131114,1332
+plane,Coronal,complete,Imagen completa,133.0,0.001998246160033961,1332
+plane,Coronal,complete,Imagen completa,135.0,0.001909285644963021,1332
+plane,Coronal,complete,Imagen completa,137.0,0.0018257259933816751,1332
+plane,Coronal,complete,Imagen completa,139.0,0.0017401331627546533,1332
+plane,Coronal,complete,Imagen completa,141.0,0.0016561616412604356,1332
+plane,Coronal,complete,Imagen completa,143.0,0.0015764272069942735,1332
+plane,Coronal,complete,Imagen completa,145.0,0.0014947970479353534,1332
+plane,Coronal,complete,Imagen completa,147.0,0.0014152913055181721,1332
+plane,Coronal,complete,Imagen completa,149.0,0.0013385848377845627,1332
+plane,Coronal,complete,Imagen completa,151.0,0.0012625698898532476,1332
+plane,Coronal,complete,Imagen completa,153.0,0.0011981455335663106,1332
+plane,Coronal,complete,Imagen completa,155.0,0.0011285168248919885,1332
+plane,Coronal,complete,Imagen completa,157.0,0.001068805479487382,1332
+plane,Coronal,complete,Imagen completa,159.0,0.0010071957799619522,1332
+plane,Coronal,complete,Imagen completa,161.0,0.0009504622457408574,1332
+plane,Coronal,complete,Imagen completa,163.0,0.0009011168522433166,1332
+plane,Coronal,complete,Imagen completa,165.0,0.0008532919526633944,1332
+plane,Coronal,complete,Imagen completa,167.0,0.0008054962385564992,1332
+plane,Coronal,complete,Imagen completa,169.0,0.0007608107478065073,1332
+plane,Coronal,complete,Imagen completa,171.0,0.0007165805068752787,1332
+plane,Coronal,complete,Imagen completa,173.0,0.0006743747653641927,1332
+plane,Coronal,complete,Imagen completa,175.0,0.0006368257777353795,1332
+plane,Coronal,complete,Imagen completa,177.0,0.0005973294539756309,1332
+plane,Coronal,complete,Imagen completa,179.0,0.000562239412299722,1332
+plane,Coronal,complete,Imagen completa,181.0,0.0005234603789067356,1332
+plane,Coronal,complete,Imagen completa,183.0,0.0004910460592713045,1332
+plane,Coronal,complete,Imagen completa,185.0,0.00046118069829670724,1332
+plane,Coronal,complete,Imagen completa,187.0,0.00043185518408215835,1332
+plane,Coronal,complete,Imagen completa,189.0,0.00040690654853133587,1332
+plane,Coronal,complete,Imagen completa,191.0,0.0003778706327795437,1332
+plane,Coronal,complete,Imagen completa,193.0,0.00035318316353660843,1332
+plane,Coronal,complete,Imagen completa,195.0,0.0003298002097935019,1332
+plane,Coronal,complete,Imagen completa,197.0,0.00030599828159806435,1332
+plane,Coronal,complete,Imagen completa,199.0,0.00028438512484594923,1332
+plane,Coronal,complete,Imagen completa,201.0,0.0002622110313969748,1332
+plane,Coronal,complete,Imagen completa,203.0,0.0002444450064182021,1332
+plane,Coronal,complete,Imagen completa,205.0,0.00022402884342818827,1332
+plane,Coronal,complete,Imagen completa,207.0,0.0002047114360232784,1332
+plane,Coronal,complete,Imagen completa,209.0,0.00019003680022460726,1332
+plane,Coronal,complete,Imagen completa,211.0,0.00017454006062670455,1332
+plane,Coronal,complete,Imagen completa,213.0,0.00015827487975043398,1332
+plane,Coronal,complete,Imagen completa,215.0,0.00014320257474007578,1332
+plane,Coronal,complete,Imagen completa,217.0,0.00012764933993819413,1332
+plane,Coronal,complete,Imagen completa,219.0,0.00011418184125560348,1332
+plane,Coronal,complete,Imagen completa,221.0,0.00010199100382772767,1332
+plane,Coronal,complete,Imagen completa,223.0,9.000446682977915e-05,1332
+plane,Coronal,complete,Imagen completa,225.0,7.969105984986498e-05,1332
+plane,Coronal,complete,Imagen completa,227.0,7.040414659143983e-05,1332
+plane,Coronal,complete,Imagen completa,229.0,6.051433066545229e-05,1332
+plane,Coronal,complete,Imagen completa,231.0,5.232755341043146e-05,1332
+plane,Coronal,complete,Imagen completa,233.0,4.511920641422708e-05,1332
+plane,Coronal,complete,Imagen completa,235.0,3.886361154854265e-05,1332
+plane,Coronal,complete,Imagen completa,237.0,3.227040920871949e-05,1332
+plane,Coronal,complete,Imagen completa,239.0,2.6902233347068994e-05,1332
+plane,Coronal,complete,Imagen completa,241.0,2.2130866662749446e-05,1332
+plane,Coronal,complete,Imagen completa,243.0,1.8173741452277898e-05,1332
+plane,Coronal,complete,Imagen completa,245.0,1.4837227592295218e-05,1332
+plane,Coronal,complete,Imagen completa,247.0,1.246593058008727e-05,1332
+plane,Coronal,complete,Imagen completa,249.0,1.0241782672185306e-05,1332
+plane,Coronal,complete,Imagen completa,251.0,9.534220578881727e-06,1332
+plane,Coronal,complete,Imagen completa,253.0,9.338625891457443e-06,1332
+plane,Coronal,complete,Imagen completa,255.0,1.5606497235182823e-05,1332
+plane,Coronal,tumor,Región tumoral,1.0,1.917202907484247e-05,1332
+plane,Coronal,tumor,Región tumoral,3.0,7.929196375367066e-05,1332
+plane,Coronal,tumor,Región tumoral,5.0,0.0001983170056698117,1332
+plane,Coronal,tumor,Región tumoral,7.0,0.0002712750387980297,1332
+plane,Coronal,tumor,Región tumoral,9.0,0.0003266083510708331,1332
+plane,Coronal,tumor,Región tumoral,11.0,0.0003648764956932974,1332
+plane,Coronal,tumor,Región tumoral,13.0,0.0004537670634305941,1332
+plane,Coronal,tumor,Región tumoral,15.0,0.0005299912836211341,1332
+plane,Coronal,tumor,Región tumoral,17.0,0.0006302037675395577,1332
+plane,Coronal,tumor,Región tumoral,19.0,0.0007608404632082387,1332
+plane,Coronal,tumor,Región tumoral,21.0,0.00091169616377794,1332
+plane,Coronal,tumor,Región tumoral,23.0,0.001102960507063643,1332
+plane,Coronal,tumor,Región tumoral,25.0,0.0014003746978985142,1332
+plane,Coronal,tumor,Región tumoral,27.0,0.0018676593179365606,1332
+plane,Coronal,tumor,Región tumoral,29.0,0.0023671102500375323,1332
+plane,Coronal,tumor,Región tumoral,31.0,0.0028423749235193313,1332
+plane,Coronal,tumor,Región tumoral,33.0,0.0034207556924189426,1332
+plane,Coronal,tumor,Región tumoral,35.0,0.003979137027170127,1332
+plane,Coronal,tumor,Región tumoral,37.0,0.004386857875080337,1332
+plane,Coronal,tumor,Región tumoral,39.0,0.0045675163603973,1332
+plane,Coronal,tumor,Región tumoral,41.0,0.0046294501621063295,1332
+plane,Coronal,tumor,Región tumoral,43.0,0.004759205600354353,1332
+plane,Coronal,tumor,Región tumoral,45.0,0.004896889826442938,1332
+plane,Coronal,tumor,Región tumoral,47.0,0.005154595562722069,1332
+plane,Coronal,tumor,Región tumoral,49.0,0.005455291062025054,1332
+plane,Coronal,tumor,Región tumoral,51.0,0.005658161489710576,1332
+plane,Coronal,tumor,Región tumoral,53.0,0.005865819067484908,1332
+plane,Coronal,tumor,Región tumoral,55.0,0.006178382181319566,1332
+plane,Coronal,tumor,Región tumoral,57.0,0.006442991848454666,1332
+plane,Coronal,tumor,Región tumoral,59.0,0.006558873279216189,1332
+plane,Coronal,tumor,Región tumoral,61.0,0.00683626978002784,1332
+plane,Coronal,tumor,Región tumoral,63.0,0.00709306509077323,1332
+plane,Coronal,tumor,Región tumoral,65.0,0.007313575995603777,1332
+plane,Coronal,tumor,Región tumoral,67.0,0.0075181779430929605,1332
+plane,Coronal,tumor,Región tumoral,69.0,0.007459008583883453,1332
+plane,Coronal,tumor,Región tumoral,71.0,0.0073992582254540805,1332
+plane,Coronal,tumor,Región tumoral,73.0,0.007492603893370957,1332
+plane,Coronal,tumor,Región tumoral,75.0,0.007579611282370741,1332
+plane,Coronal,tumor,Región tumoral,77.0,0.007625418487666284,1332
+plane,Coronal,tumor,Región tumoral,79.0,0.0078139605202044,1332
+plane,Coronal,tumor,Región tumoral,81.0,0.007913803352805115,1332
+plane,Coronal,tumor,Región tumoral,83.0,0.008112816679040829,1332
+plane,Coronal,tumor,Región tumoral,85.0,0.00827058957384629,1332
+plane,Coronal,tumor,Región tumoral,87.0,0.008610342308210504,1332
+plane,Coronal,tumor,Región tumoral,89.0,0.008843726464719086,1332
+plane,Coronal,tumor,Región tumoral,91.0,0.009217986467637712,1332
+plane,Coronal,tumor,Región tumoral,93.0,0.009633763988770316,1332
+plane,Coronal,tumor,Región tumoral,95.0,0.009881327517702185,1332
+plane,Coronal,tumor,Región tumoral,97.0,0.010187636927056818,1332
+plane,Coronal,tumor,Región tumoral,99.0,0.010450394408216528,1332
+plane,Coronal,tumor,Región tumoral,101.0,0.010672507922182349,1332
+plane,Coronal,tumor,Región tumoral,103.0,0.010904463924681201,1332
+plane,Coronal,tumor,Región tumoral,105.0,0.011013346431455202,1332
+plane,Coronal,tumor,Región tumoral,107.0,0.011028875514859173,1332
+plane,Coronal,tumor,Región tumoral,109.0,0.011031887143179634,1332
+plane,Coronal,tumor,Región tumoral,111.0,0.011019981912171272,1332
+plane,Coronal,tumor,Región tumoral,113.0,0.011003795112136665,1332
+plane,Coronal,tumor,Región tumoral,115.0,0.010756350952014744,1332
+plane,Coronal,tumor,Región tumoral,117.0,0.010575825223677227,1332
+plane,Coronal,tumor,Región tumoral,119.0,0.01022729494598837,1332
+plane,Coronal,tumor,Región tumoral,121.0,0.009832558201039742,1332
+plane,Coronal,tumor,Región tumoral,123.0,0.00943805653445315,1332
+plane,Coronal,tumor,Región tumoral,125.0,0.009013075587713066,1332
+plane,Coronal,tumor,Región tumoral,127.0,0.008623620475497551,1332
+plane,Coronal,tumor,Región tumoral,129.0,0.008171812796306722,1332
+plane,Coronal,tumor,Región tumoral,131.0,0.007730673270271263,1332
+plane,Coronal,tumor,Región tumoral,133.0,0.007242481056131972,1332
+plane,Coronal,tumor,Región tumoral,135.0,0.006838312804594391,1332
+plane,Coronal,tumor,Región tumoral,137.0,0.006581670543444434,1332
+plane,Coronal,tumor,Región tumoral,139.0,0.006148267162430728,1332
+plane,Coronal,tumor,Región tumoral,141.0,0.005775652549657332,1332
+plane,Coronal,tumor,Región tumoral,143.0,0.005358304943713711,1332
+plane,Coronal,tumor,Región tumoral,145.0,0.0048653654341081175,1332
+plane,Coronal,tumor,Región tumoral,147.0,0.004514890034545257,1332
+plane,Coronal,tumor,Región tumoral,149.0,0.004013806328531234,1332
+plane,Coronal,tumor,Región tumoral,151.0,0.0036807024411093588,1332
+plane,Coronal,tumor,Región tumoral,153.0,0.0033456934683837774,1332
+plane,Coronal,tumor,Región tumoral,155.0,0.0029988684928552714,1332
+plane,Coronal,tumor,Región tumoral,157.0,0.0026884399025716666,1332
+plane,Coronal,tumor,Región tumoral,159.0,0.002420305563320018,1332
+plane,Coronal,tumor,Región tumoral,161.0,0.0022428267460494274,1332
+plane,Coronal,tumor,Región tumoral,163.0,0.0020174753824549942,1332
+plane,Coronal,tumor,Región tumoral,165.0,0.0017699066470531863,1332
+plane,Coronal,tumor,Región tumoral,167.0,0.0016063722714797024,1332
+plane,Coronal,tumor,Región tumoral,169.0,0.0014335661652406652,1332
+plane,Coronal,tumor,Región tumoral,171.0,0.0012880457521343483,1332
+plane,Coronal,tumor,Región tumoral,173.0,0.0011528410540623468,1332
+plane,Coronal,tumor,Región tumoral,175.0,0.001037947990484281,1332
+plane,Coronal,tumor,Región tumoral,177.0,0.0009122623925681131,1332
+plane,Coronal,tumor,Región tumoral,179.0,0.0008058301528477846,1332
+plane,Coronal,tumor,Región tumoral,181.0,0.0007368094081609056,1332
+plane,Coronal,tumor,Región tumoral,183.0,0.0006433372490042492,1332
+plane,Coronal,tumor,Región tumoral,185.0,0.0005823760721443863,1332
+plane,Coronal,tumor,Región tumoral,187.0,0.0005234829455752098,1332
+plane,Coronal,tumor,Región tumoral,189.0,0.0004498027987308644,1332
+plane,Coronal,tumor,Región tumoral,191.0,0.0004173365472407164,1332
+plane,Coronal,tumor,Región tumoral,193.0,0.0003640546683217006,1332
+plane,Coronal,tumor,Región tumoral,195.0,0.0003175930382204761,1332
+plane,Coronal,tumor,Región tumoral,197.0,0.00029550271425769943,1332
+plane,Coronal,tumor,Región tumoral,199.0,0.0002640351900436423,1332
+plane,Coronal,tumor,Región tumoral,201.0,0.0002204307378409504,1332
+plane,Coronal,tumor,Región tumoral,203.0,0.00017780371700502044,1332
+plane,Coronal,tumor,Región tumoral,205.0,0.00016825442070044885,1332
+plane,Coronal,tumor,Región tumoral,207.0,0.00014362707092656967,1332
+plane,Coronal,tumor,Región tumoral,209.0,0.0001295123601654842,1332
+plane,Coronal,tumor,Región tumoral,211.0,0.0001200094743425972,1332
+plane,Coronal,tumor,Región tumoral,213.0,0.00010586705213032296,1332
+plane,Coronal,tumor,Región tumoral,215.0,9.062291725159327e-05,1332
+plane,Coronal,tumor,Región tumoral,217.0,9.463766184366945e-05,1332
+plane,Coronal,tumor,Región tumoral,219.0,9.386840697965941e-05,1332
+plane,Coronal,tumor,Región tumoral,221.0,8.626425429361508e-05,1332
+plane,Coronal,tumor,Región tumoral,223.0,8.531730395684838e-05,1332
+plane,Coronal,tumor,Región tumoral,225.0,8.184159226080876e-05,1332
+plane,Coronal,tumor,Región tumoral,227.0,7.58614978116637e-05,1332
+plane,Coronal,tumor,Región tumoral,229.0,5.878769985467938e-05,1332
+plane,Coronal,tumor,Región tumoral,231.0,5.511525605049205e-05,1332
+plane,Coronal,tumor,Región tumoral,233.0,5.557039242897002e-05,1332
+plane,Coronal,tumor,Región tumoral,235.0,5.595087319236911e-05,1332
+plane,Coronal,tumor,Región tumoral,237.0,4.9932129957374576e-05,1332
+plane,Coronal,tumor,Región tumoral,239.0,4.776162807126739e-05,1332
+plane,Coronal,tumor,Región tumoral,241.0,4.170577471563706e-05,1332
+plane,Coronal,tumor,Región tumoral,243.0,3.237244152024751e-05,1332
+plane,Coronal,tumor,Región tumoral,245.0,3.8517320649294914e-05,1332
+plane,Coronal,tumor,Región tumoral,247.0,3.307903614116525e-05,1332
+plane,Coronal,tumor,Región tumoral,249.0,3.472176107668577e-05,1332
+plane,Coronal,tumor,Región tumoral,251.0,3.2935173206279596e-05,1332
+plane,Coronal,tumor,Región tumoral,253.0,3.7110974136629904e-05,1332
+plane,Coronal,tumor,Región tumoral,255.0,4.044536494038413e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,1.0,0.0003981798825694236,1332
+plane,Coronal,non_tumor,Región no tumoral,3.0,0.00092786827562647,1332
+plane,Coronal,non_tumor,Región no tumoral,5.0,0.001653374339277214,1332
+plane,Coronal,non_tumor,Región no tumoral,7.0,0.0021655300371119166,1332
+plane,Coronal,non_tumor,Región no tumoral,9.0,0.0024332139248641332,1332
+plane,Coronal,non_tumor,Región no tumoral,11.0,0.0024955328866125832,1332
+plane,Coronal,non_tumor,Región no tumoral,13.0,0.0024665104911676364,1332
+plane,Coronal,non_tumor,Región no tumoral,15.0,0.0025539859433195136,1332
+plane,Coronal,non_tumor,Región no tumoral,17.0,0.005091978573928252,1332
+plane,Coronal,non_tumor,Región no tumoral,19.0,0.0047202338020484215,1332
+plane,Coronal,non_tumor,Región no tumoral,21.0,0.004645823754393466,1332
+plane,Coronal,non_tumor,Región no tumoral,23.0,0.004715979623400981,1332
+plane,Coronal,non_tumor,Región no tumoral,25.0,0.00487720880683625,1332
+plane,Coronal,non_tumor,Región no tumoral,27.0,0.005116174170446734,1332
+plane,Coronal,non_tumor,Región no tumoral,29.0,0.005435834559583971,1332
+plane,Coronal,non_tumor,Región no tumoral,31.0,0.005799844698860385,1332
+plane,Coronal,non_tumor,Región no tumoral,33.0,0.006205145659294924,1332
+plane,Coronal,non_tumor,Región no tumoral,35.0,0.006624994562153547,1332
+plane,Coronal,non_tumor,Región no tumoral,37.0,0.007046427788319705,1332
+plane,Coronal,non_tumor,Región no tumoral,39.0,0.0074712154370816086,1332
+plane,Coronal,non_tumor,Región no tumoral,41.0,0.007900684902977857,1332
+plane,Coronal,non_tumor,Región no tumoral,43.0,0.008354062459332016,1332
+plane,Coronal,non_tumor,Región no tumoral,45.0,0.008867228685925934,1332
+plane,Coronal,non_tumor,Región no tumoral,47.0,0.00938484796349656,1332
+plane,Coronal,non_tumor,Región no tumoral,49.0,0.009943031254039386,1332
+plane,Coronal,non_tumor,Región no tumoral,51.0,0.010522137114627992,1332
+plane,Coronal,non_tumor,Región no tumoral,53.0,0.011136018426344103,1332
+plane,Coronal,non_tumor,Región no tumoral,55.0,0.011798033398107182,1332
+plane,Coronal,non_tumor,Región no tumoral,57.0,0.01250071115639168,1332
+plane,Coronal,non_tumor,Región no tumoral,59.0,0.013214233817342576,1332
+plane,Coronal,non_tumor,Región no tumoral,61.0,0.013844175546319667,1332
+plane,Coronal,non_tumor,Región no tumoral,63.0,0.014393997293499498,1332
+plane,Coronal,non_tumor,Región no tumoral,65.0,0.014815518694480575,1332
+plane,Coronal,non_tumor,Región no tumoral,67.0,0.015116562981977909,1332
+plane,Coronal,non_tumor,Región no tumoral,69.0,0.01529837351989219,1332
+plane,Coronal,non_tumor,Región no tumoral,71.0,0.015335541245819985,1332
+plane,Coronal,non_tumor,Región no tumoral,73.0,0.015197502077639095,1332
+plane,Coronal,non_tumor,Región no tumoral,75.0,0.014999599689176775,1332
+plane,Coronal,non_tumor,Región no tumoral,77.0,0.014652284455446005,1332
+plane,Coronal,non_tumor,Región no tumoral,79.0,0.014088271577414829,1332
+plane,Coronal,non_tumor,Región no tumoral,81.0,0.013304028328997812,1332
+plane,Coronal,non_tumor,Región no tumoral,83.0,0.012340340902962163,1332
+plane,Coronal,non_tumor,Región no tumoral,85.0,0.011253021451772868,1332
+plane,Coronal,non_tumor,Región no tumoral,87.0,0.010120093185243728,1332
+plane,Coronal,non_tumor,Región no tumoral,89.0,0.009008323839481174,1332
+plane,Coronal,non_tumor,Región no tumoral,91.0,0.007916798052548355,1332
+plane,Coronal,non_tumor,Región no tumoral,93.0,0.006947615630285385,1332
+plane,Coronal,non_tumor,Región no tumoral,95.0,0.006080209171427124,1332
+plane,Coronal,non_tumor,Región no tumoral,97.0,0.005336518995206368,1332
+plane,Coronal,non_tumor,Región no tumoral,99.0,0.004746314369359427,1332
+plane,Coronal,non_tumor,Región no tumoral,101.0,0.004289444784423511,1332
+plane,Coronal,non_tumor,Región no tumoral,103.0,0.0039054983766305088,1332
+plane,Coronal,non_tumor,Región no tumoral,105.0,0.003602320394347022,1332
+plane,Coronal,non_tumor,Región no tumoral,107.0,0.0033553508855035685,1332
+plane,Coronal,non_tumor,Región no tumoral,109.0,0.0031552426584360205,1332
+plane,Coronal,non_tumor,Región no tumoral,111.0,0.002996972457377209,1332
+plane,Coronal,non_tumor,Región no tumoral,113.0,0.002864314944612302,1332
+plane,Coronal,non_tumor,Región no tumoral,115.0,0.0027328342444219943,1332
+plane,Coronal,non_tumor,Región no tumoral,117.0,0.002619157485353419,1332
+plane,Coronal,non_tumor,Región no tumoral,119.0,0.0025103711090029464,1332
+plane,Coronal,non_tumor,Región no tumoral,121.0,0.0024110555977728968,1332
+plane,Coronal,non_tumor,Región no tumoral,123.0,0.0023159042561350994,1332
+plane,Coronal,non_tumor,Región no tumoral,125.0,0.002222200840552956,1332
+plane,Coronal,non_tumor,Región no tumoral,127.0,0.0021288176528207908,1332
+plane,Coronal,non_tumor,Región no tumoral,129.0,0.0020433364058348906,1332
+plane,Coronal,non_tumor,Región no tumoral,131.0,0.0019585490462417244,1332
+plane,Coronal,non_tumor,Región no tumoral,133.0,0.0018711375335355915,1332
+plane,Coronal,non_tumor,Región no tumoral,135.0,0.0017911335189974452,1332
+plane,Coronal,non_tumor,Región no tumoral,137.0,0.0017135411325704122,1332
+plane,Coronal,non_tumor,Región no tumoral,139.0,0.0016374736823813489,1332
+plane,Coronal,non_tumor,Región no tumoral,141.0,0.0015634736931762038,1332
+plane,Coronal,non_tumor,Región no tumoral,143.0,0.001494165365449452,1332
+plane,Coronal,non_tumor,Región no tumoral,145.0,0.0014241530278211595,1332
+plane,Coronal,non_tumor,Región no tumoral,147.0,0.001352788998984138,1332
+plane,Coronal,non_tumor,Región no tumoral,149.0,0.0012872685928383245,1332
+plane,Coronal,non_tumor,Región no tumoral,151.0,0.0012182883610764624,1332
+plane,Coronal,non_tumor,Región no tumoral,153.0,0.001160985037808346,1332
+plane,Coronal,non_tumor,Región no tumoral,155.0,0.0010973115056627303,1332
+plane,Coronal,non_tumor,Región no tumoral,157.0,0.0010437569339994451,1332
+plane,Coronal,non_tumor,Región no tumoral,159.0,0.000986600935266069,1332
+plane,Coronal,non_tumor,Región no tumoral,161.0,0.0009339461588997143,1332
+plane,Coronal,non_tumor,Región no tumoral,163.0,0.0008881297333896337,1332
+plane,Coronal,non_tumor,Región no tumoral,165.0,0.0008438261015000839,1332
+plane,Coronal,non_tumor,Región no tumoral,167.0,0.0007981583909923208,1332
+plane,Coronal,non_tumor,Región no tumoral,169.0,0.0007560151648496759,1332
+plane,Coronal,non_tumor,Región no tumoral,171.0,0.0007136099276554306,1332
+plane,Coronal,non_tumor,Región no tumoral,173.0,0.0006730611479036712,1332
+plane,Coronal,non_tumor,Región no tumoral,175.0,0.0006367103933245377,1332
+plane,Coronal,non_tumor,Región no tumoral,177.0,0.0005982398290372104,1332
+plane,Coronal,non_tumor,Región no tumoral,179.0,0.0005640534499577007,1332
+plane,Coronal,non_tumor,Región no tumoral,181.0,0.0005257924621195407,1332
+plane,Coronal,non_tumor,Región no tumoral,183.0,0.0004943566872829348,1332
+plane,Coronal,non_tumor,Región no tumoral,185.0,0.00046451678506027796,1332
+plane,Coronal,non_tumor,Región no tumoral,187.0,0.0004358934356008436,1332
+plane,Coronal,non_tumor,Región no tumoral,189.0,0.0004112125858463228,1332
+plane,Coronal,non_tumor,Región no tumoral,191.0,0.0003822211355984629,1332
+plane,Coronal,non_tumor,Región no tumoral,193.0,0.00035756454907623277,1332
+plane,Coronal,non_tumor,Región no tumoral,195.0,0.0003343989066990484,1332
+plane,Coronal,non_tumor,Región no tumoral,197.0,0.0003104107015638646,1332
+plane,Coronal,non_tumor,Región no tumoral,199.0,0.0002885902662334433,1332
+plane,Coronal,non_tumor,Región no tumoral,201.0,0.00026651619811490334,1332
+plane,Coronal,non_tumor,Región no tumoral,203.0,0.00024880323410112604,1332
+plane,Coronal,non_tumor,Región no tumoral,205.0,0.00022792946712503576,1332
+plane,Coronal,non_tumor,Región no tumoral,207.0,0.00020847137183997147,1332
+plane,Coronal,non_tumor,Región no tumoral,209.0,0.00019356988414122848,1332
+plane,Coronal,non_tumor,Región no tumoral,211.0,0.0001775975046113178,1332
+plane,Coronal,non_tumor,Región no tumoral,213.0,0.00016133905541141898,1332
+plane,Coronal,non_tumor,Región no tumoral,215.0,0.0001460300834474235,1332
+plane,Coronal,non_tumor,Región no tumoral,217.0,0.00012972883675212388,1332
+plane,Coronal,non_tumor,Región no tumoral,219.0,0.00011577430736116284,1332
+plane,Coronal,non_tumor,Región no tumoral,221.0,0.00010309821100751087,1332
+plane,Coronal,non_tumor,Región no tumoral,223.0,9.068175151312779e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,225.0,7.996589356126007e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,227.0,7.030103852734825e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,229.0,6.049852849711862e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,231.0,5.191759316620094e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,233.0,4.4671016152188575e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,235.0,3.812341120803123e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,237.0,3.154405589825451e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,239.0,2.6169895427008334e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,241.0,2.1252231707596204e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,243.0,1.746105926620797e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,245.0,1.3802415479773391e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,247.0,1.1271899804622382e-05,1332
+plane,Coronal,non_tumor,Región no tumoral,249.0,8.793787994500748e-06,1332
+plane,Coronal,non_tumor,Región no tumoral,251.0,7.94809480989983e-06,1332
+plane,Coronal,non_tumor,Región no tumoral,253.0,7.5445875032470006e-06,1332
+plane,Coronal,non_tumor,Región no tumoral,255.0,1.389990951218839e-05,1332
+plane,Sagital,complete,Imagen completa,1.0,0.00023220827874935896,1294
+plane,Sagital,complete,Imagen completa,3.0,0.0007637523641158165,1294
+plane,Sagital,complete,Imagen completa,5.0,0.0018900737489876622,1294
+plane,Sagital,complete,Imagen completa,7.0,0.002411258616525741,1294
+plane,Sagital,complete,Imagen completa,9.0,0.002422924638426766,1294
+plane,Sagital,complete,Imagen completa,11.0,0.002317148943603567,1294
+plane,Sagital,complete,Imagen completa,13.0,0.0023321740596109154,1294
+plane,Sagital,complete,Imagen completa,15.0,0.002524356090189615,1294
+plane,Sagital,complete,Imagen completa,17.0,0.005318857802085241,1294
+plane,Sagital,complete,Imagen completa,19.0,0.005163613335755459,1294
+plane,Sagital,complete,Imagen completa,21.0,0.005121032372707788,1294
+plane,Sagital,complete,Imagen completa,23.0,0.005196675359744722,1294
+plane,Sagital,complete,Imagen completa,25.0,0.005313815836840925,1294
+plane,Sagital,complete,Imagen completa,27.0,0.005478165917389283,1294
+plane,Sagital,complete,Imagen completa,29.0,0.005697197332023042,1294
+plane,Sagital,complete,Imagen completa,31.0,0.005937488678357023,1294
+plane,Sagital,complete,Imagen completa,33.0,0.006215925994096721,1294
+plane,Sagital,complete,Imagen completa,35.0,0.006506463364857748,1294
+plane,Sagital,complete,Imagen completa,37.0,0.006836306242283194,1294
+plane,Sagital,complete,Imagen completa,39.0,0.007174897336562014,1294
+plane,Sagital,complete,Imagen completa,41.0,0.007532105313493222,1294
+plane,Sagital,complete,Imagen completa,43.0,0.007932137636293265,1294
+plane,Sagital,complete,Imagen completa,45.0,0.008356693384531705,1294
+plane,Sagital,complete,Imagen completa,47.0,0.008841304829586656,1294
+plane,Sagital,complete,Imagen completa,49.0,0.009363643619987183,1294
+plane,Sagital,complete,Imagen completa,51.0,0.009928682980206594,1294
+plane,Sagital,complete,Imagen completa,53.0,0.010570365703530517,1294
+plane,Sagital,complete,Imagen completa,55.0,0.011238976551643347,1294
+plane,Sagital,complete,Imagen completa,57.0,0.011976685473462324,1294
+plane,Sagital,complete,Imagen completa,59.0,0.012726532395264853,1294
+plane,Sagital,complete,Imagen completa,61.0,0.013465649887297955,1294
+plane,Sagital,complete,Imagen completa,63.0,0.014177127220345403,1294
+plane,Sagital,complete,Imagen completa,65.0,0.014810417715413646,1294
+plane,Sagital,complete,Imagen completa,67.0,0.015315311564028513,1294
+plane,Sagital,complete,Imagen completa,69.0,0.015621914512564799,1294
+plane,Sagital,complete,Imagen completa,71.0,0.015640413416761163,1294
+plane,Sagital,complete,Imagen completa,73.0,0.015398841267698868,1294
+plane,Sagital,complete,Imagen completa,75.0,0.01488683060141516,1294
+plane,Sagital,complete,Imagen completa,77.0,0.014229606921779311,1294
+plane,Sagital,complete,Imagen completa,79.0,0.013447571252259377,1294
+plane,Sagital,complete,Imagen completa,81.0,0.012613038668847618,1294
+plane,Sagital,complete,Imagen completa,83.0,0.011736669687800134,1294
+plane,Sagital,complete,Imagen completa,85.0,0.010827715577180893,1294
+plane,Sagital,complete,Imagen completa,87.0,0.009872196730232517,1294
+plane,Sagital,complete,Imagen completa,89.0,0.008895596005670095,1294
+plane,Sagital,complete,Imagen completa,91.0,0.007959827400105628,1294
+plane,Sagital,complete,Imagen completa,93.0,0.0071212215776127515,1294
+plane,Sagital,complete,Imagen completa,95.0,0.006389771418178415,1294
+plane,Sagital,complete,Imagen completa,97.0,0.005756978091626721,1294
+plane,Sagital,complete,Imagen completa,99.0,0.005182620070962536,1294
+plane,Sagital,complete,Imagen completa,101.0,0.004670074773834487,1294
+plane,Sagital,complete,Imagen completa,103.0,0.0042268333498555605,1294
+plane,Sagital,complete,Imagen completa,105.0,0.0038770085775613615,1294
+plane,Sagital,complete,Imagen completa,107.0,0.003581665076490453,1294
+plane,Sagital,complete,Imagen completa,109.0,0.0033358108835606103,1294
+plane,Sagital,complete,Imagen completa,111.0,0.0031410694956943764,1294
+plane,Sagital,complete,Imagen completa,113.0,0.0029737633776605746,1294
+plane,Sagital,complete,Imagen completa,115.0,0.002828025778179306,1294
+plane,Sagital,complete,Imagen completa,117.0,0.0026957135297348126,1294
+plane,Sagital,complete,Imagen completa,119.0,0.0025627166479616505,1294
+plane,Sagital,complete,Imagen completa,121.0,0.00244632703916503,1294
+plane,Sagital,complete,Imagen completa,123.0,0.0023271199729045346,1294
+plane,Sagital,complete,Imagen completa,125.0,0.002219943611576403,1294
+plane,Sagital,complete,Imagen completa,127.0,0.00212567744200954,1294
+plane,Sagital,complete,Imagen completa,129.0,0.0020270625039925877,1294
+plane,Sagital,complete,Imagen completa,131.0,0.0019346862630354267,1294
+plane,Sagital,complete,Imagen completa,133.0,0.0018502990282285067,1294
+plane,Sagital,complete,Imagen completa,135.0,0.0017605860096678732,1294
+plane,Sagital,complete,Imagen completa,137.0,0.0016781545952613876,1294
+plane,Sagital,complete,Imagen completa,139.0,0.0016022984108982456,1294
+plane,Sagital,complete,Imagen completa,141.0,0.0015272032522788432,1294
+plane,Sagital,complete,Imagen completa,143.0,0.0014551926034120314,1294
+plane,Sagital,complete,Imagen completa,145.0,0.001390153088626439,1294
+plane,Sagital,complete,Imagen completa,147.0,0.0013208074237179884,1294
+plane,Sagital,complete,Imagen completa,149.0,0.0012564314681920733,1294
+plane,Sagital,complete,Imagen completa,151.0,0.0011948613807092549,1294
+plane,Sagital,complete,Imagen completa,153.0,0.001139555662949611,1294
+plane,Sagital,complete,Imagen completa,155.0,0.0010883350497744694,1294
+plane,Sagital,complete,Imagen completa,157.0,0.0010392841346406974,1294
+plane,Sagital,complete,Imagen completa,159.0,0.0009935372106505203,1294
+plane,Sagital,complete,Imagen completa,161.0,0.0009520192515468318,1294
+plane,Sagital,complete,Imagen completa,163.0,0.000911291710920987,1294
+plane,Sagital,complete,Imagen completa,165.0,0.0008697882446951725,1294
+plane,Sagital,complete,Imagen completa,167.0,0.0008324077983359715,1294
+plane,Sagital,complete,Imagen completa,169.0,0.0007969311991588319,1294
+plane,Sagital,complete,Imagen completa,171.0,0.0007621977576049776,1294
+plane,Sagital,complete,Imagen completa,173.0,0.0007312353094518622,1294
+plane,Sagital,complete,Imagen completa,175.0,0.000701655416535761,1294
+plane,Sagital,complete,Imagen completa,177.0,0.0006717779994183603,1294
+plane,Sagital,complete,Imagen completa,179.0,0.0006459382640263839,1294
+plane,Sagital,complete,Imagen completa,181.0,0.0006212565202778268,1294
+plane,Sagital,complete,Imagen completa,183.0,0.0005952755122544276,1294
+plane,Sagital,complete,Imagen completa,185.0,0.0005691957725263141,1294
+plane,Sagital,complete,Imagen completa,187.0,0.0005452809466724357,1294
+plane,Sagital,complete,Imagen completa,189.0,0.0005171343171966154,1294
+plane,Sagital,complete,Imagen completa,191.0,0.0004921687640273277,1294
+plane,Sagital,complete,Imagen completa,193.0,0.00046884531880024663,1294
+plane,Sagital,complete,Imagen completa,195.0,0.00044269626424830023,1294
+plane,Sagital,complete,Imagen completa,197.0,0.0004200497939276955,1294
+plane,Sagital,complete,Imagen completa,199.0,0.00039774483311805144,1294
+plane,Sagital,complete,Imagen completa,201.0,0.000374730626273716,1294
+plane,Sagital,complete,Imagen completa,203.0,0.00035266322561802195,1294
+plane,Sagital,complete,Imagen completa,205.0,0.0003290809359830939,1294
+plane,Sagital,complete,Imagen completa,207.0,0.0003083146155264775,1294
+plane,Sagital,complete,Imagen completa,209.0,0.0002859191530124791,1294
+plane,Sagital,complete,Imagen completa,211.0,0.0002660613244401025,1294
+plane,Sagital,complete,Imagen completa,213.0,0.0002488370562486019,1294
+plane,Sagital,complete,Imagen completa,215.0,0.00023015939106345206,1294
+plane,Sagital,complete,Imagen completa,217.0,0.00021216850467458483,1294
+plane,Sagital,complete,Imagen completa,219.0,0.00019355741523305252,1294
+plane,Sagital,complete,Imagen completa,221.0,0.00017682397137693827,1294
+plane,Sagital,complete,Imagen completa,223.0,0.00016051950179135998,1294
+plane,Sagital,complete,Imagen completa,225.0,0.00014337713205295544,1294
+plane,Sagital,complete,Imagen completa,227.0,0.00012848368654172019,1294
+plane,Sagital,complete,Imagen completa,229.0,0.00011383890559011096,1294
+plane,Sagital,complete,Imagen completa,231.0,0.00010025038454173863,1294
+plane,Sagital,complete,Imagen completa,233.0,8.923944962841447e-05,1294
+plane,Sagital,complete,Imagen completa,235.0,7.741757841957539e-05,1294
+plane,Sagital,complete,Imagen completa,237.0,6.55429742097656e-05,1294
+plane,Sagital,complete,Imagen completa,239.0,5.584113449627517e-05,1294
+plane,Sagital,complete,Imagen completa,241.0,4.573175057924846e-05,1294
+plane,Sagital,complete,Imagen completa,243.0,3.8056334639290565e-05,1294
+plane,Sagital,complete,Imagen completa,245.0,3.0158293782900308e-05,1294
+plane,Sagital,complete,Imagen completa,247.0,2.4302224520115717e-05,1294
+plane,Sagital,complete,Imagen completa,249.0,1.9606562769704117e-05,1294
+plane,Sagital,complete,Imagen completa,251.0,1.5743433786285905e-05,1294
+plane,Sagital,complete,Imagen completa,253.0,1.2460436232255821e-05,1294
+plane,Sagital,complete,Imagen completa,255.0,1.5241571304933539e-05,1294
+plane,Sagital,tumor,Región tumoral,1.0,1.99979148047352e-06,1294
+plane,Sagital,tumor,Región tumoral,3.0,1.4764747377115028e-05,1294
+plane,Sagital,tumor,Región tumoral,5.0,4.408230597753561e-05,1294
+plane,Sagital,tumor,Región tumoral,7.0,3.9976419728940614e-05,1294
+plane,Sagital,tumor,Región tumoral,9.0,4.5313492396629693e-05,1294
+plane,Sagital,tumor,Región tumoral,11.0,6.376276286200018e-05,1294
+plane,Sagital,tumor,Región tumoral,13.0,7.174653109014938e-05,1294
+plane,Sagital,tumor,Región tumoral,15.0,9.651078312714024e-05,1294
+plane,Sagital,tumor,Región tumoral,17.0,0.00012300184974719266,1294
+plane,Sagital,tumor,Región tumoral,19.0,0.00016569680172207792,1294
+plane,Sagital,tumor,Región tumoral,21.0,0.00027891973812280054,1294
+plane,Sagital,tumor,Región tumoral,23.0,0.00045242786912237193,1294
+plane,Sagital,tumor,Región tumoral,25.0,0.00055987464302655,1294
+plane,Sagital,tumor,Región tumoral,27.0,0.000678835571782967,1294
+plane,Sagital,tumor,Región tumoral,29.0,0.0008746545532357134,1294
+plane,Sagital,tumor,Región tumoral,31.0,0.001151278187582286,1294
+plane,Sagital,tumor,Región tumoral,33.0,0.0014828612779888052,1294
+plane,Sagital,tumor,Región tumoral,35.0,0.0016437856084378988,1294
+plane,Sagital,tumor,Región tumoral,37.0,0.0019678568171016477,1294
+plane,Sagital,tumor,Región tumoral,39.0,0.002295155326975559,1294
+plane,Sagital,tumor,Región tumoral,41.0,0.0027370340826764145,1294
+plane,Sagital,tumor,Región tumoral,43.0,0.003107598977196353,1294
+plane,Sagital,tumor,Región tumoral,45.0,0.003340580320859365,1294
+plane,Sagital,tumor,Región tumoral,47.0,0.0036289324971266936,1294
+plane,Sagital,tumor,Región tumoral,49.0,0.003924359106443384,1294
+plane,Sagital,tumor,Región tumoral,51.0,0.004146519435514743,1294
+plane,Sagital,tumor,Región tumoral,53.0,0.004433878105234005,1294
+plane,Sagital,tumor,Región tumoral,55.0,0.0046758965160429225,1294
+plane,Sagital,tumor,Región tumoral,57.0,0.004973206008233222,1294
+plane,Sagital,tumor,Región tumoral,59.0,0.005373245592657304,1294
+plane,Sagital,tumor,Región tumoral,61.0,0.005682423052223878,1294
+plane,Sagital,tumor,Región tumoral,63.0,0.006054346474511911,1294
+plane,Sagital,tumor,Región tumoral,65.0,0.006510215970096268,1294
+plane,Sagital,tumor,Región tumoral,67.0,0.006797914028550765,1294
+plane,Sagital,tumor,Región tumoral,69.0,0.007305551778284407,1294
+plane,Sagital,tumor,Región tumoral,71.0,0.007722111497008541,1294
+plane,Sagital,tumor,Región tumoral,73.0,0.00824804532780053,1294
+plane,Sagital,tumor,Región tumoral,75.0,0.00857089031864936,1294
+plane,Sagital,tumor,Región tumoral,77.0,0.009219070488608478,1294
+plane,Sagital,tumor,Región tumoral,79.0,0.009742882424922956,1294
+plane,Sagital,tumor,Región tumoral,81.0,0.010318363392343466,1294
+plane,Sagital,tumor,Región tumoral,83.0,0.010695740191237093,1294
+plane,Sagital,tumor,Región tumoral,85.0,0.01109627038642567,1294
+plane,Sagital,tumor,Región tumoral,87.0,0.01141784919548701,1294
+plane,Sagital,tumor,Región tumoral,89.0,0.011527122308885267,1294
+plane,Sagital,tumor,Región tumoral,91.0,0.011531157950537165,1294
+plane,Sagital,tumor,Región tumoral,93.0,0.011848035293683652,1294
+plane,Sagital,tumor,Región tumoral,95.0,0.011835641033475224,1294
+plane,Sagital,tumor,Región tumoral,97.0,0.012040915800258747,1294
+plane,Sagital,tumor,Región tumoral,99.0,0.01208356912423995,1294
+plane,Sagital,tumor,Región tumoral,101.0,0.012205482701961154,1294
+plane,Sagital,tumor,Región tumoral,103.0,0.012236186510003024,1294
+plane,Sagital,tumor,Región tumoral,105.0,0.012241832485390928,1294
+plane,Sagital,tumor,Región tumoral,107.0,0.012173489435159213,1294
+plane,Sagital,tumor,Región tumoral,109.0,0.012031273077099036,1294
+plane,Sagital,tumor,Región tumoral,111.0,0.011730085657461788,1294
+plane,Sagital,tumor,Región tumoral,113.0,0.011543861287733099,1294
+plane,Sagital,tumor,Región tumoral,115.0,0.0111591737953001,1294
+plane,Sagital,tumor,Región tumoral,117.0,0.010859440115419238,1294
+plane,Sagital,tumor,Región tumoral,119.0,0.010554200042120937,1294
+plane,Sagital,tumor,Región tumoral,121.0,0.010067504620146921,1294
+plane,Sagital,tumor,Región tumoral,123.0,0.00967929878368143,1294
+plane,Sagital,tumor,Región tumoral,125.0,0.00923042750537759,1294
+plane,Sagital,tumor,Región tumoral,127.0,0.008869883536342636,1294
+plane,Sagital,tumor,Región tumoral,129.0,0.00853687259565414,1294
+plane,Sagital,tumor,Región tumoral,131.0,0.008165256548678307,1294
+plane,Sagital,tumor,Región tumoral,133.0,0.007721843665600637,1294
+plane,Sagital,tumor,Región tumoral,135.0,0.007296144625731046,1294
+plane,Sagital,tumor,Región tumoral,137.0,0.006811368662103195,1294
+plane,Sagital,tumor,Región tumoral,139.0,0.006529735739608085,1294
+plane,Sagital,tumor,Región tumoral,141.0,0.006213488459262663,1294
+plane,Sagital,tumor,Región tumoral,143.0,0.005664722593381295,1294
+plane,Sagital,tumor,Región tumoral,145.0,0.005281227157549283,1294
+plane,Sagital,tumor,Región tumoral,147.0,0.00466035669056392,1294
+plane,Sagital,tumor,Región tumoral,149.0,0.004240117749247178,1294
+plane,Sagital,tumor,Región tumoral,151.0,0.003668361184676662,1294
+plane,Sagital,tumor,Región tumoral,153.0,0.003317841017103449,1294
+plane,Sagital,tumor,Región tumoral,155.0,0.0028641474489202114,1294
+plane,Sagital,tumor,Región tumoral,157.0,0.0025183213247535405,1294
+plane,Sagital,tumor,Región tumoral,159.0,0.0022630001573545706,1294
+plane,Sagital,tumor,Región tumoral,161.0,0.0019424930381556598,1294
+plane,Sagital,tumor,Región tumoral,163.0,0.001767513010986106,1294
+plane,Sagital,tumor,Región tumoral,165.0,0.0015742222988812087,1294
+plane,Sagital,tumor,Región tumoral,167.0,0.001390955696564353,1294
+plane,Sagital,tumor,Región tumoral,169.0,0.0011822736474217113,1294
+plane,Sagital,tumor,Región tumoral,171.0,0.001062063484868855,1294
+plane,Sagital,tumor,Región tumoral,173.0,0.0009098705686711546,1294
+plane,Sagital,tumor,Región tumoral,175.0,0.0008260042957468583,1294
+plane,Sagital,tumor,Región tumoral,177.0,0.0006944511268531206,1294
+plane,Sagital,tumor,Región tumoral,179.0,0.0006506790943201862,1294
+plane,Sagital,tumor,Región tumoral,181.0,0.0005646251303462323,1294
+plane,Sagital,tumor,Región tumoral,183.0,0.0005006169015482892,1294
+plane,Sagital,tumor,Región tumoral,185.0,0.00048099746996526944,1294
+plane,Sagital,tumor,Región tumoral,187.0,0.0004316503220104081,1294
+plane,Sagital,tumor,Región tumoral,189.0,0.00038212977513568067,1294
+plane,Sagital,tumor,Región tumoral,191.0,0.0003416350635252948,1294
+plane,Sagital,tumor,Región tumoral,193.0,0.00029597120761256713,1294
+plane,Sagital,tumor,Región tumoral,195.0,0.00023793321449908891,1294
+plane,Sagital,tumor,Región tumoral,197.0,0.00021022418498795823,1294
+plane,Sagital,tumor,Región tumoral,199.0,0.00020633425062241873,1294
+plane,Sagital,tumor,Región tumoral,201.0,0.00017481668949005527,1294
+plane,Sagital,tumor,Región tumoral,203.0,0.0001484992757131257,1294
+plane,Sagital,tumor,Región tumoral,205.0,0.0001219082609759144,1294
+plane,Sagital,tumor,Región tumoral,207.0,0.00011198809539890022,1294
+plane,Sagital,tumor,Región tumoral,209.0,9.498946966927504e-05,1294
+plane,Sagital,tumor,Región tumoral,211.0,9.607832687542078e-05,1294
+plane,Sagital,tumor,Región tumoral,213.0,9.084228910005688e-05,1294
+plane,Sagital,tumor,Región tumoral,215.0,8.44633751701054e-05,1294
+plane,Sagital,tumor,Región tumoral,217.0,7.033056291056462e-05,1294
+plane,Sagital,tumor,Región tumoral,219.0,5.99927308172703e-05,1294
+plane,Sagital,tumor,Región tumoral,221.0,5.791051336001778e-05,1294
+plane,Sagital,tumor,Región tumoral,223.0,4.5526208102517516e-05,1294
+plane,Sagital,tumor,Región tumoral,225.0,4.294900753325056e-05,1294
+plane,Sagital,tumor,Región tumoral,227.0,4.1681853348311443e-05,1294
+plane,Sagital,tumor,Región tumoral,229.0,3.068027269770164e-05,1294
+plane,Sagital,tumor,Región tumoral,231.0,1.913779906137303e-05,1294
+plane,Sagital,tumor,Región tumoral,233.0,1.590088311059152e-05,1294
+plane,Sagital,tumor,Región tumoral,235.0,1.1289467765577042e-05,1294
+plane,Sagital,tumor,Región tumoral,237.0,8.709620823724806e-06,1294
+plane,Sagital,tumor,Región tumoral,239.0,6.274963923014483e-06,1294
+plane,Sagital,tumor,Región tumoral,241.0,7.160977672519563e-06,1294
+plane,Sagital,tumor,Región tumoral,243.0,4.858075997290589e-06,1294
+plane,Sagital,tumor,Región tumoral,245.0,3.825616183330525e-06,1294
+plane,Sagital,tumor,Región tumoral,247.0,4.407659428876978e-06,1294
+plane,Sagital,tumor,Región tumoral,249.0,4.07094034325907e-06,1294
+plane,Sagital,tumor,Región tumoral,251.0,3.9494741781776035e-06,1294
+plane,Sagital,tumor,Región tumoral,253.0,4.410611835942825e-06,1294
+plane,Sagital,tumor,Región tumoral,255.0,3.8862643056966846e-06,1294
+plane,Sagital,non_tumor,Región no tumoral,1.0,0.00023874089452374084,1294
+plane,Sagital,non_tumor,Región no tumoral,3.0,0.0007842669041956637,1294
+plane,Sagital,non_tumor,Región no tumoral,5.0,0.0019366282016149148,1294
+plane,Sagital,non_tumor,Región no tumoral,7.0,0.0024659693797690666,1294
+plane,Sagital,non_tumor,Región no tumoral,9.0,0.0024763796412601447,1294
+plane,Sagital,non_tumor,Región no tumoral,11.0,0.002369130602877761,1294
+plane,Sagital,non_tumor,Región no tumoral,13.0,0.0023854105689406807,1294
+plane,Sagital,non_tumor,Región no tumoral,15.0,0.0025816702441394585,1294
+plane,Sagital,non_tumor,Región no tumoral,17.0,0.0054449061007271465,1294
+plane,Sagital,non_tumor,Región no tumoral,19.0,0.005284793821530155,1294
+plane,Sagital,non_tumor,Región no tumoral,21.0,0.005235684825705868,1294
+plane,Sagital,non_tumor,Región no tumoral,23.0,0.005306925803281822,1294
+plane,Sagital,non_tumor,Región no tumoral,25.0,0.0054228656342483455,1294
+plane,Sagital,non_tumor,Región no tumoral,27.0,0.005587169013149903,1294
+plane,Sagital,non_tumor,Región no tumoral,29.0,0.005803824451642121,1294
+plane,Sagital,non_tumor,Región no tumoral,31.0,0.006037817026326807,1294
+plane,Sagital,non_tumor,Región no tumoral,33.0,0.006307901699360811,1294
+plane,Sagital,non_tumor,Región no tumoral,35.0,0.006599416799634007,1294
+plane,Sagital,non_tumor,Región no tumoral,37.0,0.006925210933391334,1294
+plane,Sagital,non_tumor,Región no tumoral,39.0,0.007262917342979467,1294
+plane,Sagital,non_tumor,Región no tumoral,41.0,0.007615181708601615,1294
+plane,Sagital,non_tumor,Región no tumoral,43.0,0.008012655551535403,1294
+plane,Sagital,non_tumor,Región no tumoral,45.0,0.008440517886877339,1294
+plane,Sagital,non_tumor,Región no tumoral,47.0,0.008927483872250579,1294
+plane,Sagital,non_tumor,Región no tumoral,49.0,0.009457457591987607,1294
+plane,Sagital,non_tumor,Región no tumoral,51.0,0.010032172316039494,1294
+plane,Sagital,non_tumor,Región no tumoral,53.0,0.010686834229445486,1294
+plane,Sagital,non_tumor,Región no tumoral,55.0,0.011368558047706957,1294
+plane,Sagital,non_tumor,Región no tumoral,57.0,0.012118766991473346,1294
+plane,Sagital,non_tumor,Región no tumoral,59.0,0.01287564939306085,1294
+plane,Sagital,non_tumor,Región no tumoral,61.0,0.013624065087861873,1294
+plane,Sagital,non_tumor,Región no tumoral,63.0,0.014346282120408019,1294
+plane,Sagital,non_tumor,Región no tumoral,65.0,0.014985599644561764,1294
+plane,Sagital,non_tumor,Región no tumoral,67.0,0.015495009259646463,1294
+plane,Sagital,non_tumor,Región no tumoral,69.0,0.015803335879579643,1294
+plane,Sagital,non_tumor,Región no tumoral,71.0,0.01581476228385299,1294
+plane,Sagital,non_tumor,Región no tumoral,73.0,0.015560299485204028,1294
+plane,Sagital,non_tumor,Región no tumoral,75.0,0.015032927006608883,1294
+plane,Sagital,non_tumor,Región no tumoral,77.0,0.01435021275355746,1294
+plane,Sagital,non_tumor,Región no tumoral,79.0,0.013542903979455068,1294
+plane,Sagital,non_tumor,Región no tumoral,81.0,0.012676905540681004,1294
+plane,Sagital,non_tumor,Región no tumoral,83.0,0.011770220690554166,1294
+plane,Sagital,non_tumor,Región no tumoral,85.0,0.010826260183980776,1294
+plane,Sagital,non_tumor,Región no tumoral,87.0,0.009840999963925607,1294
+plane,Sagital,non_tumor,Región no tumoral,89.0,0.008839829448289246,1294
+plane,Sagital,non_tumor,Región no tumoral,91.0,0.007880855835731832,1294
+plane,Sagital,non_tumor,Región no tumoral,93.0,0.007015426567555755,1294
+plane,Sagital,non_tumor,Región no tumoral,95.0,0.006265818279040577,1294
+plane,Sagital,non_tumor,Región no tumoral,97.0,0.005613677560786749,1294
+plane,Sagital,non_tumor,Región no tumoral,99.0,0.005027284546245026,1294
+plane,Sagital,non_tumor,Región no tumoral,101.0,0.0045008726521216765,1294
+plane,Sagital,non_tumor,Región no tumoral,103.0,0.004048504220194367,1294
+plane,Sagital,non_tumor,Región no tumoral,105.0,0.0036942717898807774,1294
+plane,Sagital,non_tumor,Región no tumoral,107.0,0.0033939900384745638,1294
+plane,Sagital,non_tumor,Región no tumoral,109.0,0.0031459453480448974,1294
+plane,Sagital,non_tumor,Región no tumoral,111.0,0.002954061352278641,1294
+plane,Sagital,non_tumor,Región no tumoral,113.0,0.002788597203391911,1294
+plane,Sagital,non_tumor,Región no tumoral,115.0,0.002646443310074336,1294
+plane,Sagital,non_tumor,Región no tumoral,117.0,0.002518377303960503,1294
+plane,Sagital,non_tumor,Región no tumoral,119.0,0.0023891836722706233,1294
+plane,Sagital,non_tumor,Región no tumoral,121.0,0.002282291430367189,1294
+plane,Sagital,non_tumor,Región no tumoral,123.0,0.0021706030105083747,1294
+plane,Sagital,non_tumor,Región no tumoral,125.0,0.002067387843562537,1294
+plane,Sagital,non_tumor,Región no tumoral,127.0,0.0019769102831490365,1294
+plane,Sagital,non_tumor,Región no tumoral,129.0,0.0018814739369334527,1294
+plane,Sagital,non_tumor,Región no tumoral,131.0,0.0017939064686765312,1294
+plane,Sagital,non_tumor,Región no tumoral,133.0,0.0017174221726966967,1294
+plane,Sagital,non_tumor,Región no tumoral,135.0,0.0016381316771727035,1294
+plane,Sagital,non_tumor,Región no tumoral,137.0,0.0015649584211731217,1294
+plane,Sagital,non_tumor,Región no tumoral,139.0,0.0014935609656971504,1294
+plane,Sagital,non_tumor,Región no tumoral,141.0,0.0014265558550658661,1294
+plane,Sagital,non_tumor,Región no tumoral,143.0,0.0013652847024057198,1294
+plane,Sagital,non_tumor,Región no tumoral,145.0,0.0013079519826545182,1294
+plane,Sagital,non_tumor,Región no tumoral,147.0,0.0012527049814886478,1294
+plane,Sagital,non_tumor,Región no tumoral,149.0,0.0011978376905868926,1294
+plane,Sagital,non_tumor,Región no tumoral,151.0,0.0011474352831967187,1294
+plane,Sagital,non_tumor,Región no tumoral,153.0,0.0011011878783423802,1294
+plane,Sagital,non_tumor,Región no tumoral,155.0,0.001057999133051714,1294
+plane,Sagital,non_tumor,Región no tumoral,157.0,0.0010157305019874443,1294
+plane,Sagital,non_tumor,Región no tumoral,159.0,0.0009745976502703202,1294
+plane,Sagital,non_tumor,Región no tumoral,161.0,0.0009391657303481688,1294
+plane,Sagital,non_tumor,Región no tumoral,163.0,0.0009016998069047897,1294
+plane,Sagital,non_tumor,Región no tumoral,165.0,0.0008635843872011602,1294
+plane,Sagital,non_tumor,Región no tumoral,167.0,0.0008291417103017165,1294
+plane,Sagital,non_tumor,Región no tumoral,169.0,0.0007964843913945202,1294
+plane,Sagital,non_tumor,Región no tumoral,171.0,0.0007634772374963457,1294
+plane,Sagital,non_tumor,Región no tumoral,173.0,0.0007345336225986549,1294
+plane,Sagital,non_tumor,Región no tumoral,175.0,0.0007052956007161208,1294
+plane,Sagital,non_tumor,Región no tumoral,177.0,0.0006765615018515837,1294
+plane,Sagital,non_tumor,Región no tumoral,179.0,0.0006513479830043296,1294
+plane,Sagital,non_tumor,Región no tumoral,181.0,0.0006270252082312074,1294
+plane,Sagital,non_tumor,Región no tumoral,183.0,0.000601539529889115,1294
+plane,Sagital,non_tumor,Región no tumoral,185.0,0.000575178210593333,1294
+plane,Sagital,non_tumor,Región no tumoral,187.0,0.0005511910357304582,1294
+plane,Sagital,non_tumor,Región no tumoral,189.0,0.0005230584594862071,1294
+plane,Sagital,non_tumor,Región no tumoral,191.0,0.0004984795280722623,1294
+plane,Sagital,non_tumor,Región no tumoral,193.0,0.0004749727616760046,1294
+plane,Sagital,non_tumor,Región no tumoral,195.0,0.0004492613896928434,1294
+plane,Sagital,non_tumor,Región no tumoral,197.0,0.00042646254394183847,1294
+plane,Sagital,non_tumor,Región no tumoral,199.0,0.0004039147322039707,1294
+plane,Sagital,non_tumor,Región no tumoral,201.0,0.0003806523153836755,1294
+plane,Sagital,non_tumor,Región no tumoral,203.0,0.00035871293274479873,1294
+plane,Sagital,non_tumor,Región no tumoral,205.0,0.0003349637329350766,1294
+plane,Sagital,non_tumor,Región no tumoral,207.0,0.0003138666922421692,1294
+plane,Sagital,non_tumor,Región no tumoral,209.0,0.000291044927889812,1294
+plane,Sagital,non_tumor,Región no tumoral,211.0,0.00027028282484002083,1294
+plane,Sagital,non_tumor,Región no tumoral,213.0,0.00025272560869294693,1294
+plane,Sagital,non_tumor,Región no tumoral,215.0,0.0002334968824776814,1294
+plane,Sagital,non_tumor,Región no tumoral,217.0,0.00021554444331503382,1294
+plane,Sagital,non_tumor,Región no tumoral,219.0,0.00019660951887717556,1294
+plane,Sagital,non_tumor,Región no tumoral,221.0,0.0001795246662104373,1294
+plane,Sagital,non_tumor,Región no tumoral,223.0,0.0001632645267905922,1294
+plane,Sagital,non_tumor,Región no tumoral,225.0,0.00014573577974813179,1294
+plane,Sagital,non_tumor,Región no tumoral,227.0,0.00013050729411072948,1294
+plane,Sagital,non_tumor,Región no tumoral,229.0,0.0001159837810610026,1294
+plane,Sagital,non_tumor,Región no tumoral,231.0,0.00010242860047304393,1294
+plane,Sagital,non_tumor,Región no tumoral,233.0,9.129148193706724e-05,1294
+plane,Sagital,non_tumor,Región no tumoral,235.0,7.935542389274507e-05,1294
+plane,Sagital,non_tumor,Región no tumoral,237.0,6.721887589463885e-05,1294
+plane,Sagital,non_tumor,Región no tumoral,239.0,5.73243013223671e-05,1294
+plane,Sagital,non_tumor,Región no tumoral,241.0,4.693762604984684e-05,1294
+plane,Sagital,non_tumor,Región no tumoral,243.0,3.9118545937981726e-05,1294
+plane,Sagital,non_tumor,Región no tumoral,245.0,3.100386725706341e-05,1294
+plane,Sagital,non_tumor,Región no tumoral,247.0,2.503167202470457e-05,1294
+plane,Sagital,non_tumor,Región no tumoral,249.0,2.0244195419090172e-05,1294
+plane,Sagital,non_tumor,Región no tumoral,251.0,1.626571941368948e-05,1294
+plane,Sagital,non_tumor,Región no tumoral,253.0,1.2888956010044021e-05,1294
+plane,Sagital,non_tumor,Región no tumoral,255.0,1.5837080229754793e-05,1294
+tumor_type,Meningioma,complete,Imagen completa,1.0,0.0003338739221221904,1206
+tumor_type,Meningioma,complete,Imagen completa,3.0,0.000524430045211134,1206
+tumor_type,Meningioma,complete,Imagen completa,5.0,0.0014290257410592478,1206
+tumor_type,Meningioma,complete,Imagen completa,7.0,0.0018969439306004508,1206
+tumor_type,Meningioma,complete,Imagen completa,9.0,0.0019442730491668668,1206
+tumor_type,Meningioma,complete,Imagen completa,11.0,0.001955992911304293,1206
+tumor_type,Meningioma,complete,Imagen completa,13.0,0.0020225095554514245,1206
+tumor_type,Meningioma,complete,Imagen completa,15.0,0.0021844450262269977,1206
+tumor_type,Meningioma,complete,Imagen completa,17.0,0.004251827355011556,1206
+tumor_type,Meningioma,complete,Imagen completa,19.0,0.004146619617635135,1206
+tumor_type,Meningioma,complete,Imagen completa,21.0,0.004110598229047562,1206
+tumor_type,Meningioma,complete,Imagen completa,23.0,0.004161096580640299,1206
+tumor_type,Meningioma,complete,Imagen completa,25.0,0.004239919018194786,1206
+tumor_type,Meningioma,complete,Imagen completa,27.0,0.004359654563735305,1206
+tumor_type,Meningioma,complete,Imagen completa,29.0,0.0045300055700939895,1206
+tumor_type,Meningioma,complete,Imagen completa,31.0,0.004691179072289512,1206
+tumor_type,Meningioma,complete,Imagen completa,33.0,0.0048844892762520825,1206
+tumor_type,Meningioma,complete,Imagen completa,35.0,0.005085773496072999,1206
+tumor_type,Meningioma,complete,Imagen completa,37.0,0.00530925559669495,1206
+tumor_type,Meningioma,complete,Imagen completa,39.0,0.005572502411008085,1206
+tumor_type,Meningioma,complete,Imagen completa,41.0,0.005890921666149801,1206
+tumor_type,Meningioma,complete,Imagen completa,43.0,0.006264828800713784,1206
+tumor_type,Meningioma,complete,Imagen completa,45.0,0.006677815021276648,1206
+tumor_type,Meningioma,complete,Imagen completa,47.0,0.007137489378065024,1206
+tumor_type,Meningioma,complete,Imagen completa,49.0,0.0076775423738343765,1206
+tumor_type,Meningioma,complete,Imagen completa,51.0,0.008258901896745956,1206
+tumor_type,Meningioma,complete,Imagen completa,53.0,0.008890287493601143,1206
+tumor_type,Meningioma,complete,Imagen completa,55.0,0.009516353473295098,1206
+tumor_type,Meningioma,complete,Imagen completa,57.0,0.010260483373385988,1206
+tumor_type,Meningioma,complete,Imagen completa,59.0,0.010966379997503165,1206
+tumor_type,Meningioma,complete,Imagen completa,61.0,0.01171419041807543,1206
+tumor_type,Meningioma,complete,Imagen completa,63.0,0.01252237309070911,1206
+tumor_type,Meningioma,complete,Imagen completa,65.0,0.013257256511730571,1206
+tumor_type,Meningioma,complete,Imagen completa,67.0,0.013910324102268345,1206
+tumor_type,Meningioma,complete,Imagen completa,69.0,0.014423772688446789,1206
+tumor_type,Meningioma,complete,Imagen completa,71.0,0.014790786602941652,1206
+tumor_type,Meningioma,complete,Imagen completa,73.0,0.014960528278542102,1206
+tumor_type,Meningioma,complete,Imagen completa,75.0,0.01494786916085983,1206
+tumor_type,Meningioma,complete,Imagen completa,77.0,0.014756080920843859,1206
+tumor_type,Meningioma,complete,Imagen completa,79.0,0.014345651649001947,1206
+tumor_type,Meningioma,complete,Imagen completa,81.0,0.013778170201728286,1206
+tumor_type,Meningioma,complete,Imagen completa,83.0,0.012978993543167736,1206
+tumor_type,Meningioma,complete,Imagen completa,85.0,0.012121836148591573,1206
+tumor_type,Meningioma,complete,Imagen completa,87.0,0.01125104468543686,1206
+tumor_type,Meningioma,complete,Imagen completa,89.0,0.010309689096158519,1206
+tumor_type,Meningioma,complete,Imagen completa,91.0,0.00934467612100672,1206
+tumor_type,Meningioma,complete,Imagen completa,93.0,0.00849696628364923,1206
+tumor_type,Meningioma,complete,Imagen completa,95.0,0.007738822899978973,1206
+tumor_type,Meningioma,complete,Imagen completa,97.0,0.007040637360039185,1206
+tumor_type,Meningioma,complete,Imagen completa,99.0,0.006389082763695062,1206
+tumor_type,Meningioma,complete,Imagen completa,101.0,0.0058114588497932855,1206
+tumor_type,Meningioma,complete,Imagen completa,103.0,0.005276871157936723,1206
+tumor_type,Meningioma,complete,Imagen completa,105.0,0.004851556986886208,1206
+tumor_type,Meningioma,complete,Imagen completa,107.0,0.004494856251118068,1206
+tumor_type,Meningioma,complete,Imagen completa,109.0,0.004215732826751009,1206
+tumor_type,Meningioma,complete,Imagen completa,111.0,0.003986753485369442,1206
+tumor_type,Meningioma,complete,Imagen completa,113.0,0.003793201116597419,1206
+tumor_type,Meningioma,complete,Imagen completa,115.0,0.003619439656140421,1206
+tumor_type,Meningioma,complete,Imagen completa,117.0,0.0034549730309048456,1206
+tumor_type,Meningioma,complete,Imagen completa,119.0,0.0032986127752780577,1206
+tumor_type,Meningioma,complete,Imagen completa,121.0,0.0031570905080269135,1206
+tumor_type,Meningioma,complete,Imagen completa,123.0,0.0030253170629881165,1206
+tumor_type,Meningioma,complete,Imagen completa,125.0,0.002904512380008345,1206
+tumor_type,Meningioma,complete,Imagen completa,127.0,0.00279745826616982,1206
+tumor_type,Meningioma,complete,Imagen completa,129.0,0.002688028994762025,1206
+tumor_type,Meningioma,complete,Imagen completa,131.0,0.0025820767081816158,1206
+tumor_type,Meningioma,complete,Imagen completa,133.0,0.002484551548873655,1206
+tumor_type,Meningioma,complete,Imagen completa,135.0,0.002389974541631892,1206
+tumor_type,Meningioma,complete,Imagen completa,137.0,0.002311531217019394,1206
+tumor_type,Meningioma,complete,Imagen completa,139.0,0.002249243297054946,1206
+tumor_type,Meningioma,complete,Imagen completa,141.0,0.0021652408706532627,1206
+tumor_type,Meningioma,complete,Imagen completa,143.0,0.0020827318885826844,1206
+tumor_type,Meningioma,complete,Imagen completa,145.0,0.0020022946138216775,1206
+tumor_type,Meningioma,complete,Imagen completa,147.0,0.0019054575675059484,1206
+tumor_type,Meningioma,complete,Imagen completa,149.0,0.0018329406337754572,1206
+tumor_type,Meningioma,complete,Imagen completa,151.0,0.0017517685175793146,1206
+tumor_type,Meningioma,complete,Imagen completa,153.0,0.001673223229646784,1206
+tumor_type,Meningioma,complete,Imagen completa,155.0,0.0016093127459783421,1206
+tumor_type,Meningioma,complete,Imagen completa,157.0,0.0015443886734900479,1206
+tumor_type,Meningioma,complete,Imagen completa,159.0,0.001474525017082539,1206
+tumor_type,Meningioma,complete,Imagen completa,161.0,0.00141329926446542,1206
+tumor_type,Meningioma,complete,Imagen completa,163.0,0.0013593360675502493,1206
+tumor_type,Meningioma,complete,Imagen completa,165.0,0.0013035667052684991,1206
+tumor_type,Meningioma,complete,Imagen completa,167.0,0.001246865427835917,1206
+tumor_type,Meningioma,complete,Imagen completa,169.0,0.0011946109319318809,1206
+tumor_type,Meningioma,complete,Imagen completa,171.0,0.0011391359345258739,1206
+tumor_type,Meningioma,complete,Imagen completa,173.0,0.0010868367316361415,1206
+tumor_type,Meningioma,complete,Imagen completa,175.0,0.0010330751278007338,1206
+tumor_type,Meningioma,complete,Imagen completa,177.0,0.0009852292303489402,1206
+tumor_type,Meningioma,complete,Imagen completa,179.0,0.000937156733977184,1206
+tumor_type,Meningioma,complete,Imagen completa,181.0,0.0008904423759976369,1206
+tumor_type,Meningioma,complete,Imagen completa,183.0,0.0008460571530337065,1206
+tumor_type,Meningioma,complete,Imagen completa,185.0,0.000802858160126546,1206
+tumor_type,Meningioma,complete,Imagen completa,187.0,0.0007598169851587221,1206
+tumor_type,Meningioma,complete,Imagen completa,189.0,0.0007220054148763474,1206
+tumor_type,Meningioma,complete,Imagen completa,191.0,0.0006834422318728653,1206
+tumor_type,Meningioma,complete,Imagen completa,193.0,0.0006453576544891924,1206
+tumor_type,Meningioma,complete,Imagen completa,195.0,0.0006074883106848521,1206
+tumor_type,Meningioma,complete,Imagen completa,197.0,0.0005713863412138517,1206
+tumor_type,Meningioma,complete,Imagen completa,199.0,0.0005395824894596481,1206
+tumor_type,Meningioma,complete,Imagen completa,201.0,0.0005003296531479436,1206
+tumor_type,Meningioma,complete,Imagen completa,203.0,0.00046827171516380337,1206
+tumor_type,Meningioma,complete,Imagen completa,205.0,0.00043615710607874047,1206
+tumor_type,Meningioma,complete,Imagen completa,207.0,0.00040501986641510986,1206
+tumor_type,Meningioma,complete,Imagen completa,209.0,0.0003768560546218974,1206
+tumor_type,Meningioma,complete,Imagen completa,211.0,0.0003500913951220998,1206
+tumor_type,Meningioma,complete,Imagen completa,213.0,0.0003235567043338935,1206
+tumor_type,Meningioma,complete,Imagen completa,215.0,0.00029594602439914216,1206
+tumor_type,Meningioma,complete,Imagen completa,217.0,0.00026959881753137296,1206
+tumor_type,Meningioma,complete,Imagen completa,219.0,0.0002437362678636631,1206
+tumor_type,Meningioma,complete,Imagen completa,221.0,0.0002208900869714516,1206
+tumor_type,Meningioma,complete,Imagen completa,223.0,0.0001959159327280782,1206
+tumor_type,Meningioma,complete,Imagen completa,225.0,0.00017465523694512703,1206
+tumor_type,Meningioma,complete,Imagen completa,227.0,0.00015759908421517194,1206
+tumor_type,Meningioma,complete,Imagen completa,229.0,0.00013725381030246374,1206
+tumor_type,Meningioma,complete,Imagen completa,231.0,0.0001211695214559781,1206
+tumor_type,Meningioma,complete,Imagen completa,233.0,0.00010655080853914536,1206
+tumor_type,Meningioma,complete,Imagen completa,235.0,9.378818448478893e-05,1206
+tumor_type,Meningioma,complete,Imagen completa,237.0,8.076716286600606e-05,1206
+tumor_type,Meningioma,complete,Imagen completa,239.0,7.114958477169619e-05,1206
+tumor_type,Meningioma,complete,Imagen completa,241.0,6.062329330048942e-05,1206
+tumor_type,Meningioma,complete,Imagen completa,243.0,5.3272245692044455e-05,1206
+tumor_type,Meningioma,complete,Imagen completa,245.0,4.66063783014135e-05,1206
+tumor_type,Meningioma,complete,Imagen completa,247.0,4.537980021071979e-05,1206
+tumor_type,Meningioma,complete,Imagen completa,249.0,4.718375992987616e-05,1206
+tumor_type,Meningioma,complete,Imagen completa,251.0,5.0257203475367737e-05,1206
+tumor_type,Meningioma,complete,Imagen completa,253.0,5.522651779958943e-05,1206
+tumor_type,Meningioma,complete,Imagen completa,255.0,0.00015530312220882173,1206
+tumor_type,Meningioma,tumor,Región tumoral,1.0,3.175132751859199e-07,1206
+tumor_type,Meningioma,tumor,Región tumoral,3.0,8.385240992259331e-07,1206
+tumor_type,Meningioma,tumor,Región tumoral,5.0,5.108919913360375e-07,1206
+tumor_type,Meningioma,tumor,Región tumoral,7.0,1.6189989666950142e-06,1206
+tumor_type,Meningioma,tumor,Región tumoral,9.0,3.490479720789917e-06,1206
+tumor_type,Meningioma,tumor,Región tumoral,11.0,3.4377057514584934e-06,1206
+tumor_type,Meningioma,tumor,Región tumoral,13.0,4.134002579279271e-06,1206
+tumor_type,Meningioma,tumor,Región tumoral,15.0,7.392209783607847e-06,1206
+tumor_type,Meningioma,tumor,Región tumoral,17.0,1.0819174846384564e-05,1206
+tumor_type,Meningioma,tumor,Región tumoral,19.0,1.5565981126982847e-05,1206
+tumor_type,Meningioma,tumor,Región tumoral,21.0,2.83370468493054e-05,1206
+tumor_type,Meningioma,tumor,Región tumoral,23.0,5.858823415554175e-05,1206
+tumor_type,Meningioma,tumor,Región tumoral,25.0,8.121077755676815e-05,1206
+tumor_type,Meningioma,tumor,Región tumoral,27.0,0.00010703618722454447,1206
+tumor_type,Meningioma,tumor,Región tumoral,29.0,0.000131477676639212,1206
+tumor_type,Meningioma,tumor,Región tumoral,31.0,0.00018682850273537652,1206
+tumor_type,Meningioma,tumor,Región tumoral,33.0,0.0002399131550129375,1206
+tumor_type,Meningioma,tumor,Región tumoral,35.0,0.000249429926651009,1206
+tumor_type,Meningioma,tumor,Región tumoral,37.0,0.00024175201151820785,1206
+tumor_type,Meningioma,tumor,Región tumoral,39.0,0.0002791120039171319,1206
+tumor_type,Meningioma,tumor,Región tumoral,41.0,0.00029499026230108197,1206
+tumor_type,Meningioma,tumor,Región tumoral,43.0,0.00034209119182694315,1206
+tumor_type,Meningioma,tumor,Región tumoral,45.0,0.00038657848246714924,1206
+tumor_type,Meningioma,tumor,Región tumoral,47.0,0.00044042669985860515,1206
+tumor_type,Meningioma,tumor,Región tumoral,49.0,0.0005469483441937654,1206
+tumor_type,Meningioma,tumor,Región tumoral,51.0,0.0006381641281616101,1206
+tumor_type,Meningioma,tumor,Región tumoral,53.0,0.0007653871268936796,1206
+tumor_type,Meningioma,tumor,Región tumoral,55.0,0.000909269598418742,1206
+tumor_type,Meningioma,tumor,Región tumoral,57.0,0.0010649414871581227,1206
+tumor_type,Meningioma,tumor,Región tumoral,59.0,0.0012402510114293628,1206
+tumor_type,Meningioma,tumor,Región tumoral,61.0,0.0014978666814888218,1206
+tumor_type,Meningioma,tumor,Región tumoral,63.0,0.0017352900332441655,1206
+tumor_type,Meningioma,tumor,Región tumoral,65.0,0.002019558425157736,1206
+tumor_type,Meningioma,tumor,Región tumoral,67.0,0.002331233049612142,1206
+tumor_type,Meningioma,tumor,Región tumoral,69.0,0.0026769201411063668,1206
+tumor_type,Meningioma,tumor,Región tumoral,71.0,0.0030519448736438144,1206
+tumor_type,Meningioma,tumor,Región tumoral,73.0,0.0035273570382938603,1206
+tumor_type,Meningioma,tumor,Región tumoral,75.0,0.004026304141556071,1206
+tumor_type,Meningioma,tumor,Región tumoral,77.0,0.004664442369229622,1206
+tumor_type,Meningioma,tumor,Región tumoral,79.0,0.005421072030549372,1206
+tumor_type,Meningioma,tumor,Región tumoral,81.0,0.006250891752222854,1206
+tumor_type,Meningioma,tumor,Región tumoral,83.0,0.007070529684828869,1206
+tumor_type,Meningioma,tumor,Región tumoral,85.0,0.007844726125460869,1206
+tumor_type,Meningioma,tumor,Región tumoral,87.0,0.008735293492920376,1206
+tumor_type,Meningioma,tumor,Región tumoral,89.0,0.009569673477098663,1206
+tumor_type,Meningioma,tumor,Región tumoral,91.0,0.01046378998160498,1206
+tumor_type,Meningioma,tumor,Región tumoral,93.0,0.0112882403021571,1206
+tumor_type,Meningioma,tumor,Región tumoral,95.0,0.012009642805026756,1206
+tumor_type,Meningioma,tumor,Región tumoral,97.0,0.012693665225904253,1206
+tumor_type,Meningioma,tumor,Región tumoral,99.0,0.013122011493175094,1206
+tumor_type,Meningioma,tumor,Región tumoral,101.0,0.013386898543883571,1206
+tumor_type,Meningioma,tumor,Región tumoral,103.0,0.013947585005072075,1206
+tumor_type,Meningioma,tumor,Región tumoral,105.0,0.014274198497703667,1206
+tumor_type,Meningioma,tumor,Región tumoral,107.0,0.014453432371166943,1206
+tumor_type,Meningioma,tumor,Región tumoral,109.0,0.014640664341342082,1206
+tumor_type,Meningioma,tumor,Región tumoral,111.0,0.014538005269093454,1206
+tumor_type,Meningioma,tumor,Región tumoral,113.0,0.014639947814417006,1206
+tumor_type,Meningioma,tumor,Región tumoral,115.0,0.014401890324539758,1206
+tumor_type,Meningioma,tumor,Región tumoral,117.0,0.014044459575671991,1206
+tumor_type,Meningioma,tumor,Región tumoral,119.0,0.013714686059811751,1206
+tumor_type,Meningioma,tumor,Región tumoral,121.0,0.013237085156679188,1206
+tumor_type,Meningioma,tumor,Región tumoral,123.0,0.012727739875876049,1206
+tumor_type,Meningioma,tumor,Región tumoral,125.0,0.01224776236347399,1206
+tumor_type,Meningioma,tumor,Región tumoral,127.0,0.01188035870043315,1206
+tumor_type,Meningioma,tumor,Región tumoral,129.0,0.011511176072084281,1206
+tumor_type,Meningioma,tumor,Región tumoral,131.0,0.011275728129608243,1206
+tumor_type,Meningioma,tumor,Región tumoral,133.0,0.010776092273341524,1206
+tumor_type,Meningioma,tumor,Región tumoral,135.0,0.010494906913453233,1206
+tumor_type,Meningioma,tumor,Región tumoral,137.0,0.0102066208692853,1206
+tumor_type,Meningioma,tumor,Región tumoral,139.0,0.009944809006079807,1206
+tumor_type,Meningioma,tumor,Región tumoral,141.0,0.009604690531889263,1206
+tumor_type,Meningioma,tumor,Región tumoral,143.0,0.009022328222635967,1206
+tumor_type,Meningioma,tumor,Región tumoral,145.0,0.008499785917672403,1206
+tumor_type,Meningioma,tumor,Región tumoral,147.0,0.007733012243751957,1206
+tumor_type,Meningioma,tumor,Región tumoral,149.0,0.007050271854579028,1206
+tumor_type,Meningioma,tumor,Región tumoral,151.0,0.006357362508199408,1206
+tumor_type,Meningioma,tumor,Región tumoral,153.0,0.005772335249366001,1206
+tumor_type,Meningioma,tumor,Región tumoral,155.0,0.005233564274906436,1206
+tumor_type,Meningioma,tumor,Región tumoral,157.0,0.004745069009268841,1206
+tumor_type,Meningioma,tumor,Región tumoral,159.0,0.004326153985134102,1206
+tumor_type,Meningioma,tumor,Región tumoral,161.0,0.0038772692797747377,1206
+tumor_type,Meningioma,tumor,Región tumoral,163.0,0.0035822328923547885,1206
+tumor_type,Meningioma,tumor,Región tumoral,165.0,0.0032205471730175684,1206
+tumor_type,Meningioma,tumor,Región tumoral,167.0,0.002876405033994568,1206
+tumor_type,Meningioma,tumor,Región tumoral,169.0,0.0025674174489019016,1206
+tumor_type,Meningioma,tumor,Región tumoral,171.0,0.002214669272950799,1206
+tumor_type,Meningioma,tumor,Región tumoral,173.0,0.0019062638384935576,1206
+tumor_type,Meningioma,tumor,Región tumoral,175.0,0.0015987001307817053,1206
+tumor_type,Meningioma,tumor,Región tumoral,177.0,0.0013918012688679017,1206
+tumor_type,Meningioma,tumor,Región tumoral,179.0,0.0012044804066374255,1206
+tumor_type,Meningioma,tumor,Región tumoral,181.0,0.0010834354738776854,1206
+tumor_type,Meningioma,tumor,Región tumoral,183.0,0.0009236980185437628,1206
+tumor_type,Meningioma,tumor,Región tumoral,185.0,0.0008315140974284968,1206
+tumor_type,Meningioma,tumor,Región tumoral,187.0,0.0007195272785365282,1206
+tumor_type,Meningioma,tumor,Región tumoral,189.0,0.000628918705365721,1206
+tumor_type,Meningioma,tumor,Región tumoral,191.0,0.0005606152350909812,1206
+tumor_type,Meningioma,tumor,Región tumoral,193.0,0.0004988621401239955,1206
+tumor_type,Meningioma,tumor,Región tumoral,195.0,0.00044339548763194304,1206
+tumor_type,Meningioma,tumor,Región tumoral,197.0,0.00041827969295970386,1206
+tumor_type,Meningioma,tumor,Región tumoral,199.0,0.00037613589642592415,1206
+tumor_type,Meningioma,tumor,Región tumoral,201.0,0.00032000846984084813,1206
+tumor_type,Meningioma,tumor,Región tumoral,203.0,0.0002943470472389191,1206
+tumor_type,Meningioma,tumor,Región tumoral,205.0,0.0002901160557083257,1206
+tumor_type,Meningioma,tumor,Región tumoral,207.0,0.0002761141272564663,1206
+tumor_type,Meningioma,tumor,Región tumoral,209.0,0.00027210963176534233,1206
+tumor_type,Meningioma,tumor,Región tumoral,211.0,0.0002631063754412142,1206
+tumor_type,Meningioma,tumor,Región tumoral,213.0,0.0002534804950699165,1206
+tumor_type,Meningioma,tumor,Región tumoral,215.0,0.00023994508134835116,1206
+tumor_type,Meningioma,tumor,Región tumoral,217.0,0.00024104521971844966,1206
+tumor_type,Meningioma,tumor,Región tumoral,219.0,0.0002412622897264299,1206
+tumor_type,Meningioma,tumor,Región tumoral,221.0,0.00022813149200357096,1206
+tumor_type,Meningioma,tumor,Región tumoral,223.0,0.0002041543716653591,1206
+tumor_type,Meningioma,tumor,Región tumoral,225.0,0.00019943558375285959,1206
+tumor_type,Meningioma,tumor,Región tumoral,227.0,0.0001848530439576915,1206
+tumor_type,Meningioma,tumor,Región tumoral,229.0,0.00016235119192539304,1206
+tumor_type,Meningioma,tumor,Región tumoral,231.0,0.0001548730635715707,1206
+tumor_type,Meningioma,tumor,Región tumoral,233.0,0.0001499835521656676,1206
+tumor_type,Meningioma,tumor,Región tumoral,235.0,0.0001325598738000909,1206
+tumor_type,Meningioma,tumor,Región tumoral,237.0,0.000139224579748859,1206
+tumor_type,Meningioma,tumor,Región tumoral,239.0,0.00013375976929590316,1206
+tumor_type,Meningioma,tumor,Región tumoral,241.0,0.00012456113442006498,1206
+tumor_type,Meningioma,tumor,Región tumoral,243.0,0.00011191575120922861,1206
+tumor_type,Meningioma,tumor,Región tumoral,245.0,0.00012732120851583858,1206
+tumor_type,Meningioma,tumor,Región tumoral,247.0,0.0001406321438899958,1206
+tumor_type,Meningioma,tumor,Región tumoral,249.0,0.00016267444361612034,1206
+tumor_type,Meningioma,tumor,Región tumoral,251.0,0.00017943319371244843,1206
+tumor_type,Meningioma,tumor,Región tumoral,253.0,0.00018438311016140575,1206
+tumor_type,Meningioma,tumor,Región tumoral,255.0,0.0006941155059016935,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,1.0,0.00035054499022118694,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,3.0,0.0005451974760480026,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,5.0,0.0014815302039228922,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,7.0,0.00196647710866825,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,9.0,0.0020163787833139273,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,11.0,0.0020297014638256776,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,13.0,0.002099197198262033,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,15.0,0.002267117523144527,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,17.0,0.004416696216596589,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,19.0,0.00430590454651009,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,21.0,0.004265613619613108,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,23.0,0.004315389261799652,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,25.0,0.004395188904271657,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,27.0,0.004518270656711625,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,29.0,0.004693368185480402,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,31.0,0.004858155405375981,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,33.0,0.00505683773382242,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,35.0,0.0052655961214331335,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,37.0,0.005498034633126407,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,39.0,0.005770734248049794,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,41.0,0.006101171133367874,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,43.0,0.006488516289280198,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,45.0,0.006914919153306208,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,47.0,0.007389447664798683,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,49.0,0.007946901374249095,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,51.0,0.008546046894890427,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,53.0,0.009197379646533558,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,55.0,0.009843395043929783,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,57.0,0.010613058820469024,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,59.0,0.011341864379266006,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,61.0,0.012111221024466204,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,63.0,0.01294531690219312,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,65.0,0.01370093620061119,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,67.0,0.01437167831803987,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,69.0,0.014895890910119513,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,71.0,0.015268092370053915,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,73.0,0.01543157683806199,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,75.0,0.015403335451452385,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,77.0,0.015179938337720827,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,79.0,0.014719925722480069,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,81.0,0.014087645862371,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,83.0,0.013214866927577363,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,85.0,0.012276278338341077,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,87.0,0.01132166013619663,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,89.0,0.010296848636201136,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,91.0,0.009246288100615972,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,93.0,0.008318610659644622,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,95.0,0.007492532621346547,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,97.0,0.006736438433105815,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,99.0,0.0060455275591360935,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,101.0,0.00543518313390025,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,103.0,0.004868052655870915,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,105.0,0.004424139377336878,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,107.0,0.004055644563206805,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,109.0,0.003766415228307439,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,111.0,0.0035410473961507583,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,113.0,0.0033473472005298194,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,115.0,0.003180594608834304,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,117.0,0.003027947642994448,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,119.0,0.002890413395731402,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,121.0,0.0027707189524833154,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,123.0,0.002659681379280683,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,125.0,0.002553433537726905,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,127.0,0.0024601029954475053,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,129.0,0.002364966664876372,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,131.0,0.0022708471291468086,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,133.0,0.0021904601055950093,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,135.0,0.002112986107220487,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,137.0,0.0020449786604697564,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,139.0,0.001991563109501195,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,141.0,0.00192608270176321,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,143.0,0.0018625237415815852,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,145.0,0.001799827703317002,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,147.0,0.0017280489307648183,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,149.0,0.001677724090810113,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,151.0,0.001617147199201082,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,153.0,0.0015576434817328269,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,155.0,0.0015080467984888264,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,157.0,0.0014578481081529136,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,159.0,0.001398846683739677,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,161.0,0.0013506747166401412,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,163.0,0.0013041851373427227,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,165.0,0.0012578614118356028,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,167.0,0.001209880943456672,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,169.0,0.001165246744538351,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,171.0,0.001118544876084488,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,173.0,0.0010730565606302828,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,175.0,0.0010240354816483403,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,177.0,0.0009803154527977236,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,179.0,0.000935977136413366,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,181.0,0.000890806592031727,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,183.0,0.0008492924531065848,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,185.0,0.0008076591783776515,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,187.0,0.0007655008839497892,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,189.0,0.0007282164011555626,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,191.0,0.0006901126501079006,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,193.0,0.0006522411027911815,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,195.0,0.0006139229885796097,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,197.0,0.0005767642215921784,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,199.0,0.0005441954852880881,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,201.0,0.0005046296493702218,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,203.0,0.00047262415774069767,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,205.0,0.0004391757790861375,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,207.0,0.0004068947700429542,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,209.0,0.00037755829087032805,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,211.0,0.0003497054368663963,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,213.0,0.00032175888311006186,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,215.0,0.0002930963885824677,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,217.0,0.00026548397829141696,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,219.0,0.00023872067034660772,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,221.0,0.00021569275012000937,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,223.0,0.00019167246058767923,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,225.0,0.00016931904516033508,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,227.0,0.0001525657732467281,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,229.0,0.00013282902925380524,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,231.0,0.0001162788919250704,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,233.0,0.00010164417807667135,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,235.0,8.928765566048482e-05,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,237.0,7.551089300240636e-05,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,239.0,6.56497090872229e-05,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,241.0,5.523429082745275e-05,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,243.0,4.8186787536482204e-05,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,245.0,4.094251651680554e-05,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,247.0,3.852083581976102e-05,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,249.0,3.897884634466755e-05,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,251.0,4.131130941892297e-05,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,253.0,4.6605248761353935e-05,1206
+tumor_type,Meningioma,non_tumor,Región no tumoral,255.0,0.00011812404179217173,1206
+tumor_type,Pituitario,complete,Imagen completa,1.0,0.0003267905579584816,1439
+tumor_type,Pituitario,complete,Imagen completa,3.0,0.0006013650041704486,1439
+tumor_type,Pituitario,complete,Imagen completa,5.0,0.0015558487007293481,1439
+tumor_type,Pituitario,complete,Imagen completa,7.0,0.0026508576140969703,1439
+tumor_type,Pituitario,complete,Imagen completa,9.0,0.003216507638128202,1439
+tumor_type,Pituitario,complete,Imagen completa,11.0,0.0032558033962719374,1439
+tumor_type,Pituitario,complete,Imagen completa,13.0,0.0031299383095479104,1439
+tumor_type,Pituitario,complete,Imagen completa,15.0,0.0031112517420367404,1439
+tumor_type,Pituitario,complete,Imagen completa,17.0,0.005401834982758999,1439
+tumor_type,Pituitario,complete,Imagen completa,19.0,0.004968387906300601,1439
+tumor_type,Pituitario,complete,Imagen completa,21.0,0.004862103307623682,1439
+tumor_type,Pituitario,complete,Imagen completa,23.0,0.004913453359356733,1439
+tumor_type,Pituitario,complete,Imagen completa,25.0,0.005026273763520965,1439
+tumor_type,Pituitario,complete,Imagen completa,27.0,0.005177272033283078,1439
+tumor_type,Pituitario,complete,Imagen completa,29.0,0.005364423241797082,1439
+tumor_type,Pituitario,complete,Imagen completa,31.0,0.005584093365869514,1439
+tumor_type,Pituitario,complete,Imagen completa,33.0,0.005833576107433909,1439
+tumor_type,Pituitario,complete,Imagen completa,35.0,0.006089841172611649,1439
+tumor_type,Pituitario,complete,Imagen completa,37.0,0.006369172498075547,1439
+tumor_type,Pituitario,complete,Imagen completa,39.0,0.006646589552414862,1439
+tumor_type,Pituitario,complete,Imagen completa,41.0,0.006956419773015602,1439
+tumor_type,Pituitario,complete,Imagen completa,43.0,0.007324498711376444,1439
+tumor_type,Pituitario,complete,Imagen completa,45.0,0.007752858444519505,1439
+tumor_type,Pituitario,complete,Imagen completa,47.0,0.008241956796778485,1439
+tumor_type,Pituitario,complete,Imagen completa,49.0,0.008805250097469904,1439
+tumor_type,Pituitario,complete,Imagen completa,51.0,0.009444351424567411,1439
+tumor_type,Pituitario,complete,Imagen completa,53.0,0.010195345282507292,1439
+tumor_type,Pituitario,complete,Imagen completa,55.0,0.011059591393188715,1439
+tumor_type,Pituitario,complete,Imagen completa,57.0,0.012013308774917138,1439
+tumor_type,Pituitario,complete,Imagen completa,59.0,0.013007392037412076,1439
+tumor_type,Pituitario,complete,Imagen completa,61.0,0.01401088765396778,1439
+tumor_type,Pituitario,complete,Imagen completa,63.0,0.014959993693048658,1439
+tumor_type,Pituitario,complete,Imagen completa,65.0,0.015861198588928874,1439
+tumor_type,Pituitario,complete,Imagen completa,67.0,0.0165759384503018,1439
+tumor_type,Pituitario,complete,Imagen completa,69.0,0.017044549876207044,1439
+tumor_type,Pituitario,complete,Imagen completa,71.0,0.01718872903204528,1439
+tumor_type,Pituitario,complete,Imagen completa,73.0,0.017037289436361788,1439
+tumor_type,Pituitario,complete,Imagen completa,75.0,0.01663049511626227,1439
+tumor_type,Pituitario,complete,Imagen completa,77.0,0.015984211497064964,1439
+tumor_type,Pituitario,complete,Imagen completa,79.0,0.015101334161608785,1439
+tumor_type,Pituitario,complete,Imagen completa,81.0,0.01400605740195403,1439
+tumor_type,Pituitario,complete,Imagen completa,83.0,0.012757399325374473,1439
+tumor_type,Pituitario,complete,Imagen completa,85.0,0.011363564951512532,1439
+tumor_type,Pituitario,complete,Imagen completa,87.0,0.009922495729814585,1439
+tumor_type,Pituitario,complete,Imagen completa,89.0,0.008595468414503472,1439
+tumor_type,Pituitario,complete,Imagen completa,91.0,0.007402538857925672,1439
+tumor_type,Pituitario,complete,Imagen completa,93.0,0.006391129984423742,1439
+tumor_type,Pituitario,complete,Imagen completa,95.0,0.005526268476962805,1439
+tumor_type,Pituitario,complete,Imagen completa,97.0,0.004832088329720183,1439
+tumor_type,Pituitario,complete,Imagen completa,99.0,0.00430774521048064,1439
+tumor_type,Pituitario,complete,Imagen completa,101.0,0.003895519881941413,1439
+tumor_type,Pituitario,complete,Imagen completa,103.0,0.0035680313645343946,1439
+tumor_type,Pituitario,complete,Imagen completa,105.0,0.0033258741719591925,1439
+tumor_type,Pituitario,complete,Imagen completa,107.0,0.003128112470485481,1439
+tumor_type,Pituitario,complete,Imagen completa,109.0,0.0029696855656768956,1439
+tumor_type,Pituitario,complete,Imagen completa,111.0,0.002851153993425298,1439
+tumor_type,Pituitario,complete,Imagen completa,113.0,0.0027468006778576526,1439
+tumor_type,Pituitario,complete,Imagen completa,115.0,0.002652313054931407,1439
+tumor_type,Pituitario,complete,Imagen completa,117.0,0.0025670623209783044,1439
+tumor_type,Pituitario,complete,Imagen completa,119.0,0.0024775395322309515,1439
+tumor_type,Pituitario,complete,Imagen completa,121.0,0.002389034832826399,1439
+tumor_type,Pituitario,complete,Imagen completa,123.0,0.002293865759194465,1439
+tumor_type,Pituitario,complete,Imagen completa,125.0,0.002202757810541344,1439
+tumor_type,Pituitario,complete,Imagen completa,127.0,0.0021217401684857063,1439
+tumor_type,Pituitario,complete,Imagen completa,129.0,0.002034380587359936,1439
+tumor_type,Pituitario,complete,Imagen completa,131.0,0.001946331190068523,1439
+tumor_type,Pituitario,complete,Imagen completa,133.0,0.0018570588239949868,1439
+tumor_type,Pituitario,complete,Imagen completa,135.0,0.0017710448337795784,1439
+tumor_type,Pituitario,complete,Imagen completa,137.0,0.0016867655548394908,1439
+tumor_type,Pituitario,complete,Imagen completa,139.0,0.0015959862845239278,1439
+tumor_type,Pituitario,complete,Imagen completa,141.0,0.0015126505788897572,1439
+tumor_type,Pituitario,complete,Imagen completa,143.0,0.0014308276687097297,1439
+tumor_type,Pituitario,complete,Imagen completa,145.0,0.0013570124340286142,1439
+tumor_type,Pituitario,complete,Imagen completa,147.0,0.0012824203739023928,1439
+tumor_type,Pituitario,complete,Imagen completa,149.0,0.0012115822548309815,1439
+tumor_type,Pituitario,complete,Imagen completa,151.0,0.001142412865109847,1439
+tumor_type,Pituitario,complete,Imagen completa,153.0,0.0010817893574429542,1439
+tumor_type,Pituitario,complete,Imagen completa,155.0,0.0010197923349002105,1439
+tumor_type,Pituitario,complete,Imagen completa,157.0,0.0009626054549472013,1439
+tumor_type,Pituitario,complete,Imagen completa,159.0,0.0009092387585296687,1439
+tumor_type,Pituitario,complete,Imagen completa,161.0,0.0008598955374261911,1439
+tumor_type,Pituitario,complete,Imagen completa,163.0,0.0008187833741186387,1439
+tumor_type,Pituitario,complete,Imagen completa,165.0,0.0007735446933844636,1439
+tumor_type,Pituitario,complete,Imagen completa,167.0,0.0007366870929925367,1439
+tumor_type,Pituitario,complete,Imagen completa,169.0,0.0007010847309552821,1439
+tumor_type,Pituitario,complete,Imagen completa,171.0,0.000666838561696237,1439
+tumor_type,Pituitario,complete,Imagen completa,173.0,0.0006374307638310971,1439
+tumor_type,Pituitario,complete,Imagen completa,175.0,0.0006064207815713772,1439
+tumor_type,Pituitario,complete,Imagen completa,177.0,0.000573539364808739,1439
+tumor_type,Pituitario,complete,Imagen completa,179.0,0.0005462045182277372,1439
+tumor_type,Pituitario,complete,Imagen completa,181.0,0.0005179593435899435,1439
+tumor_type,Pituitario,complete,Imagen completa,183.0,0.000491375623398215,1439
+tumor_type,Pituitario,complete,Imagen completa,185.0,0.0004621546414515182,1439
+tumor_type,Pituitario,complete,Imagen completa,187.0,0.0004363381603070709,1439
+tumor_type,Pituitario,complete,Imagen completa,189.0,0.00041006283801956384,1439
+tumor_type,Pituitario,complete,Imagen completa,191.0,0.00038143123434434563,1439
+tumor_type,Pituitario,complete,Imagen completa,193.0,0.0003597323551453406,1439
+tumor_type,Pituitario,complete,Imagen completa,195.0,0.00033445758113195633,1439
+tumor_type,Pituitario,complete,Imagen completa,197.0,0.00031088319191641356,1439
+tumor_type,Pituitario,complete,Imagen completa,199.0,0.00028919986562778003,1439
+tumor_type,Pituitario,complete,Imagen completa,201.0,0.0002686399827509028,1439
+tumor_type,Pituitario,complete,Imagen completa,203.0,0.0002506396764098795,1439
+tumor_type,Pituitario,complete,Imagen completa,205.0,0.00022921846562690376,1439
+tumor_type,Pituitario,complete,Imagen completa,207.0,0.00021165081100888095,1439
+tumor_type,Pituitario,complete,Imagen completa,209.0,0.00019266666100722004,1439
+tumor_type,Pituitario,complete,Imagen completa,211.0,0.00017697314784559035,1439
+tumor_type,Pituitario,complete,Imagen completa,213.0,0.00016159824438883875,1439
+tumor_type,Pituitario,complete,Imagen completa,215.0,0.00014680251682919814,1439
+tumor_type,Pituitario,complete,Imagen completa,217.0,0.0001327289603202343,1439
+tumor_type,Pituitario,complete,Imagen completa,219.0,0.00011960163876900581,1439
+tumor_type,Pituitario,complete,Imagen completa,221.0,0.00010823887348579342,1439
+tumor_type,Pituitario,complete,Imagen completa,223.0,9.75608805185663e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,225.0,8.670144347194579e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,227.0,7.675466254468904e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,229.0,6.803867412193301e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,231.0,5.8435273775818746e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,233.0,5.072516296521969e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,235.0,4.44172147741121e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,237.0,3.725498344680857e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,239.0,3.1325714623016384e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,241.0,2.6298824351594745e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,243.0,2.1517886607269536e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,245.0,1.753688531965731e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,247.0,1.4683393842145535e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,249.0,1.2405820262648461e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,251.0,1.3185013661526181e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,253.0,1.6295790845746213e-05,1439
+tumor_type,Pituitario,complete,Imagen completa,255.0,3.694700334495685e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,1.0,6.435859352985234e-06,1439
+tumor_type,Pituitario,tumor,Región tumoral,3.0,1.3761998625199053e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,5.0,3.455657086191776e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,7.0,7.615552648918011e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,9.0,0.0001118766268724381,1439
+tumor_type,Pituitario,tumor,Región tumoral,11.0,0.00014615061515163558,1439
+tumor_type,Pituitario,tumor,Región tumoral,13.0,0.0001721140233315944,1439
+tumor_type,Pituitario,tumor,Región tumoral,15.0,0.00018211588621900421,1439
+tumor_type,Pituitario,tumor,Región tumoral,17.0,0.00020415491614820971,1439
+tumor_type,Pituitario,tumor,Región tumoral,19.0,0.00023502956684471897,1439
+tumor_type,Pituitario,tumor,Región tumoral,21.0,0.0002652865250177833,1439
+tumor_type,Pituitario,tumor,Región tumoral,23.0,0.0003058121878723535,1439
+tumor_type,Pituitario,tumor,Región tumoral,25.0,0.00038488410950925534,1439
+tumor_type,Pituitario,tumor,Región tumoral,27.0,0.0005125314209677818,1439
+tumor_type,Pituitario,tumor,Región tumoral,29.0,0.0006199132894537853,1439
+tumor_type,Pituitario,tumor,Región tumoral,31.0,0.0007567812213095325,1439
+tumor_type,Pituitario,tumor,Región tumoral,33.0,0.0008768906929620768,1439
+tumor_type,Pituitario,tumor,Región tumoral,35.0,0.001041985814914631,1439
+tumor_type,Pituitario,tumor,Región tumoral,37.0,0.0012443734172898414,1439
+tumor_type,Pituitario,tumor,Región tumoral,39.0,0.0014565649791160565,1439
+tumor_type,Pituitario,tumor,Región tumoral,41.0,0.0017133412893676101,1439
+tumor_type,Pituitario,tumor,Región tumoral,43.0,0.002043274389570181,1439
+tumor_type,Pituitario,tumor,Región tumoral,45.0,0.0023698660203985075,1439
+tumor_type,Pituitario,tumor,Región tumoral,47.0,0.002588165524493054,1439
+tumor_type,Pituitario,tumor,Región tumoral,49.0,0.0029238396010654905,1439
+tumor_type,Pituitario,tumor,Región tumoral,51.0,0.0032666409344458587,1439
+tumor_type,Pituitario,tumor,Región tumoral,53.0,0.003629457570504307,1439
+tumor_type,Pituitario,tumor,Región tumoral,55.0,0.003974064326710472,1439
+tumor_type,Pituitario,tumor,Región tumoral,57.0,0.004349834813833675,1439
+tumor_type,Pituitario,tumor,Región tumoral,59.0,0.0047463723261781795,1439
+tumor_type,Pituitario,tumor,Región tumoral,61.0,0.00518277980554107,1439
+tumor_type,Pituitario,tumor,Región tumoral,63.0,0.005637220211659442,1439
+tumor_type,Pituitario,tumor,Región tumoral,65.0,0.006129799389422572,1439
+tumor_type,Pituitario,tumor,Región tumoral,67.0,0.0065845179932205265,1439
+tumor_type,Pituitario,tumor,Región tumoral,69.0,0.007225754381711654,1439
+tumor_type,Pituitario,tumor,Región tumoral,71.0,0.007741077710244366,1439
+tumor_type,Pituitario,tumor,Región tumoral,73.0,0.008484320938611524,1439
+tumor_type,Pituitario,tumor,Región tumoral,75.0,0.009080581797403434,1439
+tumor_type,Pituitario,tumor,Región tumoral,77.0,0.009922587330771426,1439
+tumor_type,Pituitario,tumor,Región tumoral,79.0,0.010604380248096937,1439
+tumor_type,Pituitario,tumor,Región tumoral,81.0,0.011195723962010169,1439
+tumor_type,Pituitario,tumor,Región tumoral,83.0,0.011481933689976983,1439
+tumor_type,Pituitario,tumor,Región tumoral,85.0,0.011832278563201836,1439
+tumor_type,Pituitario,tumor,Región tumoral,87.0,0.012088949884853163,1439
+tumor_type,Pituitario,tumor,Región tumoral,89.0,0.012205609267258766,1439
+tumor_type,Pituitario,tumor,Región tumoral,91.0,0.012211080634913727,1439
+tumor_type,Pituitario,tumor,Región tumoral,93.0,0.012486902321124996,1439
+tumor_type,Pituitario,tumor,Región tumoral,95.0,0.012478725111533277,1439
+tumor_type,Pituitario,tumor,Región tumoral,97.0,0.012610079092295206,1439
+tumor_type,Pituitario,tumor,Región tumoral,99.0,0.01292113609595568,1439
+tumor_type,Pituitario,tumor,Región tumoral,101.0,0.013146034299159684,1439
+tumor_type,Pituitario,tumor,Región tumoral,103.0,0.01320181347799789,1439
+tumor_type,Pituitario,tumor,Región tumoral,105.0,0.01328667339748163,1439
+tumor_type,Pituitario,tumor,Región tumoral,107.0,0.01299891630986408,1439
+tumor_type,Pituitario,tumor,Región tumoral,109.0,0.012921446100720803,1439
+tumor_type,Pituitario,tumor,Región tumoral,111.0,0.012678183923840987,1439
+tumor_type,Pituitario,tumor,Región tumoral,113.0,0.012588819710937092,1439
+tumor_type,Pituitario,tumor,Región tumoral,115.0,0.012239824496237558,1439
+tumor_type,Pituitario,tumor,Región tumoral,117.0,0.01202774133297891,1439
+tumor_type,Pituitario,tumor,Región tumoral,119.0,0.011559846304679648,1439
+tumor_type,Pituitario,tumor,Región tumoral,121.0,0.010893019096583564,1439
+tumor_type,Pituitario,tumor,Región tumoral,123.0,0.010390251236462941,1439
+tumor_type,Pituitario,tumor,Región tumoral,125.0,0.009776903601350537,1439
+tumor_type,Pituitario,tumor,Región tumoral,127.0,0.009251989445469717,1439
+tumor_type,Pituitario,tumor,Región tumoral,129.0,0.008712606585685703,1439
+tumor_type,Pituitario,tumor,Región tumoral,131.0,0.00812840405791617,1439
+tumor_type,Pituitario,tumor,Región tumoral,133.0,0.007545255030523911,1439
+tumor_type,Pituitario,tumor,Región tumoral,135.0,0.006938049286377412,1439
+tumor_type,Pituitario,tumor,Región tumoral,137.0,0.006454710802698942,1439
+tumor_type,Pituitario,tumor,Región tumoral,139.0,0.005875653822452066,1439
+tumor_type,Pituitario,tumor,Región tumoral,141.0,0.005373741045648466,1439
+tumor_type,Pituitario,tumor,Región tumoral,143.0,0.004825034710018254,1439
+tumor_type,Pituitario,tumor,Región tumoral,145.0,0.004326149701783209,1439
+tumor_type,Pituitario,tumor,Región tumoral,147.0,0.0039129806019346895,1439
+tumor_type,Pituitario,tumor,Región tumoral,149.0,0.003513391212190969,1439
+tumor_type,Pituitario,tumor,Región tumoral,151.0,0.0031410512259586326,1439
+tumor_type,Pituitario,tumor,Región tumoral,153.0,0.0028435264644936335,1439
+tumor_type,Pituitario,tumor,Región tumoral,155.0,0.0025103737067490393,1439
+tumor_type,Pituitario,tumor,Región tumoral,157.0,0.002220789397726365,1439
+tumor_type,Pituitario,tumor,Región tumoral,159.0,0.0019378450137772197,1439
+tumor_type,Pituitario,tumor,Región tumoral,161.0,0.0018024582564993494,1439
+tumor_type,Pituitario,tumor,Región tumoral,163.0,0.0015831371208243046,1439
+tumor_type,Pituitario,tumor,Región tumoral,165.0,0.0013805621072220447,1439
+tumor_type,Pituitario,tumor,Región tumoral,167.0,0.001268733752914869,1439
+tumor_type,Pituitario,tumor,Región tumoral,169.0,0.0011021790761332614,1439
+tumor_type,Pituitario,tumor,Región tumoral,171.0,0.0009732287271035853,1439
+tumor_type,Pituitario,tumor,Región tumoral,173.0,0.0008931777527998451,1439
+tumor_type,Pituitario,tumor,Región tumoral,175.0,0.0008265069237143821,1439
+tumor_type,Pituitario,tumor,Región tumoral,177.0,0.0007111973134380313,1439
+tumor_type,Pituitario,tumor,Región tumoral,179.0,0.0006668126788905192,1439
+tumor_type,Pituitario,tumor,Región tumoral,181.0,0.0005875846467725157,1439
+tumor_type,Pituitario,tumor,Región tumoral,183.0,0.0005423274336812995,1439
+tumor_type,Pituitario,tumor,Región tumoral,185.0,0.0004792576074408652,1439
+tumor_type,Pituitario,tumor,Región tumoral,187.0,0.0004388072329484801,1439
+tumor_type,Pituitario,tumor,Región tumoral,189.0,0.0003954545369930766,1439
+tumor_type,Pituitario,tumor,Región tumoral,191.0,0.0003632569325211028,1439
+tumor_type,Pituitario,tumor,Región tumoral,193.0,0.0002996293398240678,1439
+tumor_type,Pituitario,tumor,Región tumoral,195.0,0.0002588397671192823,1439
+tumor_type,Pituitario,tumor,Región tumoral,197.0,0.0002402421915815122,1439
+tumor_type,Pituitario,tumor,Región tumoral,199.0,0.00022097961796664137,1439
+tumor_type,Pituitario,tumor,Región tumoral,201.0,0.00019655080180207925,1439
+tumor_type,Pituitario,tumor,Región tumoral,203.0,0.0001465167483932406,1439
+tumor_type,Pituitario,tumor,Región tumoral,205.0,0.00012935084446937594,1439
+tumor_type,Pituitario,tumor,Región tumoral,207.0,0.00011025502141764306,1439
+tumor_type,Pituitario,tumor,Región tumoral,209.0,9.105779975413564e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,211.0,8.019644270932957e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,213.0,6.998819202537842e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,215.0,5.613737159429901e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,217.0,5.6466512606795015e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,219.0,4.7922680937249e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,221.0,4.425471044260575e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,223.0,3.8380527984019876e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,225.0,3.545592982144101e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,227.0,3.5035917937609996e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,229.0,2.1420814245755017e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,231.0,2.1795128574475404e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,233.0,1.852954988539718e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,235.0,2.1526128290002062e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,237.0,1.6277708208994958e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,239.0,1.5618686955675113e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,241.0,1.639550874131789e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,243.0,1.3544172244500429e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,245.0,1.3010290444546891e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,247.0,1.44399832573475e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,249.0,1.6774797149620055e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,251.0,1.5409533896108426e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,253.0,1.638544710126515e-05,1439
+tumor_type,Pituitario,tumor,Región tumoral,255.0,2.823385833710307e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,1.0,0.00033567879942415026,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,3.0,0.0006106327854918845,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,5.0,0.0015789208694126978,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,7.0,0.0026901096967148516,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,9.0,0.003264394538332854,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,11.0,0.0033042957218789365,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,13.0,0.003176745471507723,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,15.0,0.003157708171803833,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,17.0,0.005482910577085211,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,19.0,0.0050421804798141175,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,21.0,0.004933409072417687,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,23.0,0.004984828598780558,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,25.0,0.00509858829684583,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,27.0,0.005250418894023369,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,29.0,0.005439473061486147,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,31.0,0.005660905487816871,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,33.0,0.005913078246841423,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,35.0,0.006171701380009006,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,37.0,0.006452935608931426,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,39.0,0.006731558677090826,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,41.0,0.007042323531465694,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,43.0,0.0074108923075081315,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,45.0,0.007840313557129611,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,47.0,0.008333275274611337,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,49.0,0.00890012414123022,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,51.0,0.009544586842496452,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,53.0,0.010301389984035769,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,55.0,0.011172728454161446,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,57.0,0.012134425516551355,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,59.0,0.013137372783105637,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,61.0,0.014148426734777347,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,63.0,0.015106301147413289,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,65.0,0.01601466026051015,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,67.0,0.016733374641341146,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,69.0,0.01720287225126581,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,71.0,0.017342959793840942,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,73.0,0.017180382888720577,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,75.0,0.01676017279823369,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,77.0,0.016094060512861493,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,79.0,0.015189747775402412,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,81.0,0.014071370476831305,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,83.0,0.012796767943511533,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,85.0,0.011373445435760583,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,87.0,0.009902917806995083,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,89.0,0.008548799695332432,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,91.0,0.007332755125457965,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,93.0,0.006298428397121451,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,95.0,0.005415464455720909,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,97.0,0.004704954185730563,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,99.0,0.004163506355087542,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,101.0,0.003737066869604691,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,103.0,0.003400534892314789,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,105.0,0.0031511596319094646,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,107.0,0.00295119095492437,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,109.0,0.002789851852255972,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,111.0,0.002674620613068586,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,113.0,0.0025701780895606616,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,115.0,0.002479557459341969,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,117.0,0.0023979874063189337,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,119.0,0.002315425158080702,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,121.0,0.0022381693804706332,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,123.0,0.002153446500890518,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,125.0,0.0020719363716828966,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,127.0,0.0019992268841003595,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,129.0,0.0019222799126044742,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,131.0,0.0018436663190802257,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,133.0,0.001764831336526733,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,135.0,0.0016884254700679068,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,137.0,0.0016125915110903465,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,139.0,0.0015302310521582776,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,141.0,0.0014550359709267328,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,143.0,0.0013812291604849065,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,145.0,0.001315161589701878,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,147.0,0.0012459815791025118,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,149.0,0.0011808525567565177,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,151.0,0.0011158172713185695,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,153.0,0.0010591726904977737,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,155.0,0.0010006085615174036,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,157.0,0.0009471643512033029,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,159.0,0.0008970367856570645,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,161.0,0.0008495538978741063,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,163.0,0.0008110453116444391,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,165.0,0.0007677112912735899,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,167.0,0.0007321318563927163,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,169.0,0.0006982083721697884,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,171.0,0.0006653163863000933,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,173.0,0.0006365106121349023,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,175.0,0.000605979390832169,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,177.0,0.0005739151525899919,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,179.0,0.0005470053028350692,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,181.0,0.0005193865734774337,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,183.0,0.000492968881305287,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,185.0,0.0004639843040657329,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,187.0,0.000438361176636502,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,189.0,0.0004120862077410961,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,191.0,0.0003833933455382357,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,193.0,0.00036188700810806974,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,195.0,0.00033667892278860966,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,197.0,0.00031290884677948603,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,199.0,0.0002911766741552224,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,201.0,0.0002705558135334905,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,203.0,0.00025276011488475876,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,205.0,0.0002311621742394739,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,207.0,0.00021362840548734948,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,209.0,0.00019455901060792176,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,211.0,0.0001785970539785267,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,213.0,0.00016326720567347216,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,215.0,0.0001484748965328551,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,217.0,0.00013409331256593102,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,219.0,0.00012077224595839684,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,221.0,0.00010923623116394073,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,223.0,9.838817200378962e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,225.0,8.743028801343762e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,227.0,7.727794542338914e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,229.0,6.874477314894667e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,231.0,5.888719843527907e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,233.0,5.114167212411808e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,235.0,4.4575987968763785e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,237.0,3.747514009772816e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,239.0,3.1457924752270616e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,241.0,2.6279205301143406e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,243.0,2.1473304065909098e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,245.0,1.7413791231452974e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,247.0,1.4424909060084737e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,249.0,1.2068584139704483e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,251.0,1.292358563075332e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,253.0,1.6141890624285598e-05,1439
+tumor_type,Pituitario,non_tumor,Región no tumoral,255.0,3.68659555699054e-05,1439

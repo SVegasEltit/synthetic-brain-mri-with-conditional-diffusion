@@ -1,0 +1,19 @@
+factor,region,region_label,group_1,group_2,n_1,n_2,distance_exponent,energy_distance,n_permutations,p_value,p_holm_within_test,significant_holm
+Plano anatómico,complete,Imagen completa,Axial,Coronal,1166,1332,1.0,0.011801515994733211,999,0.001,0.003,True
+Plano anatómico,complete,Imagen completa,Axial,Sagital,1166,1294,1.0,0.01029740154437006,999,0.001,0.003,True
+Plano anatómico,complete,Imagen completa,Coronal,Sagital,1332,1294,1.0,0.0008680297905746398,999,0.001,0.003,True
+Plano anatómico,non_tumor,Región no tumoral,Axial,Coronal,1166,1332,1.0,0.012330868768462372,999,0.001,0.003,True
+Plano anatómico,non_tumor,Región no tumoral,Axial,Sagital,1166,1294,1.0,0.01076285876791401,999,0.001,0.003,True
+Plano anatómico,non_tumor,Región no tumoral,Coronal,Sagital,1332,1294,1.0,0.0008989867562493176,999,0.001,0.003,True
+Plano anatómico,tumor,Región tumoral,Axial,Coronal,1166,1332,1.0,0.0028905533683468987,999,0.001,0.003,True
+Plano anatómico,tumor,Región tumoral,Axial,Sagital,1166,1294,1.0,0.004644822174338148,999,0.001,0.003,True
+Plano anatómico,tumor,Región tumoral,Coronal,Sagital,1332,1294,1.0,0.002653731996240888,999,0.001,0.003,True
+Tipo de tumor,complete,Imagen completa,Glioma,Meningioma,1147,1206,1.0,0.02820522428199025,999,0.001,0.003,True
+Tipo de tumor,complete,Imagen completa,Glioma,Pituitario,1147,1439,1.0,0.018619135948288984,999,0.001,0.003,True
+Tipo de tumor,complete,Imagen completa,Meningioma,Pituitario,1206,1439,1.0,0.00689164792749615,999,0.001,0.003,True
+Tipo de tumor,non_tumor,Región no tumoral,Glioma,Meningioma,1147,1206,1.0,0.02586341389364885,999,0.001,0.003,True
+Tipo de tumor,non_tumor,Región no tumoral,Glioma,Pituitario,1147,1439,1.0,0.01820586247997845,999,0.001,0.003,True
+Tipo de tumor,non_tumor,Región no tumoral,Meningioma,Pituitario,1206,1439,1.0,0.00549625159286983,999,0.001,0.003,True
+Tipo de tumor,tumor,Región tumoral,Glioma,Meningioma,1147,1206,1.0,0.09742965096778947,999,0.001,0.003,True
+Tipo de tumor,tumor,Región tumoral,Glioma,Pituitario,1147,1439,1.0,0.06013997333592164,999,0.001,0.003,True
+Tipo de tumor,tumor,Región tumoral,Meningioma,Pituitario,1206,1439,1.0,0.017235966847879536,999,0.001,0.003,True

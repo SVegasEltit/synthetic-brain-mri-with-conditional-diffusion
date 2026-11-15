@@ -1,0 +1,32 @@
+{
+  "base_dir": "data/BRISC2025/segmentation_task/train",
+  "images_dir": "data/BRISC2025/segmentation_task/train/images",
+  "masks_dir": "data/BRISC2025/segmentation_task/train/masks",
+  "output_dir": "results/OE1/analisis_distribucional_DISCO",
+  "background_method": "low_intensity_connected_to_border",
+  "background_threshold": 15,
+  "connectivity": "eight_neighbors",
+  "mask_threshold": 127,
+  "min_pixels_per_region": 10,
+  "normalization": "none",
+  "n_intensity_bins": 128,
+  "main_distribution_test": "DISCO",
+  "disco_distance": "euclidean_between_normalized_histograms",
+  "disco_distance_exponent": 1.0,
+  "disco_permutations": 999,
+  "energy_pairwise_permutations": 999,
+  "stratified_permutations": true,
+  "secondary_test": "Kruskal-Wallis",
+  "secondary_test_metrics": [
+    "median",
+    "iqr",
+    "skewness",
+    "kurtosis"
+  ],
+  "secondary_pairwise_test": "Mann-Whitney U",
+  "alpha": 0.05,
+  "random_seed": 2026,
+  "n_pairs_detected": 3792,
+  "n_images_processed": 3792,
+  "n_processing_errors": 0
+}

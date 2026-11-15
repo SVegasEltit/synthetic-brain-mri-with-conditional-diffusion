@@ -1,0 +1,4 @@
+model,weight,wasserstein_global_mean_6,rank_wasserstein_global
+w=0.1,0.1,0.11158926898770909,2
+w=0.5,0.5,0.1425141461590468,3
+w=1.0,1.0,0.10329933184021078,1
