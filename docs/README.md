@@ -3,7 +3,13 @@
 <p align="center">
   <img src="banner.png" alt="Evolución de una imagen de resonancia magnética cerebral en seis estados del entrenamiento" width="100%">
 </p><p align="center">
-
+  
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.11.0-EE4C2C?logo=pytorch&logoColor=white)
+![Diffusion Models](https://img.shields.io/badge/Models-Diffusion-6D28D9)
+![Dataset](https://img.shields.io/badge/Dataset-BRISC2025-2D6A4F)
+![Synthetic Pairs](https://img.shields.io/badge/Synthetic%20Pairs-1%2C260-2563EB)
+  
 ## Descripción del proyecto
 
 Este repositorio reúne el código, los procedimientos experimentales y los resultados del proyecto de título «Síntesis de imágenes de resonancia magnética cerebral mediante modelos de difusión condicionados», desarrollado en el marco de la carrera de Ingeniería en Estadística y Ciencia de Datos de la Universidad de Valparaíso, Chile, para optar al título profesional de Ingeniero en Estadística y Ciencia de Datos.
@@ -50,7 +56,7 @@ La colección final contiene 1.260 pares imagen–máscara, distribuidos de form
 
 <p align="center"><em>Muestra de imágenes sintéticas generadas. El contorno rojo representa la máscara tumoral generada correspondiente a cada imagen.</em></p>
 
-Los pares sintéticos finales se organizan en [`synthetic-pairs/`](synthetic-pairs/):
+Los archivos finales se organizan en [`synthetic-pairs/`](../synthetic-pairs/):
 
 ```text
 synthetic-pairs/
