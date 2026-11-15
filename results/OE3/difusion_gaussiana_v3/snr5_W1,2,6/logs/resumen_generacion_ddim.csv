@@ -1,0 +1,9 @@
+configuracion,imagenes,n_condiciones,segundos_ejecucion,carpeta
+ddim_steps50_eta0p0,900,9,0.1830057000000238,"K:\Tesis\Github estructura\results\objetivo_especifico_3\V3\snr5_W1,2,6\pruebas_muestreo_DDIM\ddim_steps50_eta0p0"
+ddim_steps50_eta0p2,900,9,0.17085550000001604,"K:\Tesis\Github estructura\results\objetivo_especifico_3\V3\snr5_W1,2,6\pruebas_muestreo_DDIM\ddim_steps50_eta0p2"
+ddim_steps100_eta0p0,900,9,0.17231629999997722,"K:\Tesis\Github estructura\results\objetivo_especifico_3\V3\snr5_W1,2,6\pruebas_muestreo_DDIM\ddim_steps100_eta0p0"
+ddim_steps100_eta0p2,900,9,0.16920179999999618,"K:\Tesis\Github estructura\results\objetivo_especifico_3\V3\snr5_W1,2,6\pruebas_muestreo_DDIM\ddim_steps100_eta0p2"
+ddim_steps200_eta0p0,900,9,0.17821340000000419,"K:\Tesis\Github estructura\results\objetivo_especifico_3\V3\snr5_W1,2,6\pruebas_muestreo_DDIM\ddim_steps200_eta0p0"
+ddim_steps200_eta0p2,900,9,0.172338400000001,"K:\Tesis\Github estructura\results\objetivo_especifico_3\V3\snr5_W1,2,6\pruebas_muestreo_DDIM\ddim_steps200_eta0p2"
+ddim_steps300_eta0p0,900,9,15630.530295800001,"K:\Tesis\Github estructura\results\objetivo_especifico_3\V3\snr5_W1,2,6\pruebas_muestreo_DDIM\ddim_steps300_eta0p0"
+ddim_steps300_eta0p2,900,9,16404.7316932,"K:\Tesis\Github estructura\results\objetivo_especifico_3\V3\snr5_W1,2,6\pruebas_muestreo_DDIM\ddim_steps300_eta0p2"

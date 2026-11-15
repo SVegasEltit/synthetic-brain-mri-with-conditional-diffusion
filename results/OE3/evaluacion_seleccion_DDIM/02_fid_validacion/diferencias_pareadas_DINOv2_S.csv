@@ -1,0 +1,9 @@
+﻿config,media_FID_menos_referencia,mediana_diferencia,porcentaje_FID_inferior_a_referencia,referencia
+ddim_steps100_eta0p0,7.851042808859158,7.8140682898905425,0.5,ddim_steps300_eta0p2
+ddim_steps100_eta0p2,7.491172545951589,7.368434473877414,0.0,ddim_steps300_eta0p2
+ddim_steps200_eta0p0,4.306298513682514,4.33691963899787,5.3,ddim_steps300_eta0p2
+ddim_steps200_eta0p2,1.8296257004796133,1.7797211504343977,10.0,ddim_steps300_eta0p2
+ddim_steps300_eta0p0,2.89120066013754,2.9016648836752665,14.399999999999999,ddim_steps300_eta0p2
+ddim_steps300_eta0p2,0.0,0.0,0.0,ddim_steps300_eta0p2
+ddim_steps50_eta0p0,23.196194523975734,23.161194242133547,0.0,ddim_steps300_eta0p2
+ddim_steps50_eta0p2,16.948428316898752,16.89109538122557,0.0,ddim_steps300_eta0p2

@@ -1,0 +1,44 @@
+{
+  "version": "OE3_V3",
+  "checkpoint": "K:\\Tesis\\Github\\results\\OE3\\difusion_gaussiana_v3\\snr5_W1,2,6\\checkpoints\\best_val_ema.pt",
+  "training_config_hash": "608f8462",
+  "mask_source": "K:\\Tesis\\Github\\results\\OE2\\difusion_bernoulli\\final\\roiOE1_peso10\\mascaras_sinteticas_finales\\suavizado200\\aceptadas",
+  "mask_selection_seed": 2026,
+  "base_seed": 10000,
+  "n_per_condition": 100,
+  "ddim_configs": [
+    {
+      "steps": 50,
+      "eta": 0.0
+    },
+    {
+      "steps": 50,
+      "eta": 0.2
+    },
+    {
+      "steps": 100,
+      "eta": 0.0
+    },
+    {
+      "steps": 100,
+      "eta": 0.2
+    },
+    {
+      "steps": 200,
+      "eta": 0.0
+    },
+    {
+      "steps": 200,
+      "eta": 0.2
+    },
+    {
+      "steps": 300,
+      "eta": 0.0
+    },
+    {
+      "steps": 300,
+      "eta": 0.2
+    }
+  ],
+  "generation_batch_size": 1
+}

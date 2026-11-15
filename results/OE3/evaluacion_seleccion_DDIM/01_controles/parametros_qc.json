@@ -1,0 +1,15 @@
+{
+  "version": "qc_AR_BE_20261109_v1",
+  "indicators": [
+    "AR",
+    "BE"
+  ],
+  "ar_low": 0.01,
+  "be_high": 0.99,
+  "region_threshold": 15,
+  "be_brightness_threshold": 22,
+  "spatial_region": "C15",
+  "ar_calibration": "plane -> global, minimum 25 real images per group",
+  "be_calibration": "condition -> tumor -> global, minimum 25 real images per group",
+  "selection_status": "exploratory; no automatic rejection"
+}

@@ -1,0 +1,9 @@
+﻿config,n,AR_bajo,BE_alto,alguna_alerta,AR_bajo_pct,BE_alto_pct,alguna_alerta_pct
+ddim_steps50_eta0p0,900,0,25,25,0.0,2.78,2.78
+ddim_steps50_eta0p2,900,0,20,20,0.0,2.22,2.22
+ddim_steps100_eta0p0,900,0,18,18,0.0,2.0,2.0
+ddim_steps100_eta0p2,900,0,16,16,0.0,1.78,1.78
+ddim_steps200_eta0p0,900,0,19,19,0.0,2.11,2.11
+ddim_steps200_eta0p2,900,0,16,16,0.0,1.78,1.78
+ddim_steps300_eta0p0,900,0,19,19,0.0,2.11,2.11
+ddim_steps300_eta0p2,900,0,15,15,0.0,1.67,1.67

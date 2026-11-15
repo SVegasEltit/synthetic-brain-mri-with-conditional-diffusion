@@ -1,0 +1,17 @@
+{
+  "version": "OE3_V3",
+  "tag": "ddim_steps50_eta0p2",
+  "steps": 50,
+  "eta": 0.2,
+  "seed": 10000,
+  "image_size": 256,
+  "edt_radius": 16,
+  "mask_threshold": 127,
+  "n_per_condition": 100,
+  "masks_sha256": "5aa8a51fc744329cf48eca18e677ec8f991a1e5926a78cd77121cbbc68a2e948",
+  "checkpoint_sha256": "c623672287d140889b2e7741c009f099ed31260a62752c96d7a74249e973bd76",
+  "checkpoint": "K:\\Tesis\\Github estructura\\results\\objetivo_especifico_3\\V3\\snr5_W1,2,6\\checkpoints\\best_val_ema.pt",
+  "checkpoint_epoch": 83,
+  "training_config_hash": "e0b30933",
+  "mask_root": "K:\\Tesis\\Github estructura\\results\\objetivo_especifico_2\\bernoulli\\final\\roiOE1_peso10\\mascaras_sinteticas_finales\\suavizado200\\aceptadas"
+}
